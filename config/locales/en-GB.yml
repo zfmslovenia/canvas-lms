@@ -997,7 +997,7 @@ en-GB:
       add_announcement_button: "Add announcement"
       add_announcement_link: "Add a new announcement"
       add_ip_filter_link: Filter
-      alert_icon_calendar_option: calendar
+      alert_icon_calendar_option: koledar
       alert_icon_error_option: error
       alert_icon_information_option: information
       alert_icon_question_option: question
@@ -1504,7 +1504,7 @@ en-GB:
   add_content_to_module_name_589a8d54: "Add Content to %{module_name}"
   add_course_406cb773: "Add course"
   add_course_assignments_628ed6d0: "Add course assignments"
-  add_course_calendar_events_146154a5: "Add Course Calendar Events"
+  add_course_calendar_events_146154a5: "Koledarski dogodki"
   add_criterion_eb9587ef: "Add criterion"
   add_custom_link_22059c0: "Add custom link"
   add_discussion_653dab4c: "Add discussion"
@@ -3167,7 +3167,7 @@ en-GB:
     appointment_group_list: 
       delete: Delete
       edit: Edit
-      location: "Location:"
+      location: "Lokacija:"
       manage: "Manage %{title} appointment group"
       message_groups: "Message groups who..."
       message_students: "Message students who..."
@@ -3203,7 +3203,7 @@ en-GB:
       next: Next
       previous: Previous
       today: Danes
-    calendar_title: "Calendar:"
+    calendar_title: "Koledar:"
     cancel_appointment: "Ste prepričani, da želite preklicati sestanek z %{name}?"
     confirm_appointment_group_deletion: "Are you sure you want to delete this appointment group?"
     confirm_deletion: "Confirm deletion"
@@ -3215,7 +3215,7 @@ en-GB:
       deletion_reason: "Reason for deletion:"
     do_nothing: "Do nothing"
     edit: 
-      confirm_delete_calendar_event: "Are you sure you want to delete this calendar event?"
+      confirm_delete_calendar_event: "Ste prepričani, da želite izbrisati ta koledarski dogodek?"
       event_deleted: "%{event_title} deleted successfully"
       event_saved: "Event saved successfully"
       missingDueDate: 
@@ -3227,7 +3227,7 @@ en-GB:
       affect_reservations: "How will this affect reservations?"
       appt_group_options_help1: "Some existing reservations are over the limit you have added. These will not be affected, this change only prevents new reservations from being made."
       appt_group_options_help2: "You can, however, manually remove any existing reservations."
-      calendar: Calendar
+      calendar: Koledar
       date: Date
       details: "Details:"
       group_category: "Group category"
@@ -3240,7 +3240,7 @@ en-GB:
       slot_limit: "Limit this slot to"
       users: users.
     edit_assignment: 
-      calendar: "Calendar:"
+      calendar: "Koledar:"
       due: "Due:"
       group: "Group:"
       links: 
@@ -3248,17 +3248,17 @@ en-GB:
       publish: "Publish:"
       title: "Naslov:"
     edit_assignment_override: 
-      calendar: "Calendar:"
+      calendar: "Koledar:"
       due: "Due:"
       links: 
         more_options: "Več možnosti"
     edit_calendar_event: 
-      calendar: "Calendar:"
+      calendar: "Koledar:"
       date: "Datum:"
       from: "Od:"
       links: 
         more_options: "Več možnosti"
-      location: "Location:"
+      location: "Lokacija:"
       timespan_separator: to
       title: "Naslov:"
     edit_calendar_event_full: 
@@ -3269,12 +3269,12 @@ en-GB:
       date: Date
       delete: Delete
       different_date_for_each_section: "Use a different date for each section"
-      edit_calendar_event_header: "Edit Calendar Event"
+      edit_calendar_event_header: "Uredi koledarski dogodek"
       end_time: "End time"
       event_description: "Event description"
       event_title: "Naslov dogodka"
       location_address: "Naslov:"
-      location_name: "Location:"
+      location_name: "Lokacija:"
       new_calendar_event_header: "Nov koledarski dogodek"
       repeat: Repeat
       start_time: "Start time"
@@ -3285,7 +3285,7 @@ en-GB:
         event: Event
         todo: "To do"
     edit_planner_note: 
-      calendar: "Calendar:"
+      calendar: "Koledar:"
       date: "Datum:"
       title: "Naslov:"
     end_before_start_error: "Start time must be before end time"
@@ -3295,7 +3295,7 @@ en-GB:
     event_assignment_title: "Naslov naloge:"
     event_details: 
       attendees: Attendees
-      calendar: Calendar
+      calendar: Koledar
       close: Close
       details: Details
       links: 
@@ -3376,10 +3376,10 @@ en-GB:
       loading_undated_events: "Loading undated items..."
       no_undated_events: "No undated items."
       show_undated_events: "Show undated items"
-  calendar_283a9ed9: calendar
-  calendar_a8563bb2: "Calendar:"
+  calendar_283a9ed9: koledar
+  calendar_a8563bb2: "Koledar:"
   calendar_contextinfo_name_a7d98525: "Calendar %{contextInfo.name}"
-  calendar_d14cfc8f: Calendar
+  calendar_d14cfc8f: Koledar
   calendar_event: 
     errors: 
       duplicate_child_event_contexts: "Duplicate child event contexts"
@@ -3408,7 +3408,7 @@ en-GB:
       links: 
         back_to_calendar: "Back to Calendar"
         delete: "Delete the event"
-        edit: "Edit Calendar Event"
+        edit: "Uredi koledarski dogodek"
   calendar_events_api: 
     feed_title: "%{course_or_group_name} Calendar feed"
     ics_description: "Calendar events for %{context_name}"
@@ -3429,7 +3429,7 @@ en-GB:
       feed_title: "Course Calendar Atom Feed"
       links: 
         feed: "click here to view the feed"
-      page_title_header: Calendar
+      page_title_header: Koledar
       skip_to_calendar: "Skip to calendar"
       toggle_calendars: "Preklopi med koledarji"
       toggle_undated_items: "Toggle undated items"
@@ -8018,7 +8018,7 @@ en-GB:
   global_branding_df1cae12: "Global branding"
   global_message_icons: 
     announcement: announcement
-    calendar: calendar
+    calendar: koledar
     error: error
     information: information
     invitation: invitation
@@ -12804,7 +12804,7 @@ en-GB:
         Content was synced from a blueprint course to associated courses
     blueprint_display: "Blueprint Sync"
     calendar_description: "New and changed items on your course calendar"
-    calendar_display: Calendar
+    calendar_display: Koledar
     categories: 
       all_submissions: "All Submissions"
       announcement: Announcement
@@ -12812,7 +12812,7 @@ en-GB:
       appointment_cancelations: "Appointment Cancellations"
       appointment_signups: "Appointment signups"
       blueprint: Blueprint
-      calendar: Calendar
+      calendar: Koledar
       course_content: "Course Content"
       discussion: Discussion
       discussion_entry: "Discussion entry"
@@ -17174,7 +17174,7 @@ en-GB:
       teacher_title: "Invited as a teacher, click to see the course"
     primary_header_navigation: 
       menu: 
-        calendar: Calendar
+        calendar: Koledar
         grades: Grades
       navigation: 
         main: "Main Navigation"
