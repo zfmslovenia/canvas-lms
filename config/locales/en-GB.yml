@@ -23,7 +23,7 @@ en-GB:
     bad_max_appts: "You must allow at least one appointment per participant"
     bad_per_slot: "You must allow at least one appointment per time slot"
     context_required: "You need to select a calendar"
-    select_calendars: "Select Calendars"
+    select_calendars: "Izberi koledarje"
   EditGroupAssignmentView: 
     move_to: "Move To"
   GroupDetailView: 
@@ -41,7 +41,7 @@ en-GB:
     flash: 
       userAlreadyInGroup: "WARNING: %{user} is already a member of %{group}"
   LongTextEditor: 
-    cancel: Cancel
+    cancel: Prekliči
     save: Save
   _at_the_bottom__4360f2b4: "-- At the bottom --"
   _at_the_bottom__d2cf682a: "--At the bottom--"
@@ -632,7 +632,7 @@ en-GB:
       submitted_link: 
         one: "Submitted %{count}"
         other: "Submitted %{count}"
-        zero: Submitted
+        zero: Poslano
       title: "Profile pictures"
       unlock_link: unlock
     cannot_manage_account: "You are not allowed to manage account settings"
@@ -726,13 +726,13 @@ en-GB:
           custom_reports: 
             start: 
               parameters: 
-                header: "Activity Date:"
+                header: "Datum aktivnosti:"
       dcr2: 
         parameters: 
           custom_reports: 
             start: 
               parameters: 
-                header: "Activity Date:"
+                header: "Datum aktivnosti:"
       dcr4: 
         parameters: 
           custom_reports: 
@@ -1187,7 +1187,7 @@ en-GB:
       survey_announcement: "This is a survey announcement. It will be sent to 1 / %{denominator} of users in enabled accounts for each month that it's active."
       tab_admins: Admins
       tab_alerts: Alerts
-      tab_announcements: Announcements
+      tab_announcements: Obvestila
       tab_external_tools: Apps
       tab_notifications: Notifications
       tab_quotas: Quotas
@@ -1391,7 +1391,7 @@ en-GB:
             header: Term
       all_terms: "All terms"
     test_ldap_dialog_title: "Test LDAP settings"
-    test_ldap_result_canceled: Cancelled
+    test_ldap_result_canceled: Preklicano
     test_ldap_result_failed: Failed
     test_ldap_result_ok: OK
     test_login: "Test login"
@@ -1656,9 +1656,9 @@ en-GB:
   all_items_a49b66c7: "All items"
   all_modules_20c9a1c8: "All Modules"
   all_my_files_a0213441: "All my files"
-  all_my_sections_375248b3: "All my sections"
+  all_my_sections_375248b3: "Vsi moji segmenti"
   all_roles_f3bba14d: "All roles"
-  all_sections_daf11554: "All sections"
+  all_sections_daf11554: "Vsi segmenti"
   all_start_dates_must_be_before_the_end_date_d949eca9: "All start dates must come before end dates"
   all_students_have_taken_the_quiz_b558f8b4: "All students have taken the quiz"
   all_students_have_taken_the_survey_494f9f42: "All students have taken the survey"
@@ -1782,7 +1782,7 @@ en-GB:
   angel_display: "ANGEL Learning"
   angel_file_description: "Angel export .zip format"
   announcement: 
-    no_title: "No title"
+    no_title: "Brez naslova"
   announcement_creation_failed_f7d227f5: "Announcement creation failed"
   announcement_ends_at_4ccc2a7e: "Announcement ends at"
   announcement_fb4cb645: Announcement
@@ -1794,7 +1794,7 @@ en-GB:
   announcement_type_b231573b: "Announcement type"
   announcement_update_failed_6a6ec9fe: "Announcement update failed"
   announcements: 
-    announcements_crumb: Announcements
+    announcements_crumb: Obvestila
     error_draft_state: "This topic cannot be set to draft state because it is an announcement."
     external_feed: 
       alts: 
@@ -1805,33 +1805,33 @@ en-GB:
         external_feed_post_count: 
           one: "1 post added"
           other: "%{count} posts added"
-    feed_name: "%{course} announcements feed"
+    feed_name: "%{course} obvestila feed"
     index: 
       feed_title_course: "Course announcements Atom feed"
       feed_title_group: "Group announcements Atom feed"
       podcast_title_course: "Course announcements podcast feed"
       podcast_title_group: "Group announcements podcast feed"
     index_view: 
-      announcements_title: Announcements
+      announcements_title: Obvestila
       delete: Delete
       loading: Loading...
       lock_for_comments: "Lock for comments"
       make_sure_all_search_terms_are_spelled_correctly: "Make sure all search terms are spelled correctly."
       rss_feed: "RSS feed"
       suggestions: "Suggestions:"
-      there_are_no_announcements_show: "There are no announcements to show"
+      there_are_no_announcements_show: "Ni obvestil"
       title_add_announcement: "Add announcement"
       try_different_more_general_or_fewer_keywords: "Try different, more general, or fewer keywords."
       try_disabling_the_unread_filters: "Try disabling the \"Unread\" filter."
-      unread: Unread
-      your_search_did_not_match_any_announcements: "Your search did not match any announcements."
+      unread: Neprebrano
+      your_search_did_not_match_any_announcements: "Vaše iskanje ni ustrezalo nobenemu obvestilu"
     podcast_feed_description_course: "Any media files linked from or embedded within announcements in the course \"%{course}\" will appear in this feed."
     podcast_feed_description_group: "Any media files linked from or embedded within announcements in the group \"%{group}\" will appear in this feed."
     podcast_feed_name: "%{course} announcements podcast feed"
-  announcements_a4b8ed4a: Announcements
+  announcements_a4b8ed4a: Obvestila
   announcements_deleted_successfully_7d77e9e1: "Announcements deleted successfully"
-  announcements_list_c75fc413: "Announcements list"
-  announcements_loaded_e9335d5f: "Announcements loaded!"
+  announcements_list_c75fc413: "Seznam obvestil"
+  announcements_loaded_e9335d5f: "Obvestila uspešno naložena!"
   announcements_locked_successfully_43d58107: "Announcements locked successfully"
   announcements_tutorial_tray_994287d6: "Announcements tutorial tray"
   announcements_unlocked_successfully_1432da9d: "Announcements unlocked successfully"
@@ -1918,12 +1918,12 @@ en-GB:
   application_id_2aa1640f: "Application ID"
   application_secret_e6803c7e: "Application secret"
   applied_cc7be774: Applied
-  apply_781a2546: Apply
-  apply_changes_b1dffc70: "Apply Changes"
-  apply_filters_note_clicking_this_button_will_cause_753f04: "Apply filters. Note: clicking this button will cause the page to reload."
-  apply_theme_7af08387: "Apply theme"
-  applying_new_styles_to_subaccounts_e8aeeef2: "Applying new styles to subaccounts"
-  applying_please_be_patient_f7b5f244: "Applying. Please be patient"
+  apply_781a2546: Uporabi
+  apply_changes_b1dffc70: "Uporabi spremembe"
+  apply_filters_note_clicking_this_button_will_cause_753f04: "Uporabi filtre. Note: clicking this button will cause the page to reload."
+  apply_theme_7af08387: "Uporabi temo"
+  applying_new_styles_to_subaccounts_e8aeeef2: "Uveljavljanje novih slogov za podračune"
+  applying_please_be_patient_f7b5f244: "Uveljavljam. Please be patient"
   appointment_group: 
     errors: 
       invalid_end_at: "Appointment end time precedes start time"
@@ -1949,8 +1949,8 @@ en-GB:
   are_you_sure_you_want_to_archive_your_copies_of_th_7d219afe: 
     one: "Are you sure you want to archive your copy of this conversation?"
     other: "Are you sure you want to archive your copies of these conversations?"
-  are_you_sure_you_want_to_cancel_changes_you_made_m_c5210496: "Are you sure you want to cancel? Changes you made may not be saved."
-  are_you_sure_you_want_to_cancel_your_appointment_w_dbbd27eb: "Are you sure you want to cancel your appointment with %{name}?"
+  are_you_sure_you_want_to_cancel_changes_you_made_m_c5210496: "Ste prepričani, da želite preklicati? Changes you made may not be saved."
+  are_you_sure_you_want_to_cancel_your_appointment_w_dbbd27eb: "Ste prepričani, da želite preklicati sestanek z %{name}?"
   are_you_sure_you_want_to_copy_to_the_final_mark_th_28a7e7b3: "Are you sure you want to copy to the final mark? This will overwrite the existing mark."
   are_you_sure_you_want_to_deactivate_this_user_they_3fdaab79: "Are you sure you want to deactivate this user? S/he will be unable to participate in the course while inactive."
   are_you_sure_you_want_to_delete_these_count_items_148e98ba: 
@@ -2155,7 +2155,7 @@ en-GB:
           name: Name
       buttons: 
         add_group: "Add group"
-        cancel: Cancel
+        cancel: Prekliči
       links: 
         add_assignment_group: "Add assignment group\""
     assignment_group_list: 
@@ -2201,7 +2201,7 @@ en-GB:
       score_with_points_possible: "*%{score}*/%{pointsPossible} pts"
       score_with_points_possible_screenreader: "Score: %{score} out of %{pointsPossible} points."
     assignment_settings: 
-      cancel: Cancel
+      cancel: Prekliči
       save: Save
       validating: Saving...
       weight_groups: "Weight final grade based on assignment groups"
@@ -2219,7 +2219,7 @@ en-GB:
     buttons: 
       add_group: "Add group"
       delete_group: "Delete group"
-      submit_assignment: "Submit assignment"
+      submit_assignment: "Pošlji nalogo"
     cannot_delete_group: "You must have at least one assignment group"
     cant_unpublish_when_students_submit: "Can't unpublish if there are student submissions"
     complete: Complete
@@ -2237,18 +2237,18 @@ en-GB:
       assignment_type: "Type:"
       buttons: 
         save_and_publish: "Save & publish"
-      cancel: Cancel
+      cancel: Prekliči
       differentiated_due_dates: "Differentiated due date"
       discussion_type: Discussion
       external_tool_type: "External tool"
-      more: "More options"
+      more: "Več možnosti"
       multiple_due_dates: "Multiple due dates"
       not_graded_type: "Not graded"
       quiz_type: Quiz
       save: Save
       saving: Saving...
     create_group: 
-      cancel: Cancel
+      cancel: Prekliči
       drop_highest: "Highest scores:"
       drop_lowest: "Lowest scores:"
       example_group_name: "e.g., Essay group 1"
@@ -2266,7 +2266,7 @@ en-GB:
       due_date: Due
       multiple_dates: "Multiple dates"
     delete_group: 
-      cancel: Cancel
+      cancel: Prekliči
       delete: "Delete group"
       deleting: Deleting...
       labels: 
@@ -2323,12 +2323,12 @@ en-GB:
     external_content_homework_file_submission_view: 
       additional_comments: "Additional comments"
       buttons: 
-        submit_assignment: "Submit assignment"
+        submit_assignment: "Pošlji nalogo"
       group_assignment_header: Comments...
     external_content_homework_url_submission_view: 
       additional_comments: "Additional comments"
       buttons: 
-        submit_assignment: "Submit assignment"
+        submit_assignment: "Pošlji nalogo"
       group_assignment_header: Comments...
     external_grader_sidebar: 
       edit_assignment_settings: "Edit assignment settings"
@@ -2440,7 +2440,7 @@ en-GB:
       overdue: "This assignment is overdue.  Do you still want to submit it?"
       record_before_submitting: "Record before submitting"
       submit_failed: "Submit failed, please try again"
-      submitting: Submitting...
+      submitting: V pošiljanju
     multiple_due_dates: "Multiple due dates"
     name_is_required: "Name is required!"
     name_too_long: "Name is too long"
@@ -2497,7 +2497,7 @@ en-GB:
       overview_with_rubric: "Student peer reviews will be considered complete when students have commented at least once on the page and filled out the rubric form for the assignment."
       page_title: "Peer reviews"
       reviews_per_user: "%{count} reviews per user"
-      submitted: submitted
+      submitted: poslano
       title: "%{assignment} peer reviews"
       titles: 
         automatically_assign_reviews: "Automatically assign reviews"
@@ -2549,7 +2549,7 @@ en-GB:
       no_submission: Nothing
       points: Points
       submission_types: "File types"
-      submitting: Submitting
+      submitting: V pošiljanju
       turnitin: Turnitin
       turnitin_enabled: "Turnitin has been enabled for this assignment."
       turnitin_enabled_short: "(Turnitin enabled)"
@@ -2620,7 +2620,7 @@ en-GB:
       additional_comments: "Additional comments"
       buttons: 
         record_media: "Record/upload media"
-        submit_assignment: "Submit assignment"
+        submit_assignment: "Pošlji nalogo"
       comments_placeholder: Comments...
       errors: 
         unacceptable_file_type: "This file type is not allowed. Accepted file types are: %{allowed_extensions_list}"
@@ -2653,7 +2653,7 @@ en-GB:
         google_drives_auth_required: "Before you can submit assignments directly from Google Drive you need to authorise Canvas to access your Google Drive account:"
         media_recording_ready: "Ready to submit! Click 'Submit assignment' button to finish."
         media_recordings_disabled: "Media recordings are not enabled for this Canvas site, and you will not be able to submit these types of assignments. Please contact your instructor about changing the settings for this assignment, or your system administrator about enabling media recordings."
-        submitting: Submitting...
+        submitting: V pošiljanju
         uploading: "Retrieving a copy of your Google Doc to submit for this assignment. This may take a little while, depending on the size of the file..."
       no_files: "No files"
       no_submission: "No submission selected"
@@ -2664,14 +2664,14 @@ en-GB:
     submit_online_text_entry: 
       additional_comments: "Additional comments"
       buttons: 
-        submit_assignment: "Submit assignment"
+        submit_assignment: "Pošlji nalogo"
       comments_placeholder: Comments...
       instructions: 
         online_text_entry: "Copy and paste or type your submission right here."
     submit_online_upload: 
       additional_comments: "Additional comments"
       buttons: 
-        submit_assignment: "Submit assignment"
+        submit_assignment: "Pošlji nalogo"
       comments_placeholder: Comments...
       errors: 
         unacceptable_file_type: "This file type is not allowed. Accepted file types are: %{allowed_extensions_list}"
@@ -2681,7 +2681,7 @@ en-GB:
         add_another_file: "Add another file"
         find_file: "Click here to find a file you've already uploaded"
       messages: 
-        submitting: Submitting...
+        submitting: V pošiljanju
       no_files: "No files"
       upload_or_choose_file: "Upload a file, or choose a file you've already uploaded."
     syllabus: 
@@ -2831,13 +2831,13 @@ en-GB:
   available_after_unlock_at_until_lock_at_499e8092: "Available after %{unlock_at} until %{lock_at}"
   available_from_587ce92f: "Available from"
   available_from_date_43b5e11d: "Available from date"
-  available_from_date_afc594fa: "Available from date:"
-  available_from_date_must_precede_available_until_c9f9e533: "'Available from' date must precede 'Available until'"
+  available_from_date_afc594fa: "Na voljo od:"
+  available_from_date_must_precede_available_until_c9f9e533: "Na voljo od:"
   available_from_f84e4611: "Available from"
   available_from_field_for_styleguide_7ced3861: "Available from field for style guide"
   available_from_format_like_yyyy_mm_dd_hh_mm_8b726122: "Available from - Format Like YYYY-MM-DD hh:mm"
   available_to_b7350e02: "Available to"
-  available_until_date_2c0ccec3: "Available until date:"
+  available_until_date_2c0ccec3: "Na voljo do:"
   available_until_date_cd125c62: "Available until date"
   available_until_f3b9c4ed: "Available until"
   available_until_field_for_styleguide_85d5d65a: "Available until field for style guide"
@@ -2916,7 +2916,7 @@ en-GB:
   bolivia_591_9b8a7a5c: "Bolivia (+591)"
   bookmark_bank_46d729be: "Bookmark %{bank}"
   bookmark_service: 
-    default_title: "No title"
+    default_title: "Brez naslova"
   bookmark_this_question_bank_dc414a82: "Bookmark this question bank"
   bottom_15a2a9be: Bottom
   bounce_count_reset_c4c2218f: "Bounce count reset."
@@ -2967,7 +2967,7 @@ en-GB:
       failed: Failed
       finished: Finished
       importing: "Importing into Canvas"
-      migration_cancelled_on: "Cancelled on %{date}"
+      migration_cancelled_on: "Preklicano %{date}"
       migration_failed_on: "Failed on %{date}"
       migration_finished_on: "Finished on %{date}"
       migration_queueing: "The individual course migrations are being queued to run."
@@ -3012,21 +3012,21 @@ en-GB:
     buttons: 
       migrate_courses: "Migrate courses"
     confirm: 
-      cancel_migration: "Are you sure you want to cancel this migration? All courses already in progress will finish."
+      cancel_migration: "Ste prepričani, da želite preklicati to migracijo? All courses already in progress will finish."
       delete_credential: "Are you sure you want to remove these credentials?"
     errors: 
       upload_failed: "Upload failed. Please try again"
     messages: 
       uploading_button: "Uploading CSV file..."
   button: 
-    submit_assignment: "Submit assignment"
+    submit_assignment: "Pošlji nalogo"
   buttons: 
     add_item: "Add item"
-    apply: Apply
+    apply: Uporabi
     authorize_google_docs: "Authorise Google Docs access"
     authorize_google_drive: "Authorise Google Drive access"
     back_to_outcomes: "Back to outcomes"
-    cancel: Cancel
+    cancel: Prekliči
     choose_a_file: "Choose a file"
     delete: Delete
     delete_file: "Delete file %{name}"
@@ -3049,7 +3049,7 @@ en-GB:
     sending: Sending...
     sent: Sent!
     show_all_artifacts: "Show all artifacts"
-    submit: Submit
+    submit: Pošlji
     unmasquerade: "Stop masquerading"
     unpublish: Unpublish
     unpublished: Unpublished
@@ -3160,7 +3160,7 @@ en-GB:
     agenda_view: 
       due: Due
       loading: Loading
-      no_events: "*No events after this date.*"
+      no_events: "*Ni dogodkov po tem datumu.*"
       starts_at: "Starts at"
     agenda_view_displaying_start_end: "Now displaying %{start} to %{end}"
     appointment_group_deletion_details: "Deleting it will also delete any appointments that have been signed up for by students."
@@ -3183,18 +3183,18 @@ en-GB:
       x_groups_have_signed_up: "%{n_participant_count} groups have signed up"
       x_people_have_signed_up: "%{n_participant_count} people have signed up"
     buttons: 
-      cancel: Cancel
+      cancel: Prekliči
       send_message: Send
       sending_message: Sending...
     calendar_header: 
-      create_event: "Create new event"
+      create_event: "Ustvari nov dogodek"
       done_go_back_to_list: "Done. Go back to list"
       links: 
         accessibility_warning: "Warning: Opozorilo: za boljši prikaz koledarskih dogodkov uporabite pogled za agendo."
         calendar_agenda: Agenda
         calendar_month: Month
         calendar_scheduler: Scheduler
-        calendar_week: Week
+        calendar_week: Teden
         improved_accessibility_recommend_agenda: "Warning: Za boljši prikaz koledarskih dogodkov uporabite koledar z uporabo »pogleda za agendo«."
       loading: Loading
       my_appointment_groups: "My appointment groups"
@@ -3202,9 +3202,9 @@ en-GB:
       enter_navigation_date: "Enter the date you would like to navigate to."
       next: Next
       previous: Previous
-      today: Today
+      today: Danes
     calendar_title: "Calendar:"
-    cancel_appointment: "Are you sure you want to cancel your appointment with %{name}?"
+    cancel_appointment: "Ste prepričani, da želite preklicati sestanek z %{name}?"
     confirm_appointment_group_deletion: "Are you sure you want to delete this appointment group?"
     confirm_deletion: "Confirm deletion"
     confirm_removal: "Confirm removal"
@@ -3244,26 +3244,26 @@ en-GB:
       due: "Due:"
       group: "Group:"
       links: 
-        more_options: "More options"
+        more_options: "Več možnosti"
       publish: "Publish:"
-      title: "Title:"
+      title: "Naslov:"
     edit_assignment_override: 
       calendar: "Calendar:"
       due: "Due:"
       links: 
-        more_options: "More options"
+        more_options: "Več možnosti"
     edit_calendar_event: 
       calendar: "Calendar:"
-      date: "Date:"
-      from: "From:"
+      date: "Datum:"
+      from: "Od:"
       links: 
-        more_options: "More options"
+        more_options: "Več možnosti"
       location: "Location:"
       timespan_separator: to
-      title: "Title:"
+      title: "Naslov:"
     edit_calendar_event_full: 
       buttons: 
-        create: "Create event"
+        create: "Ustvari nov dogodek"
         update: "Update event"
       count: "Count:"
       date: Date
@@ -3272,10 +3272,10 @@ en-GB:
       edit_calendar_event_header: "Edit Calendar Event"
       end_time: "End time"
       event_description: "Event description"
-      event_title: "Event title"
-      location_address: "Address:"
+      event_title: "Naslov dogodka"
+      location_address: "Naslov:"
       location_name: "Location:"
-      new_calendar_event_header: "New Calendar Event"
+      new_calendar_event_header: "Nov koledarski dogodek"
       repeat: Repeat
       start_time: "Start time"
     edit_event: 
@@ -3286,13 +3286,13 @@ en-GB:
         todo: "To do"
     edit_planner_note: 
       calendar: "Calendar:"
-      date: "Date:"
-      title: "Title:"
+      date: "Datum:"
+      title: "Naslov:"
     end_before_start_error: "Start time must be before end time"
     ends_in_past_error: "You cannot create an appointment slot that ends in the past"
     errors: 
       send_message_failed: "There was an error sending your message, please try again"
-    event_assignment_title: "Assignment title:"
+    event_assignment_title: "Naslov naloge:"
     event_details: 
       attendees: Attendees
       calendar: Calendar
@@ -3307,7 +3307,7 @@ en-GB:
       location_address: Address
       message_students: "Message students"
       slots_available: "Slots available"
-    event_event_title: "Event title:"
+    event_event_title: "Naslov dogodka:"
     event_on_this_day: "There is an event on this day"
     event_type: 
       assignment: Assignment
@@ -3371,7 +3371,7 @@ en-GB:
     titles: 
       edit_appointment_group: "Edit appointment group"
       edit_event: "Edit event"
-    today: Today
+    today: Danes
     undated_events: 
       loading_undated_events: "Loading undated items..."
       no_undated_events: "No undated items."
@@ -3385,23 +3385,23 @@ en-GB:
       duplicate_child_event_contexts: "Duplicate child event contexts"
       invalid_child_event_context: "Invalid child event context"
       no_updating_user: "Can't update child events unless an updating_user is set"
-    feed_item_title: "Calendar Event: %{event_title}"
-    feed_item_title_with_context: "Calendar Event, %{course_or_account_name}: %{event_title}"
+    feed_item_title: "Koledarski dogodek: %{event_title}"
+    feed_item_title_with_context: "Koledarsko dogodek, %{course_or_account_name}: %{event_title}"
     see_assignment: "See %{assignment_name}"
     see_discussion_topic: "See %{discussion_topic_name}"
     see_file: "See %{file_name}"
     see_quiz: "See %{quiz_name}"
     see_related_link: "See related link"
-  calendar_event_89aadc1c: "Calendar Event"
+  calendar_event_89aadc1c: "Koledarski dogodek"
   calendar_events: 
     crumbs: 
-      new: "New Calendar Event"
+      new: "Nov koledarski dogodek"
     full_calendar_event: 
       no_content: "No content"
     new: 
-      page_title: "New Calendar Event"
+      page_title: "Nov koledarski dogodek"
     notices: 
-      created: "Event was successfully created."
+      created: "Dogodek je bil uspešno ustvarjen."
       deleted: "This event has been deleted"
       updated: "Event was successfully updated."
     show: 
@@ -3420,18 +3420,18 @@ en-GB:
   calendars: 
     event: 
       due: due
-      event_title: "due: %{event_title}"
+      event_title: "rok: %{event_title}"
     show2: 
       calendar_feed: "Calendar Feed"
       calendar_feed_instructions: "Copy the link below and paste it into any calendar app that takes iCal feeds (Google Calendar, iCal, Outlook, etc.)"
-      calendars: Calendars
+      calendars: Koledarji
       feed_dialog_title: "Calendar Feed"
       feed_title: "Course Calendar Atom Feed"
       links: 
         feed: "click here to view the feed"
       page_title_header: Calendar
       skip_to_calendar: "Skip to calendar"
-      toggle_calendars: "Toggle calendars"
+      toggle_calendars: "Preklopi med koledarji"
       toggle_undated_items: "Toggle undated items"
       undated_items: Undated
     wizard_box: 
@@ -3444,17 +3444,17 @@ en-GB:
         delete: "Click the event or assignment on the calendar you want to delete."
         delete2: "Now click \"Delete\" (*where?*) and your event will be deleted."
         delete_done: "Done and done. That was some serious deletion skills you had just there."
-        done: "Done! The event is now created! You can click it to see the details, edit and delete the event, or drag and drop it to a new day to change its date."
-        edit: "Great! Now just enter a name for the event (*where?*). You can specify a start and end time for the event if you like. Or just a start time. Or no time at all. Click \"Submit\" to finish."
-        edit_assignment: "Now just enter a name for the assignment (*where?*) and the assignment group it belongs to. You can specify a due date if you want, too. Click \"Submit\" to finish."
+        done: "Done! Dogodek je zdaj ustvarjen! You can click it to see the details, edit and delete the event, or drag and drop it to a new day to change its date."
+        edit: "Great! Now just enter a name for the event (*where?*). You can specify a start and end time for the event if you like. Or just a start time. Or no time at all. Kliknite »Pošlji« za zaključek."
+        edit_assignment: "Now just enter a name for the assignment (*where?*) and the assignment group it belongs to. You can specify a due date if you want, too. Kliknite »Pošlji« za zaključek."
       labels: 
         i_would_like_to: "I would like to"
       links: 
         change_date: "Change the date of an event/assignment"
         create_assignment: "Create a new assignment"
         delete: "Delete an event/assignment"
-        new: "Create a new event"
-  calendars_a756c286: Calendars
+        new: "Ustvari nov dogodek"
+  calendars_a756c286: Koledarji
   calendars_toggle_list_visibility_488db143: "Calendars toggle list visibility"
   can_create_rename_and_edit_course_pages_by_default_f9ad4253: "can create, rename, and edit course pages by default"
   can_edit_this_page_role_selection_6ccec3c7: "Can edit this page role selection"
@@ -3467,10 +3467,10 @@ en-GB:
   can_t_unpublish_name_if_there_are_student_submissi_8ab8086c: "Cannot unpublish %{name} if there are student submissions"
   canada_1_921df67a: "Canada (+1)"
   canada_aec587fa: Canada
-  cancel_caeb1e68: Cancel
-  cancel_custom_link_creation_39ec70bd: "Cancel custom link creation"
-  cancel_submitting_comment_2666e98b: "Cancel comment"
-  cancel_updating_comment_6816d855: "Cancel updating comment"
+  cancel_caeb1e68: Prekliči
+  cancel_custom_link_creation_39ec70bd: "Prekliči ustvarjanje posebne povezave"
+  cancel_submitting_comment_2666e98b: "Prekliči komentar"
+  cancel_updating_comment_6816d855: "Prekliči komentar"
   cannot_access_group_in_concluded_course_90a8db52: "Cannot access group in concluded course"
   cannot_add_section_to_a_non_section_specific_discu_d2a7f263: "Cannot add section to a non-section specific discussion"
   cannot_autograde_at_this_time_a146ad9d: "Cannot auto-grade at this time"
@@ -3606,8 +3606,8 @@ en-GB:
   chile_56_88238b47: "Chile (+56)"
   chile_9081cde6: Chile
   china_86_36913b7a: "China (+86)"
-  choose_a_color_or_course_nickname_for_course_2585e42c: "Choose a colour or course nickname for %{course}"
-  choose_a_color_or_course_nickname_or_move_course_c_dd23f754: "Choose a colour or course nickname or move course card for %{course}"
+  choose_a_color_or_course_nickname_for_course_2585e42c: "Izberite barvo ali vzdevek za izobraževalni program %{course}"
+  choose_a_color_or_course_nickname_or_move_course_c_dd23f754: "Izberite barvo ali vzdevek za izobraževalni program ali premaknite kartico izobraževalnega programa %{course}"
   choose_a_course_home_page_8059c7b: "Choose a course home page"
   choose_a_csv_file_to_upload_9644480c: "Choose a CSV file to upload:"
   choose_a_timezone_d9c52998: "Choose a time zone"
@@ -3684,7 +3684,7 @@ en-GB:
   clone_group_set_c2a40e15: "Clone group set"
   close_and_return_to_canvas_80544344: "Close and return to Canvas"
   close_d634289d: Close
-  close_date_9b52fb9b: "Closing Date:"
+  close_date_9b52fb9b: "Datum zaključka:"
   close_date_a2f617b3: "Closing date"
   close_details_sidebar_ff8f663d: "Close details sidebar"
   close_discussion_settings_e6f4b31f: "Close Discussion Settings"
@@ -3743,7 +3743,7 @@ en-GB:
         delete: "Delete this collaboration"
     edit: 
       buttons: 
-        cancel: Cancel
+        cancel: Prekliči
         update: "Update collaboration"
       labels: 
         description: "Description:"
@@ -3935,7 +3935,7 @@ en-GB:
   complete_fd828dea: Complete
   complete_icon_7455be93: "complete icon"
   complete_one_item_90e5fb03: "Complete one item"
-  complete_title_7482ddcf: "Complete %{title}"
+  complete_title_7482ddcf: "Zaključen %{title}"
   completed_19711ce7: Completed
   completed_9b809e44: completed
   completed_icon_521596e4: "completed icon"
@@ -4035,8 +4035,8 @@ en-GB:
   confirm_delete_announcements_3d83b69a: "Confirm delete announcements"
   confirm_deletion_b2efe7d4: "Confirm deletion"
   confirm_dialog: 
-    cancel: Cancel
-    submit: Submit
+    cancel: Prekliči
+    submit: Pošlji
   confirm_dialog_component: 
     ok: Ok
   confirm_edit_outcome_a9746c99: "Confirm edit outcome"
@@ -4097,7 +4097,7 @@ en-GB:
       no_only_and_except: "You can not use \"only\" and \"except\" options at the same time."
     files: 
       buttons: 
-        cancel: Cancel
+        cancel: Prekliči
         skip: "Skip this step"
       description: "You can upload a zipped collection of files into your course and we'll extract them all out for you. This is an easy way to move files from another system into Canvas."
       page_title: "Import files"
@@ -4183,7 +4183,7 @@ en-GB:
     issues: issues
     loading: Loading...
     migration_converter: 
-      cancel_migration: Cancel
+      cancel_migration: Prekliči
       default_option: "Select one"
       header: "Import content"
       import_from_label: "Content type"
@@ -4208,7 +4208,7 @@ en-GB:
       options: Options
     school_required: "You must select a school."
     select_content: 
-      cancel_btn: Cancel
+      cancel_btn: Prekliči
       select_content_btn: "Select content"
       select_content_label: "Select content and use the up and down arrow keys to navigate through the tree. Press right to expand and left to collapse."
     select_course: "Select Course"
@@ -4236,10 +4236,10 @@ en-GB:
         substitution: Substitution
       day_substitution: 
         move_from: "Move from"
-        move_from_select_label: "Move from day of the week"
-        move_from_select_title: "Move from day of the week"
-        move_to_select_label: "Move to day of the week"
-        move_to_select_title: "Move to day of the week"
+        move_from_select_label: "Premakni od dneva v tednu"
+        move_from_select_title: "Premakni od dneva v tednu"
+        move_to_select_label: "Premakni na dan v tednu"
+        move_to_select_title: "Premakni na dan v tednu:"
         remove_day_substitution_link: "Remove day substitution"
         remove_day_substitution_link_label: "Remove day substitution"
         to_happen_on: to
@@ -4270,7 +4270,7 @@ en-GB:
     upload_warning: "Navigating away from this page will cancel the upload process."
     uploading: Uploading...
     web_ct: 
-      cancel: Cancel
+      cancel: Prekliči
       get_courses: "Get Courses"
       password: Password
       select_school: "Select School"
@@ -4285,11 +4285,11 @@ en-GB:
       skip_all_files: "Do not download files from course"
   content_must_be_restricted_7ac7fd25: "Content must be restricted"
   content_tag: 
-    no_title: "No title"
+    no_title: "Brez naslova"
   content_tags: 
     defaults: 
       comments: Comments
-      page_title: "Page title"
+      page_title: "Naslov strani"
     prompts: 
       delete_tag: "Are you sure you want to delete this tag?"
     titles: 
@@ -4522,7 +4522,7 @@ en-GB:
       labels: 
         indent: Indent
         new_tab: "Load in a new tab"
-        title: Title
+        title: Naslov
         url: URL
       links: 
         student_progress: "View progress"
@@ -4626,8 +4626,8 @@ en-GB:
         fulfilled: Contributed
         unfulfilled: Contribute
       must_submit: 
-        fulfilled: Submitted
-        unfulfilled: Submit
+        fulfilled: Poslano
+        unfulfilled: Pošlji
       must_view: 
         fulfilled: "viewed the page"
         unfulfilled: "must view the page"
@@ -4731,7 +4731,7 @@ en-GB:
         archive: Archive
         delete: Delete
         mark_as_read: "Mark as read"
-        mark_as_unread: "Mark as unread"
+        mark_as_unread: "Označi kot neprebrano"
         subscribe: Subscribe
         unarchive: Unarchive
         unstar: Star
@@ -4755,8 +4755,8 @@ en-GB:
       forward: Forward
       inbox: Pošta
       mark_as_read: "Mark as read"
-      mark_as_unread: "Mark as unread"
-      more_options: "More options"
+      mark_as_unread: "Označi kot neprebrano"
+      more_options: "Več možnosti"
       page_title_header: Conversations
       reply: Reply
       reply_all: "Reply all"
@@ -4769,25 +4769,25 @@ en-GB:
       submission_comments: "Submission comments"
       titles: 
         conversations: Conversations
-      unread: Unread
+      unread: Neprebrano
     mark_as_read: "Mark as read"
-    mark_as_unread: "Mark as unread"
+    mark_as_unread: "Označi kot neprebrano"
     message: 
       mark_as_read: "Mark as read"
-      mark_as_unread: "Mark as unread"
+      mark_as_unread: "Označi kot neprebrano"
       no_subject: "No subject"
       open_message: "Open message"
       star_conversation: "Star conversation"
       starred: Starred
       total_messages: "Total messages"
-      unread: Unread
+      unread: Neprebrano
       unstar_conversation: "Unstar conversation"
     message_deleted: "Message deleted!"
     message_detail: 
       delete: Delete
       forward: Forward
       message_actions: "Message actions"
-      more_options: "More options"
+      more_options: "Več možnosti"
       no_subject: "No subject"
       reply: Reply
       reply_all: "Reply all"
@@ -4821,7 +4821,7 @@ en-GB:
       delete: Delete
       forward: Forward
       message_actions: "Message actions"
-      more_options: "More options"
+      more_options: "Več možnosti"
       reply: Reply
       reply_all: "Reply all"
     message_list: 
@@ -4873,7 +4873,7 @@ en-GB:
   couldn_t_generate_diff_message_a0528b20: "Could not generate diff: %{message}"
   couldn_t_update_standards_for_authority_auth_81206187: "Could not update standards for authority %{auth}"
   count_alignments_7d98ee41: "*%{count}* Alignments"
-  count_announcements_found_b7b055b3: "%{count} announcements found."
+  count_announcements_found_b7b055b3: "Najdeno %{count} obvestil."
   count_apps_found_f4d86860: "%{count} apps found"
   count_assignments_found_17520826: 
     one: "1 assignment found."
@@ -4976,7 +4976,7 @@ en-GB:
     one: "1 submission needs grading"
     other: "%{count} submissions need grading"
   count_type_would_be_deleted_and_exceeds_the_set_th_19dc538d: "%{count} %{type} would be deleted and exceeds the set threshold of %{change_threshold}%"
-  count_unread_replies_86976ab: "%{count} unread replies"
+  count_unread_replies_86976ab: "%{count} neprebranih odgovorov"
   count_unsynced_changes_1fc147e5: "%{count} Unsynced Changes"
   count_unsynched_changes_3a1249ba: "%{count} Unsynched Changes"
   count_users_374d6e47: "(%{count} users)"
@@ -5045,7 +5045,7 @@ en-GB:
   course_activity_bfe11267: "Course activity"
   course_activity_stream_40091c17: "Course activity stream"
   course_and_user_search_ebc1ae41: "Course and user search"
-  course_announcements_76b07340: "Course Announcements"
+  course_announcements_76b07340: "Obvestila izobraževalnega programa"
   course_assignments_833b8cf1: "Course assignments"
   course_assignments_menu_fa6aeb23: "Course assignments menu"
   course_atom_feed_9d95214e: "Course Atom Feed"
@@ -5176,7 +5176,7 @@ en-GB:
       large_roster: "Large roster"
       license: Licence
       locale: Locale
-      lock_all_announcements: "Lock All Announcements"
+      lock_all_announcements: "Zakleni vsa obvestila"
       name: Name
       old_account_id: "Old Account Id"
       open_enrollment: "Open Enrolment"
@@ -5235,7 +5235,7 @@ en-GB:
       adding_section: "Adding section..."
       re_sending_all: "Resending unaccepted invitations..."
       re_sent_all: "Resent all unaccepted invitations!"
-    cancel: Cancel
+    cancel: Prekliči
     confirm: 
       delete_section: "Are you sure you want to delete this section?"
       publish_grades: "Are you sure you want to publish these grades to the student information system? You should only do this if all your grades have been finalised."
@@ -5259,7 +5259,7 @@ en-GB:
     link_students_placeholder: "Enter a student name"
     links: 
       fewer_options: "fewer options"
-      more_options: "more options"
+      more_options: "več možnosti"
       publish: "Publish grades to SIS"
       publishing: "Publishing grades to SIS..."
       re_send_all: "Resend all unaccepted invitations"
@@ -5305,7 +5305,7 @@ en-GB:
       avatar_url: Avatar
       biography: Bio
       instructor_name: Name
-      job_title: Title
+      job_title: Naslov
       remove_instructor: "Remove instructor"
     confirm_action: 
       buttons: 
@@ -5365,7 +5365,7 @@ en-GB:
         self_enrollment_limit: "Enrolment cap"
         tags: Tags
         tentative_start: "Tentative start"
-        title: Title
+        title: Naslov
         visibility: Visibility
       leave_blank_if_free: "leave blank if this is a free course"
       logo: Logo
@@ -5634,7 +5634,7 @@ en-GB:
         turnitin_comments: "Turnitin comments"
       language_overrides_preferences: "This will override any user/system language preferences. This is only recommended for foreign language courses"
       links: 
-        more_options: "more options"
+        more_options: "več možnosti"
         move_course: "Move to another account"
         title: 
           cant_delete: "You can't delete sections that have users enrolled"
@@ -5703,7 +5703,7 @@ en-GB:
         confirm_unenroll: "Are you sure you want to unenrol in this course? You will no longer be able to see the course roster or communicate directly with the teachers, and you will no longer see course events in your stream and as notifications."
       draft_state: 
         buttons: 
-          cancel: Cancel
+          cancel: Prekliči
           update_layout: Save
         headings: 
           set_layout: "Set home page layout"
@@ -5740,7 +5740,7 @@ en-GB:
       teachers_only: "Only teachers can see this course until it is *published*"
       titles: 
         drop_course: "Drop this course"
-        recent_feedback: "Recent feedback"
+        recent_feedback: "Povratne informacije"
     sidebar_weighting: 
       default_name: Group
       headings: 
@@ -5851,7 +5851,7 @@ en-GB:
     graded_quiz: "Graded quiz"
     graded_survey: "Graded survey"
     header_name: "Header Name"
-    link_title: "Link Title"
+    link_title: "Naslov povezave"
     page_name: "Page name"
     practice_quiz: "Practice quiz"
     quiz_name: "Quiz name"
@@ -5881,9 +5881,9 @@ en-GB:
   criterion_updated_36c0b3dc: "Criterion updated"
   crumbs: 
     access_report: "Access report"
-    announcements: Announcements
+    announcements: Obvestila
     assignments: Assignments
-    calendar_events: "Calendar Events"
+    calendar_events: "Koledarski dogodki"
     collaborations: Collaborations
     conferences: Conferences
     confirmation: Confirmation
@@ -5957,7 +5957,7 @@ en-GB:
     points_possible: "Points possible"
     question: 
       id: "Question ID"
-      title: "Question title"
+      title: "Naslov vprašanja"
     quiz: 
       question: 
         count: "Quiz question count"
@@ -6097,7 +6097,7 @@ en-GB:
       - Petek
       - Sobota
     days: 
-      today: Nedelja
+      today: Danes
       today_lower: Danes
       tomorrow: Jutri
       yesterday: Včeraj
@@ -6324,12 +6324,12 @@ en-GB:
       k12: K12
       k12_for_profit: "K12 For-Profit"
       labels: 
-        location: Location
+        location: Lokacija
         name: Name
         organization_type: "Organisation type"
         phone: "Phone Number"
         school_name: "School / Organisation"
-        school_position: Title
+        school_position: Naslov
         type_what_you_hear: "Type what you hear"
         type_what_you_see: "Type what you see"
         username: Email
@@ -6371,7 +6371,7 @@ en-GB:
     redirect_uri: "URI: %{redirect_uri}"
   developer_key_921ddbae: "Developer Key"
   developer_key_form: 
-    cancel: Cancel
+    cancel: Prekliči
     icon_url: "Icon URL:"
     key_name: "Key name:"
     notes: "Notes:"
@@ -6409,7 +6409,7 @@ en-GB:
     unnamed_tool: "Unnamed tool"
   developername_logo_88951d4: "%{developerName} Logo"
   dialog_form_wrapper: 
-    cancel: Cancel
+    cancel: Prekliči
     save_settings: "Save settings"
     saving: Saving...
   different_course_b875770e: "different course"
@@ -6455,7 +6455,7 @@ en-GB:
   discussion_submission_781d5d33: "Discussion submission"
   discussion_topic: 
     atom_no_author: "No author"
-    default_title: "No title"
+    default_title: "Brez naslova"
     empty_message: "No message"
   discussion_topic_a7bf935: "discussion topic"
   discussion_topic_dc85ad4c: "Discussion topic"
@@ -6482,7 +6482,7 @@ en-GB:
       one: "Are you sure you wan to delete this discussion topic?"
       other: "Are you sure you want to delete these %{count} discussion topics?"
     create_new_crumb: "Create new"
-    default_discussion_title: "No title"
+    default_discussion_title: "Brez naslova"
     deleted_topic_notice: "That topic has been deleted"
     discussion: 
       close_for_comments: "Close for comments"
@@ -6585,7 +6585,7 @@ en-GB:
       title_start_a_discussion: "Start a Discussion"
       try_different_more_general_or_fewer_keywords: "Try different, more general, or fewer keywords."
       try_disabling_the_unread_or_assignments_filters: "Try disabling the \"Unread\" or \"Assignments\" filters."
-      unread: Unread
+      unread: Neprebrano
       your_search_did_not_match_any_discussion_topics: "Your search did not match any discussion topics."
     new_and_total_badge: 
       reply_count_tooltip: 
@@ -6593,9 +6593,9 @@ en-GB:
         other: "%{count} replies."
         zero: "No replies."
       unread_count_tooltip: 
-        one: "1 unread reply."
-        other: "%{count} unread replies."
-        zero: "No unread replies."
+        one: "1 neprebran odgovor."
+        other: "%{count} neprebranih odgovorov."
+        zero: "Ni neprebranih odgovorov."
     page_nav: 
       Page: Page
       current_page: Current
@@ -6615,7 +6615,7 @@ en-GB:
       zero: "No replies."
     show: 
       add_rubric: "Add rubric"
-      announcement_closed: "This announcement is closed for comments"
+      announcement_closed: "Komentarji za to obvestilo so onemogočeni"
       announcement_locked: "The content of this announcement will not be visible to users until %{date}"
       announcement_locked_until: "This announcement is locked until %{time}"
       authors_name: "Author's name"
@@ -6639,7 +6639,7 @@ en-GB:
       manage_announcement: "Manage announcement"
       manage_discussion: "Manage discussion"
       mark_all_as_read: "Mark all as read"
-      mark_all_as_unread: "Mark all as unread"
+      mark_all_as_unread: "Označi vse kot neprebrano."
       next_message: "Next message"
       previous_message: "Previous message"
       reply_to_message: "Reply to current message"
@@ -6655,7 +6655,7 @@ en-GB:
       topic_time_locked: "This topic is locked until %{time}"
       topic_unsubscribe: Subscribed
       unlock_topic: "Open for comments"
-      unread: Unread
+      unread: Neprebrano
     sub_entry: 
       authors_name: "Author's name"
       post_message: "Post message"
@@ -6672,9 +6672,9 @@ en-GB:
     this_is_a_group_discussion: "This is a Group Discussion"
     topic_deleted_notice: "%{topic_title} deleted successfully"
     unread_count_tooltip: 
-      one: "1 unread reply."
-      other: "%{count} unread replies."
-      zero: "No unread replies."
+      one: "1 neprebran odgovor."
+      other: "%{count} neprebranih odgovorov."
+      zero: "Ni neprebranih odgovorov."
     user_settings_view: 
       manually_mark_as_read: "Manually mark posts as read"
       my_settings: "My settings"
@@ -6721,15 +6721,15 @@ en-GB:
       one: "(%{count} likes)"
       other: "(%{count} likes)"
     mark_as_read: "Mark as read"
-    mark_as_unread: "Mark as unread"
+    mark_as_unread: "Označi kot neprebrano"
     no_content: "No Content"
     no_results: 
       make_sure_all_search_terms_are_spelled_correctly: "Make sure all search terms are spelled correctly."
       suggestions: "Suggestions:"
       try_different_more_general_or_fewer_keywords: "Try different, more general, or fewer keywords."
-      try_disabling_the_unread_filter: "Try disabling the \"Unread\" filter."
+      try_disabling_the_unread_filter: "Poskusite izklopiti filter »Neprebrano«."
       your_search_did_not_match_any_entries: "Your search did not match any entries."
-    ordered_by_recent_activity: "Ordered by recent activity"
+    ordered_by_recent_activity: "Razvrsti po aktivnosti"
     participant: 
       anonymous_user: Anonymous
     pinned_discussions: "Pinned discussions"
@@ -6740,7 +6740,7 @@ en-GB:
       remove_attachment: remove
     reply_form: 
       attach_file: Attach
-      cancel: Cancel
+      cancel: Prekliči
       post_reply: "Post reply"
       write_a_reply: "Write a reply..."
     results_entry: 
@@ -6834,7 +6834,7 @@ en-GB:
   due_at_5e18eeac: "Completed At:"
   due_at_time_fa41cf6c: "Due at: %{time}"
   due_by_c263dc10: "due by"
-  due_date_5d0a953c: "Due Date:"
+  due_date_5d0a953c: "Rok:"
   due_date_6a281fe3: "Due: %{date}"
   due_date_822625d8: "Due date"
   due_date_cannot_be_after_course_end_fd128a14: "Due date cannot be after course end"
@@ -6980,7 +6980,7 @@ en-GB:
     alt_text: "Alternate text:"
     button: 
       insert_equation: "Insert equation"
-    cancel: Cancel
+    cancel: Prekliči
     cannot_render_equation: "This equation cannot be rendered in Basic View."
     click_to_embed: "Click to embed the image"
     done: 
@@ -7085,9 +7085,9 @@ en-GB:
   end_course_set_up_tutorial_dialog_5b812ec6: "End course set-up tutorial dialog"
   end_course_set_up_tutorial_f358b85d: "End course set-up tutorial"
   end_date_cannot_be_before_start_date_eb62ed6d: "End date cannot be before start date"
-  end_date_cdd7a7b6: "End date:"
+  end_date_cdd7a7b6: "Datum zaključka:"
   end_date_e0093ed7: "End date"
-  end_date_from_cdd9d90: "End date from:"
+  end_date_from_cdd9d90: "Datum zaključka od:"
   end_date_to_8b17929d: "End date to:"
   end_dates_249d8dbb: "End dates:"
   end_dates_cannot_be_before_start_dates_d6018daf: "End dates cannot be before start dates"
@@ -7493,11 +7493,11 @@ en-GB:
     unsaved_changes: "You have unsaved changes."
     wrong_file_extension: "The file you selected with extension \"%{extension}\", is not authorised for submission"
   event_date_c9459fe3: "Event Date"
-  event_date_f05219e7: "Event Date:"
+  event_date_f05219e7: "Datum dogodka:"
   event_end_time_ef830e66: "Event End Time"
   event_fe9ba3fe: Event
   event_start_time_441b491f: "Event Start Time"
-  event_title_57a50568: "Event title:"
+  event_title_57a50568: "Naslov dogodka:"
   event_title_course_name_changed_to_37510fbb: "%{event_title}, %{course_name} changed to"
   every_665d821e: Every
   everyone_854554dd: Everyone
@@ -7526,7 +7526,7 @@ en-GB:
   expand_global_navigation_2c28d5d4: "Expand global navigation"
   expand_group_53765272: "Expand group"
   expand_list_of_group_members_for_groupname_9ce9d2f7: "Expand list of group members for %{groupName}"
-  expand_or_collapse_calendars_9854b0d0: "Expand or collapse calendars"
+  expand_or_collapse_calendars_9854b0d0: "Razširi ali strni koledarje"
   expand_or_collapse_undated_items_b901de09: "Expand or collapse undated items"
   expand_subdiscussion_cd226ed4: "Expand Sub discussion"
   expand_tutorial_tray_22630c49: "Expand tutorial tray"
@@ -7545,9 +7545,9 @@ en-GB:
   external_collaborations_tool_a4899abb: "External collaborations tool"
   external_content: 
     cancel: 
-      canceling: Cancelling...
+      canceling: Preklicujem ...
       popup_failure: "Cannot find the parent window, you'll need to close this popup manually."
-      popup_success: "Cancelled. This popup should close on its own..."
+      popup_success: "Preklicano. This popup should close on its own..."
     success: 
       content_failure: "Content retrieval failed, please try again or notify your system administrator of the error."
       oembed_failure: "Content retrieval failed, please try again or notify your system administrator of the error."
@@ -7602,7 +7602,7 @@ en-GB:
     app_saved_message: "%{app} saved successfully!"
     assignment_menu_configured: "Assignment menu configured"
     buttons: 
-      cancel: Cancel
+      cancel: Prekliči
       delete: Delete
     cannot_locate_launch_request: "Cannot locate launch request, please try again."
     consumer_key: "Consumer key"
@@ -7690,7 +7690,7 @@ en-GB:
     save_failed: "Unable to save review: %{message}"
     saving: Saving...
     shared_secret: "Shared secret"
-    submit: Submit
+    submit: Pošlji
     user_navigation_configured: "User navigation configured"
     wiki_page_menu_configured: "Wiki page menu configured"
   external_url_e9b87215: "External URL"
@@ -7893,7 +7893,7 @@ en-GB:
   fill_in_the_blank_read_surrounding_text_1a6c73c7: "Fill in the blank, read surrounding text"
   filled_5d8c39e: Filled
   filter_9df28e5b: "Filter:"
-  filter_announcements_by_unread_495eeeb3: "filter announcements by unread"
+  filter_announcements_by_unread_495eeeb3: "filtriraj obvestila po neprebrano"
   filter_by_ip_address_40965f66: "Filter by IP address"
   filter_by_name_34cbe139: "Filter by name"
   filter_by_student_name_or_secondary_id_83dc524f: "Filter by student name or secondary ID"
@@ -7902,11 +7902,11 @@ en-GB:
   filter_conversations_by_course_or_group_38d0a55e: "Filter conversations by course or group"
   filter_conversations_by_type_1ce8c064: "Filter conversations by type"
   filter_discussions_by_assignments_757924ed: "filter discussions by assignments"
-  filter_discussions_by_unread_6c48322: "filter discussions by unread"
+  filter_discussions_by_unread_6c48322: "filtriraj diskusije po neprebrano"
   filter_e3398407: Filter
   filter_ip_addresses_2f296bd2: "Filter IP addresses"
-  filter_replies_by_unread_342e8e90: "Filtre replies by unread"
-  filter_replies_by_unread_caf870ea: "filter replies by unread"
+  filter_replies_by_unread_342e8e90: "Filtriraj odgovore po neprebrano"
+  filter_replies_by_unread_caf870ea: "filtriraj odgovore po neprebrano"
   filters_92f2776f: Filters
   final_grade_4d7f6545: "Final Grade"
   final_grade_6938dca8: "Final grade:"
@@ -8089,15 +8089,15 @@ en-GB:
       scores_updated: 
         one: "1 student score updated"
         other: "%{count} Student scores updated"
-    all_sections: "All sections"
+    all_sections: "Vsi segmenti"
     allow_message: "Click the \"Allow\" button to begin recording."
     begin_record_prompt: "Click the \"Record\" button to begin."
     buttons: 
-      dialog_buttons: Cancel
+      dialog_buttons: Prekliči
       saving_settings: "Saving settings..."
       submit_comment: "Submit comment"
-      submitting: Submitting...
-    cancel_button: Cancel
+      submitting: V pošiljanju
+    cancel_button: Prekliči
     canvadoc_expiring: "Your Canvas DocViewer session is expiring soon.  Please reload the window to avoid losing any work."
     click_to_change: "Click to test a different score"
     column_header: 
@@ -8127,7 +8127,7 @@ en-GB:
       select_an_option: "Please select an option"
       upload_as_zip: "Please upload files as a .zip"
     grade_display_warning: 
-      cancel: Cancel
+      cancel: Prekliči
       continue: Continue
       percent_text: "Students will also see their final grade as a percentage. Are you sure you want to continue?"
       points_text: "Students will also see their final grade as points. Are you sure you want to continue?"
@@ -8182,7 +8182,7 @@ en-GB:
     percent_of_grade: "%{percentage} of grade"
     points_out_of: "out of %{points_possible}"
     portion_graded: "%{x}/%{y}"
-    recording_expired_message: "Speech recognition has expired due to inactivity. Click the \"Stop\" button to use current text for comment or \"Cancel\" to discard."
+    recording_expired_message: "Speech recognition has expired due to inactivity. Kliknite gumb »Stop« za uporabo trenutnega besedila kot komentar ali kliknite »Prekliči« za zavrnitev."
     recording_message: Recording...
     row_student_name: 
       student_placeholder: Student
@@ -8207,7 +8207,7 @@ en-GB:
       scored_less_than_on: "Scored less than %{cutoff} on %{assignment}"
       scored_more_than: "Scored more than"
       scored_more_than_on: "Scored more than %{cutoff} on %{assignment}"
-    submit: Submit
+    submit: Pošlji
     titles: 
       click_to_record: "Speech to Text"
       hypothetical_score: "This is a what-If score"
@@ -8240,7 +8240,7 @@ en-GB:
       scores_updated: 
         one: "1 student score updated"
         other: "%{count} student scores updated"
-    all_sections: "All sections"
+    all_sections: "Vsi segmenti"
     assignment_muted: "Assignment muted"
     column_header: 
       assignment_options: "Assignment options"
@@ -8259,7 +8259,7 @@ en-GB:
       none_to_update: "None to update"
       upload_as_zip: "Please upload files as a .zip"
     grade_display_warning: 
-      cancel: Cancel
+      cancel: Prekliči
       continue: Continue
       percent_text: "Students will also see their final grade as a percentage. Are you sure you want to continue?"
       points_text: "Students will also see their final grade as points. Are you sure you want to continue?"
@@ -8551,7 +8551,7 @@ en-GB:
     screenreader: 
       page_titles: "Gradebook: Individual View"
     speed_grader: 
-      all_sections: "All sections"
+      all_sections: "Vsi segmenti"
       attach: Attach
       buttons: 
         save: Save
@@ -8605,7 +8605,7 @@ en-GB:
         previous: Previous
         remove_attachment: "Remove Attachment"
         settings: Settings
-        show_all_sections: "Show all sections"
+        show_all_sections: "Pokaži vse segmente"
         submit_same_score: "Use this same grade for the resubmission"
       loading: loading...
       no_annotation: "Annotations are not available for this document"
@@ -8680,7 +8680,7 @@ en-GB:
       scores_updated: 
         one: "1 student score updated"
         other: "%{count} Student scores updated"
-    all_sections: "All sections"
+    all_sections: "Vsi segmenti"
     column_header: 
       assignment_options: "Assignment options"
       points_out_of: "Out of %{assignment.points_possible}"
@@ -8694,7 +8694,7 @@ en-GB:
       none_to_update: "None to update"
       upload_as_zip: "Please upload files as a .zip"
     grade_display_warning: 
-      cancel: Cancel
+      cancel: Prekliči
       continue: Continue
       percent_text: "Students will also see their final grade as a percentage. Are you sure you want to continue?"
       points_text: "Students will also see their final grade as points. Are you sure you want to continue?"
@@ -9017,7 +9017,7 @@ en-GB:
       labels: 
         description: Description
         join_level: "Join permissions"
-        name: Title
+        name: Naslov
     edit_group: "Edit group"
     edit_group_category: 
       allow_self_signup: "Allow self sign-up"
@@ -9107,10 +9107,10 @@ en-GB:
         search_groups: "Search groups"
         search_users: "Search users"
       group_category_clone: 
-        cancel: Cancel
+        cancel: Prekliči
       group_category_create: 
         allow_self_signup: "Allow self sign-up"
-        cancel: Cancel
+        cancel: Prekliči
         create_groups: "Create %{num_groups} groups now"
         create_groups_manually: "I'll create groups manually"
         group_set_name: "Group Set Name"
@@ -9138,7 +9138,7 @@ en-GB:
         uncategorized_groups: "These groups are not associated to any particular group set. Because they were imported via SIS, they can only be updated or deleted via SIS."
       group_category_edit: 
         allow_self_signup: "Allow self sign-up"
-        cancel: Cancel
+        cancel: Prekliči
         group_limit_override: "Changing this will override any individually set group limits"
         group_set_name: "Group Set Name"
         leave_group_limit_blank: "Leave blank for no limit"
@@ -9156,7 +9156,7 @@ en-GB:
         show_group_details: "Show details for group %{name}"
         visit_group_homepage: "Visit Group Homepage"
       group_edit: 
-        cancel: Cancel
+        cancel: Prekliči
         group_join_level: Joining
         group_max_membership: "Limit groups to"
         group_max_membership_help: "(Leave blank to use group set max)"
@@ -9190,7 +9190,7 @@ en-GB:
         no_groups: "There are currently no groups in this group set. Add a group to get started."
         no_matching_groups: "There are no groups that match your current search term."
       randomly_assign_members: 
-        cancel: Cancel
+        cancel: Prekliči
         okay: Okay
         randomly_assign_students_dialog: "This will automatically assign all unassigned students as evenly as possible among the existing student groups."
       self_signup_help: 
@@ -9703,7 +9703,7 @@ en-GB:
   ireland_f7bb9899: Ireland
   israel_681bc5a5: Israel
   israel_972_e671df75: "Israel (+972)"
-  it_looks_like_you_have_an_invalid_email_address_ad_67dec734: "It looks like you have an invalid email address: \"%{addr}\""
+  it_looks_like_you_have_an_invalid_email_address_ad_67dec734: "Vaš e-naslov najbrž ni pravilen: »%{addr}«"
   it_looks_like_your_content_might_not_load_you_can__dfb85860: "It looks like your content might not load. You can use this button to try launching it in a new tab."
   it_s_ok_to_leave_this_page_we_ll_email_you_when_th_2dbed7fa: "It's ok to leave this page, we'll email you when the import is done."
   it_took_too_long_to_login_please_try_again_c1ed2e28: "It took too long to log in. Please try again"
@@ -9865,7 +9865,7 @@ en-GB:
         close: "Press comma to close this dialog"
       links: 
         close: Close
-        dashboard: "My dashboard"
+        dashboard: "Moja nadzorna plošča"
     fixed_bottom: 
       masquerading: 
         stop: "Stop masquerading"
@@ -9952,11 +9952,11 @@ en-GB:
       no_submission_created: "This outcome request failed to create a new homework submission."
     canvas: 
       migration: 
-        announcements: Announcements
+        announcements: Obvestila
         assessment_question_banks: "Question banks"
         assignments: Assignments
         attachments: Files
-        calendar_events: "Calendar Events"
+        calendar_events: "Koledarski dogodki"
         context_modules: Modules
         course_settings: "Course settings"
         discussion_topics: "Discussion topics"
@@ -10041,7 +10041,7 @@ en-GB:
   link_only_995966e: "Link only"
   link_selection_1486c5d0: "Link selection"
   link_text_d2c702f9: "Link text"
-  link_title_189888b7: "Link Title"
+  link_title_189888b7: "Naslov povezave"
   link_title_d959a7b3: "Link title"
   link_url_a213671c: "Link URL"
   link_url_cf96376: "Link Url"
@@ -10051,7 +10051,7 @@ en-GB:
   linked_with_wiki_page_title_b17c3521: "linked with Wiki Page '%{title}'"
   linkedin_5726caca: LinkedIn
   links: 
-    dashboard: "My dashboard"
+    dashboard: "Moja nadzorna plošča"
     errors: 
       4xx_feedback: "Click here to tell us what you were looking for."
       feedback: "Click here to tell us what happened"
@@ -10102,7 +10102,7 @@ en-GB:
   loading_unsynched_changes_688434f2: "Loading Unsynched Changes"
   locales: 
     en-GB: "English (United Kingdom)"
-  location_e17bd402: Location
+  location_e17bd402: Lokacija
   lock_at_time_3c8a044e: "Lock at: %{time}"
   lock_c341af13: Lock
   lock_date_cannot_be_after_course_end_a473158b: "Lock date cannot be after course end"
@@ -10180,9 +10180,9 @@ en-GB:
           remember_me: "Stay signed in"
         log_in: "Log In"
         login_handle: "Enter your %{login_handle_name} and we will send you a link to change your password."
-        open_source_learning_management_system: "Open Source LMS"
+        open_source_learning_management_system: "Odprtokodni LMS"
     logout_confirm: 
-      cancel: Cancel
+      cancel: Prekliči
       details: 
         log_out: "Are you sure you want to log out of Canvas?"
       log_out: "Log out"
@@ -10315,7 +10315,7 @@ en-GB:
   mark_as_done_6fa48d2f: "Mark as done"
   mark_as_done_779556d7: "mark as done"
   mark_as_read_e7de2ce3: "Mark as read"
-  mark_as_unread_4a413c41: "Mark as unread"
+  mark_as_unread_4a413c41: "Označi kot neprebrano"
   mark_done_9d81bcd9: "Mark completed"
   marked_done_8f61ebb8: "marked done"
   marked_done_9fd646f: "Marked completed"
@@ -10355,7 +10355,7 @@ en-GB:
       kaltura_disabled: "Kaltura has been disabled for this Canvas site"
     buttons: 
       submit: "Submit media file"
-    cancel: Cancel
+    cancel: Prekliči
     click_to_view: "Click to view"
     errors: 
       file_too_large: "*This file is too large.* The maximum size is %{size}MB."
@@ -10860,22 +10860,22 @@ en-GB:
           assignment_due_date_changed: "Assignment Due Date Changed: %{assignment_name}, %{course_name} (%{override})"
           assignment_due_date_changed_sentence: "The due date for the assignment, %{assignment_name}, for the course, %{course_name} (%{override}), has changed to:"
           link: "Click here to view the assignment"
-          no_due_date: "No due date"
+          no_due_date: "Ni roka"
         labels: 
           click_to_see_assignment: "Click here to view the assignment"
-        no_due_date: "No due date"
+        no_due_date: "Ni roka"
       sms: 
         assignment_due_date_changed: "%{assignment_name}, %{course_name} (%{override}) is now due:"
         more_info_at_url: "More info at %{web_address}"
-        no_due_date: "No due date"
+        no_due_date: "Ni roka"
       summary: 
         assignment_due_date_changed: "Assignment Due Date Changed: %{assignment_name}, %{course_name} (%{override})"
-        due_at: "due: %{assignment_due_date_time}"
-        no_due_date: "due: No due date"
+        due_at: "rok: %{assignment_due_date_time}"
+        no_due_date: "due: Ni roka"
       twitter: 
         assignment_change: "Canvas alert - Date change: %{assignment_name}, %{course_name} (%{override})"
-        due_at: "due: %{assignment_due_date_time}"
-        no_due_date: "due: No due date"
+        due_at: "rok: %{assignment_due_date_time}"
+        no_due_date: "due: Ni roka"
     assignment_graded: 
       email: 
         assignment_graded: "Assignment graded: %{assignment_name}, %{course_name}"
@@ -11172,7 +11172,7 @@ en-GB:
         body: |-
             Hi %{user},
             
-            Good news! %{course}, the course you enrolled in on Canvas Network, will be starting soon.
+            Izobraževalni program %{course}, kjer ste udeleženi, se bo v kratkem začel.
             
             To help make sure you get the most from your course, you should check for any special instructions or course materials listed by the instructor.  You can look for this on the course details page on Canvas Network, or just click the link below.
             
@@ -11187,20 +11187,20 @@ en-GB:
         body: |-
             Hello %{user},
             
-            This is a friendly reminder that %{course}, your course on Canvas Network, begins today. You can now log in to %{site} and get started!
+            Pozor: izobraževalni program %{course} se začne danes. You can now log in to %{site} and get started!
             
             Don't forget to set up your Canvas Network profile, so others in the course know who you are. You can update your profile at %{profile_url}
             
             Keep learning,
             
             Canvas Network
-        course_starts_today: "Your course begins today"
+        course_starts_today: "Vaš izobraževalni program se začne danes"
     course_starts_in_week: 
       email: 
         body: |-
             %{user},
             
-            It's almost time! %{course}, a course you enrolled in on Canvas Network, begins next week. We know how excited you must be, and we're excited too.
+            Izobraževalni program %{course}, kjer ste udeleženi, se bo v kratkem začel. We know how excited you must be, and we're excited too.
             
             What can you do to get ready?
             
@@ -11211,7 +11211,7 @@ en-GB:
             Keep learning,
             
             Canvas Network
-        course_starts_next_week: "Your course starts next week"
+        course_starts_next_week: "Vaš izobraževalni program se začne naslednji teden"
     dialog: 
       title: "Send a reply message"
     email: 
@@ -12189,7 +12189,7 @@ en-GB:
     announcement_type: Announcement
     assignment_group_type: "Assignment group"
     assignment_type: Assignment
-    calendar_event_type: "Calendar Event"
+    calendar_event_type: "Koledarski dogodek"
     discussion_topic_type: "Discussion topic"
     ecollege: 
       course_not_found: "The ECollege course wasn't found."
@@ -12289,17 +12289,17 @@ en-GB:
       file: 
         add_files: "Add files"
       header: 
-        cancel: Cancel
+        cancel: Prekliči
         create_header: "Create header"
       link: 
         add_link: "Add link"
-        cancel: Cancel
+        cancel: Prekliči
       page: 
         add_pages: "Add pages"
       quiz: 
         add_quizzes: "Add quizzes"
       tool: 
-        cancel: Cancel
+        cancel: Prekliči
     add_item: 
       add_new_item: "Add new item"
       assignment: Assignment
@@ -12315,7 +12315,7 @@ en-GB:
       item_type: "Type:"
     add_module_item_dialog_wrapper: 
       Save: Save
-      cancel: Cancel
+      cancel: Prekliči
       creating: Creating...
     assignments_to_grade: 
       one: "1 assignment has ungraded submissions"
@@ -12326,31 +12326,31 @@ en-GB:
     continue: Continue
     create: 
       assignment: 
-        cancel: Cancel
+        cancel: Prekliči
         create: Create
       discussion: 
-        cancel: Cancel
+        cancel: Prekliči
         create_discussion: "Create discussion"
       file: 
-        cancel: Cancel
+        cancel: Prekliči
         upload: Upload
       header: 
-        cancel: Cancel
+        cancel: Prekliči
         create_header: "Create header"
       link: 
         add_link: "Add link"
-        cancel: Cancel
+        cancel: Prekliči
       page: 
-        cancel: Cancel
+        cancel: Prekliči
         creat_page: "Create page"
       quiz: 
-        cancel: Cancel
+        cancel: Prekliči
         create_quiz: "Create quiz"
       tool: 
-        cancel: Cancel
+        cancel: Prekliči
     dialog_title: "Add item to %{moduleName}"
     item: 
-      cancel: Cancel
+      cancel: Prekliči
       edit_item: "Edit module item"
       item_title: "Module item title"
       points_possible: pts
@@ -12369,7 +12369,7 @@ en-GB:
         module: Module
     module_edit: 
       Create: Create
-      cancel: Cancel
+      cancel: Prekliči
       has_unlock_date: "Lock modules until a given date"
       lock_datea: "Lock date"
       module_name: "Module name"
@@ -12427,7 +12427,7 @@ en-GB:
   more_importantly_canvas_allows_you_to_add_outcomes_78822cf: "More importantly, Canvas allows you to add outcomes to your grading rubrics so that you can evaluate mastery as you grade assignments. Once you've set up outcomes, click Manage Rubrics to start using your outcomes for grading."
   more_info_at_course_name_56dc8c10: "More info at %{course_name}"
   more_information_3dfb76b5: "More information"
-  more_people_options_730e9686: "More people options"
+  more_people_options_730e9686: "Več možnosti za uporabnike"
   more_results_were_added_at_the_bottom_of_the_page_dc323877: "More results were added at the bottom of the page."
   more_than_999_submissions_need_grading_bc087dd0: "More than 999 submissions need grading"
   more_than_9_submissions_need_grading_30157d49: "More than 9 submissions need marking"
@@ -12446,7 +12446,7 @@ en-GB:
   move_contents_cefe9e92: "Move contents..."
   move_contents_into_f3e4fd9d: "Move contents to"
   move_dialog: 
-    cancel: Cancel
+    cancel: Prekliči
     save: Save
     saving: Saving...
     where_to_move: "Where would you like to move *%{name}*?"
@@ -12544,7 +12544,7 @@ en-GB:
   muted_283cfa0f: (muted)
   muted_3ff94739: Muted
   muting_assignment_a9aeb5c7: "Muting assignment..."
-  my_dashboard_b724020: "My dashboard"
+  my_dashboard_b724020: "Moja nadzorna plošča"
   my_settings_2ff35329: "My settings"
   my_themes_b72217b8: "My themes"
   n_554bc493: "n"
@@ -12663,8 +12663,8 @@ en-GB:
   next_page_d2a39853: "Next Page"
   next_steps_ce0f0d0c: "Next steps"
   next_student_b62869f4: "Next student"
-  nickname_1e6da3ad: Nickname
-  nickname_7df95b09: "Nickname:"
+  nickname_1e6da3ad: Vzdevek
+  nickname_7df95b09: "Vzdevek:"
   no_74e9b590: "no"
   no_announcements_280df147: "No announcements"
   no_assignment_name_adbb215b: "No assignment name"
@@ -12679,8 +12679,8 @@ en-GB:
   no_date_bfeb2df7: "No date"
   no_description_c2554c25: "No description"
   no_directory_is_selected_please_select_a_directory_46ded46: "No directory is selected, please select a directory before clicking 'move'"
-  no_due_date_1d63d13b: "No due date"
-  no_due_date_44271c53: "No due date"
+  no_due_date_1d63d13b: "Ni roka"
+  no_due_date_44271c53: "Ni roka"
   no_due_date_6e6a23c1: "(no due date)"
   no_e16d9132: "No"
   no_exports_to_display_7f1b630b: "No exports to display"
@@ -12784,9 +12784,9 @@ en-GB:
         Assignment (except quizzes) submission/resubmission
     all_submissions_display: "All submissions"
     announcement_created_by_you_description: |-
-        * Announcements created by you
+        * Obvestila, ki ste jih ustvarili vi
         * Replies to announcements you've created
-    announcement_created_by_you_display: "Announcement created by you"
+    announcement_created_by_you_display: "Obvestila, ki ste jih ustvarili vi"
     announcement_description: "New Announcement in your course"
     announcement_display: Announcement
     appointment_availability_description: |-
@@ -12886,7 +12886,7 @@ en-GB:
       account_user_registration: "Account user registration"
       added_to_conversation: "Added to conversation"
       alert: Alert
-      announcement_created_by_you: "Announcement created by you"
+      announcement_created_by_you: "Obvestila, ki ste jih ustvarili vi"
       announcement_reply: "Announcement reply"
       appointment_canceled_by_user: "Appointment cancelled by user"
       appointment_deleted_for_user: "Appointment deleted for user"
@@ -12933,7 +12933,7 @@ en-GB:
       new_course: "New course"
       new_discussion_entry: "New discussion entry"
       new_discussion_topic: "New discussion topic"
-      new_event_created: "New event created"
+      new_event_created: "Nov dogodek je bil uspešno ustvarjen"
       new_file_added: "New file added"
       new_files_added: "New files added"
       new_student_organized_group: "New student organised group"
@@ -12994,11 +12994,11 @@ en-GB:
       immediately: ASAP
       never: Never
       title: 
-        daily: "Send daily summary"
-        never: "Do not send me anything"
-        right_away: "Notify me right away"
-        weekly: "Send weekly summary"
-      weekly: Weekly
+        daily: "Pošlji dnevno poročilo"
+        never: "Ne pošlji ničesar"
+        right_away: "Obvesti me takoj"
+        weekly: "Pošlji tedensko poročilo"
+      weekly: Tedensko
     groups: 
       admin: Administrative
       alerts: Alerts
@@ -13081,7 +13081,7 @@ en-GB:
     auth: 
       oauth2_complete: "The application has finished the login workflow, and should reactivate shortly."
     confirm: 
-      cancel: Cancel
+      cancel: Prekliči
       details: 
         allow_application: "%{app_name} is requesting access to your account."
         email: "Your email address is %{email}."
@@ -13090,7 +13090,7 @@ en-GB:
         remember_access: "Remember my authorization for this service"
       page_title: "App login"
     confirm_form: 
-      cancel: Cancel
+      cancel: Prekliči
       details: 
         allow_application: "%{app_name} is requesting access to your account."
         email: "Your email address is %{email}."
@@ -13099,7 +13099,7 @@ en-GB:
         remember_access: "Remember my authorisation for this service"
     confirm_mobile: 
       authorize: Authorise
-      cancel: Cancel
+      cancel: Prekliči
       details: 
         allow_application: "Allow %{app_name} to access your account."
         email: "Your email address is %{email}."
@@ -13198,14 +13198,14 @@ en-GB:
   orbis_report_header_student_name: "student name"
   orbis_report_header_student_sis_id: "user sis"
   orbis_report_header_submission_score: "submission score"
-  ordered_by_recent_activity_112d33d5: "Ordered by recent activity"
+  ordered_by_recent_activity_112d33d5: "Razvrsti po aktivnosti"
   organize_and_segment_your_course_by_topic_unit_cha_4c38a6b9: |-
       Organise and segment your course by topic, unit, chapter,
-      or week. Sequence selected modules by defining criteria and
+      ali teden. Sequence selected modules by defining criteria and
       prerequisites.
   organize_and_segment_your_course_by_topic_unit_cha_6ac2de91: |-
       Organise and segment your course by topic, unit, chapter,
-      or week. Sequence select modules by defining criteria and
+      ali teden. Sequence select modules by defining criteria and
       pre-requisites.
   organize_epub_by_content_type_default_is_by_module_6f44ae06: "Organise epub by content type (default is by module)."
   organize_your_course_content_c3c7ed03: "Organise your course content"
@@ -13399,7 +13399,7 @@ en-GB:
   page_views_eb64cf53: "Page views"
   page_views_only_312b7577: "Page views only"
   pages: 
-    cancel_button: Cancel
+    cancel_button: Prekliči
     cannot_unpublish_front_page: "Cannot unpublish the front page"
     delete_button: Delete
     delete_confirmation: "Are you sure you wish to delete this wiki page?"
@@ -14029,7 +14029,7 @@ en-GB:
   post_grades_to_sis_checkbox_is_enabled_by_default__394a8229: "'Post grades to SIS' tick box is enabled by default for assignments, graded discussions and quizzes"
   post_to_961f8937: "Post to"
   posted_at_4cfce2c3: "%{posted_at}"
-  posted_on_e1010e1e: "Posted on:"
+  posted_on_e1010e1e: "Objavljeno:"
   powerschool_a30f0bfc: PowerSchool
   practice_quiz_19a8505d: "Practice quiz"
   pre_processing_92865c1d: Pre-processing
@@ -14043,7 +14043,7 @@ en-GB:
   press_the_comma_key_or_shift_question_mark_to_see__930af9df: "To see a list of keyboard shortcuts, press the comma key or shift + question mark"
   press_the_comma_key_or_shift_to_see_a_list_of_keyb_155d8ca3: "To see a list of keyboard shortcuts press the comma key or shift + ? "
   press_the_esc_key_to_close_this_modal_14d10601: "To close this modal, press the esc key "
-  prev_month_34bd934c: "Prev month"
+  prev_month_34bd934c: "Prej. mesec"
   preview_53003fd2: Preview
   preview_your_changes_373557d8: "Preview your changes"
   previous_announcements_page_79c0ada1: "Previous announcements page"
@@ -14054,8 +14054,8 @@ en-GB:
   previous_export_c6a997f7: "Previous export"
   previous_message_8804f87e: "Previous message"
   previous_module_item_2bb5e499: "Previous module/item"
-  previous_month_7adf1380: "Previous month"
-  previous_month_bb1e3c84: "Previous Month"
+  previous_month_7adf1380: "Prejšnji mesec"
+  previous_month_bb1e3c84: "Prejšnji mesec"
   previous_page_928fc112: "Previous Page"
   previous_snapshots_d8cd4820: "Previous snapshots"
   previous_student_46275eae: "Previous student"
@@ -14232,7 +14232,7 @@ en-GB:
         google_docs: "Google Docs"
         google_drive: "Google Drive"
         linkedin: LinkedIn
-        more_options: "more options"
+        more_options: "več možnosti"
         otp_backup_codes: "Multi-Factor Authentication Backup Codes"
         reconfigure_mfa: "Reconfigure multi-factor authentication"
         skype: Skype
@@ -14290,7 +14290,7 @@ en-GB:
     show: 
       administration: Administration
       become: Become
-      cancel_editing: "Cancel editing"
+      cancel_editing: "Prekliči urejanje"
       edit_profile: "Edit profile"
       links: 
         user_account_details: "Account details"
@@ -14581,7 +14581,7 @@ en-GB:
       move_bank: "move/copy question to another bank"
     show: 
       button: 
-        cancel: Cancel
+        cancel: Prekliči
         move_copy_question: "Move/copy question"
       buttons: 
         add_a_question: "Add a question"
@@ -14695,7 +14695,7 @@ en-GB:
   quiz_lti_plugin_a6256549: "Quiz LTI plugin"
   quiz_menu_4fcd5e61: "Quiz menu"
   quiz_reports: 
-    cancel_generation: Cancel
+    cancel_generation: Prekliči
     download_item_analysis: "Download item analysis report."
     download_student_analysis: "Download student analysis report."
     generatable: "Report has never been generated."
@@ -15043,7 +15043,7 @@ en-GB:
     quizzes: 
       access_code: 
         buttons: 
-          submit: Submit
+          submit: Pošlji
         labels: 
           access_code: "Access code"
         quiz_restricted: "This quiz is restricted by an access code. You'll need to ask your teacher or proctor to type in or tell you the access code in order to take the quiz."
@@ -15338,7 +15338,7 @@ en-GB:
           one: "*%{student_name}* **gets 1 extra minute on each attempt**"
           other: "*%{student_name}* **gets %{count} extra minutes on each attempt**"
         student_n: "Student %{n}"
-        submitting: Submitting...
+        submitting: V pošiljanju
         titles: 
           change_user_extensions: "Change user extensions"
           extra_attempts: "additional extra attempts"
@@ -15351,7 +15351,7 @@ en-GB:
         move_to: "Move To..."
         quiz_move_to_accessibility_warning: "This element is a more accessible alternative to drag & drop reordering."
       move_question: 
-        cancel: Cancel
+        cancel: Prekliči
         move_item: "Move item"
         place: "Place:"
         question_group: "Into question group:"
@@ -15397,7 +15397,7 @@ en-GB:
           show_question_details: "Show question details"
         limited_attempts: "Allowed attempts"
         links: 
-          cancel: Cancel
+          cancel: Prekliči
           find_questions: "Find questions"
           new_question: "New question"
           new_question_group: "New question group"
@@ -15490,7 +15490,7 @@ en-GB:
           questions: Questions
           time_limit: "Time limit"
         multiple_due_dates: "Multiple Due Dates"
-        no_due_date: "No due date"
+        no_due_date: "Ni roka"
         none: None
         requires_lockdown: "Requires Respondus LockDown Browser"
         time_limit: 
@@ -15798,8 +15798,8 @@ en-GB:
         one: "1 minute"
         other: "%{count} minutes"
       months_count: 
-        one: "1 month"
-        other: "%{count} months"
+        one: "1 mesec"
+        other: "%{count} mesecev"
       notices: 
         due_date_five_minutes_left: "Five minutes left before quiz will be marked late"
         due_date_one_minute_left: "One minute left before quiz will be marked late"
@@ -15881,7 +15881,7 @@ en-GB:
     accept: Accept
     add_folder: "Add folder"
     all_my_files: "All my files"
-    cancel: Cancel
+    cancel: Prekliči
     confirm_delete_with_contents: 
       one: "Are you sure you want to delete %{name}? It is not empty, anything inside it will be deleted too."
       other: "Are you sure you want to delete these %{count} items and everything inside them?"
@@ -15932,7 +15932,7 @@ en-GB:
   read_comments_3fcc7590: "Read comments"
   ready_to_enroll_panel_46f45abb: "Ready to enrol panel"
   recaptcha_not_configured_3a6ef9ee: "Recaptcha not configured"
-  recent_activity_51239235: "Recent activity"
+  recent_activity_51239235: "Zadnje aktivnosti"
   recent_announcements_8becc59c: "Recent announcements"
   recent_student: 
     last_logged_in: "last logged in %{last_login}"
@@ -15954,7 +15954,7 @@ en-GB:
   record_media_6637ff19: "Record Media"
   record_with_microphone_only_e4ee07aa: "Record with Microphone Only"
   record_with_webcam_af21e07c: "Record with Webcam"
-  recurring_calendar_events_c940b6b8: "Recurring Calendar Events"
+  recurring_calendar_events_c940b6b8: "Ponavljajoči koledarski dogodki"
   red_8258edf3: Red
   reference_code_3e8355dd: "Reference code"
   reference_code_is_required_c32c757f: "Reference code is required"
@@ -16082,7 +16082,7 @@ en-GB:
   restrict_access_84ba6bb8: "Restrict access"
   restrict_student_access: 
     button_text: 
-      cancel: Cancel
+      cancel: Prekliči
       update: Update
     options: 
       hiddenInput: 
@@ -16136,7 +16136,7 @@ en-GB:
       manage_admin_users: "Add/remove other teachers, course designers or TAs to the course"
       manage_announcements: "Manage global announcements"
       manage_assignments: "Manage (add/edit/delete) assignments and quizzes"
-      manage_calendar: "Add, edit and delete events on the course calendar"
+      manage_calendar: "Dodaj, uredi in spremeni dogodke v koledarju izobraževalnega programa"
       manage_canvasnet_courses: "Manage Canvas Network courses"
       manage_catalog: "Manage Catalog"
       manage_content: "Manage all other course content"
@@ -16223,7 +16223,7 @@ en-GB:
     edit_role: 
       role_name_label: "Role name"
     new_role: 
-      cancel: Cancel
+      cancel: Prekliči
       role_name: "Role name:"
       role_type: "Base type:"
       save: Save
@@ -16510,7 +16510,7 @@ en-GB:
   search_courses_7b5c4ab3: "Search courses"
   search_courses_by_teacher_e9760a48: "Search courses by teacher..."
   search_discussion_by_title_30466604: "Search discussion by title"
-  search_entries_or_author_63fb0a86: "Search entries or author"
+  search_entries_or_author_63fb0a86: "Išči po obvestilih ali avtorjih"
   search_flickr_6f28b02e: "Search flickr"
   search_for_a_deleted_course_by_id_f553398d: "Search for a deleted course by ID"
   search_for_files_7541fb28: "Search for files"
@@ -16590,7 +16590,7 @@ en-GB:
         other: "%{count} active enrolments"
       buttons: 
         back_to_course: "Back to course settings"
-        cancel: Cancel
+        cancel: Prekliči
         crosslist_section: "Cross-list this section"
         crosslist_this_section: "Cross-list this section"
         decrosslit_section: "De-cross-list this ection"
@@ -16648,7 +16648,7 @@ en-GB:
     other: "Select all (%{count}) courses"
   select_all_students_7c2c34b3: "Select all students"
   select_audio_file_7d905cce: "Select Audio File"
-  select_calendars_d5fa50b6: "Select Calendars"
+  select_calendars_d5fa50b6: "Izberi koledarje"
   select_content: "Select content"
   select_content_checkbox: 
     select_content_error: "You must choose a content option"
@@ -16669,7 +16669,7 @@ en-GB:
   select_country_d21cb85a: "Select country"
   select_course_5cf89177: "Select Course"
   select_course_a_selection_is_required_before_recip_f622d9df: "Select course: a selection is required before recipients field will become available"
-  select_course_color_cad8e62b: "Select course colour"
+  select_course_color_cad8e62b: "Izberite barvo izobraževalnega programa"
   select_course_or_group_ddb2185d: "Select course or group"
   select_courses_or_groups_1a8b8f66: "Select courses or groups"
   select_d70f31da: Select
@@ -16710,7 +16710,7 @@ en-GB:
       already_enrolled: "You are already enrolled in **%{course}**."
       buttons: 
         go_to_course: "Go to the course"
-        go_to_dashboard: "Go to your dashboard"
+        go_to_dashboard: "Pojdi na nadzorno plošo"
     authenticate: 
       buttons: 
         enroll_in_course: "Enrol in course"
@@ -16744,7 +16744,7 @@ en-GB:
       already_enrolled: "You have successfully enrolled in **%{course}**."
       buttons: 
         go_to_course: "Go to the course"
-        go_to_dashboard: "Go to your dashboard"
+        go_to_dashboard: "Pojdi na nadzorno plošo"
       not_available_yet: "We'll send you an email shortly before the course begins."
   self_registration_156392d6: "Self registration"
   self_signup_15b23092: self_signup
@@ -16905,7 +16905,7 @@ en-GB:
       ? "User Research"
       : "User research"
       by_instructure: "By Instructure"
-      open_source_learning_management_system: "Open source LMS"
+      open_source_learning_management_system: "Odprtokodni LMS"
     components: 
       ic_submission-download-dialog: 
         click_to_download: "Click here to download"
@@ -17013,7 +17013,7 @@ en-GB:
       more_events_one_week_future: "%{count_of_events} more in the next week"
       more_events_two_weeks: "%{count_of_events} more in the past two weeks"
       more_events_two_weeks_future: "%{count_of_events} more in the next two weeks"
-      nothing_for_now: "Nothing for now"
+      nothing_for_now: "Trenutno ni ničesar"
       nothing_one_week: "Nobenih dogodkov v naslednjem tednu"
       nothing_two_weeks: "Nobenih dogodkov v naslednjih dveh tednih"
       titles: 
@@ -17142,7 +17142,7 @@ en-GB:
           Once you have muted this assignment, you can begin sending
           notifications again by clicking the 'Unmute Assignment' link.
     new_course_form: 
-      cancel: Cancel
+      cancel: Prekliči
       course_cose_explanation: "This will be displayed in places with little space"
       course_is_public_explanation: "Make course publicly visible *(student data will remain private)*"
       create_course: "Create course"
@@ -17153,14 +17153,14 @@ en-GB:
         name: "Course name"
       new_course_name_placeholder: "Course name"
       sample_course_code: Course-101
-      start_a_new_course: "Start a new course"
+      start_a_new_course: "Ustvari nov izobraževalni program"
     new_nav_header: 
       links: 
         dashboard: Nadzorna plošča
         skip_to_content: "Skip to content"
     no_recent_activity: 
-      empty_stream_message: "You don't have any messages to show in your stream yet. Once you begin participating in your courses, you'll see this stream fill up with messages from discussions, grading updates, private messages between you and other users, etc."
-      no_recent_messages: "No recent messages"
+      empty_stream_message: "Trenutno ni nobenih sporočil. Ko boste začeli sodelovati v izobraževalnem programu, se bo ta seznam napolnil s sporočili, obvestili, zasebnimi pogovori med vami in drugimi uporabniki ..."
+      no_recent_messages: "Ni sporočil"
     pending_enrollment: 
       designer: "%{course} as a designer."
       designer_title: "Invited as a designer, click to see the course"
@@ -17181,10 +17181,10 @@ en-GB:
     profile: 
       add_link_field: "Add another link"
       bio: Biography
-      cancel: Cancel
+      cancel: Prekliči
       know_this_person_as: "You know this person as a..."
       links: Links
-      links_title: Title
+      links_title: Naslov
       links_url: URL
       manage_settings: "Manage registered services"
       message_me: "message me in Canvas"
@@ -17196,7 +17196,7 @@ en-GB:
       save_profile: "Save profile"
       service_contact: "contact %{user} with %{service}"
       social_instructions: "Check the contact methods you'd like to be visible to others on your profile."
-      title: Title
+      title: Naslov
       titles: 
         click_to_change_profile_pic: "Click to change profile pic"
       user_enrolled: Enrolments
@@ -17205,15 +17205,15 @@ en-GB:
     recent_activity: 
       date_column: Date
       message_column: Message
-      recent_activity: "Recent activity"
-      recent_activity_in_course: "Recent activity in %{course_or_group}"
-      unread_column: Unread
+      recent_activity: "Zadnje aktivnosti"
+      recent_activity_in_course: "Zadnje aktivnosti v %{course_or_group}"
+      unread_column: Neprebrano
       unread_count_badge: 
-        one: "1 *unread item*"
-        other: "%{count} *unread items*"
+        one: "1 *neprebran vnos*"
+        other: "%{count} *neprebranih vnosov*"
     recent_activity_item: 
       close: close
-      unread: Unread
+      unread: Neprebrano
     registration_incomplete: 
       confirm_email_instructions: "Before you can view this page, you need to *verify your email address* (%{email}). Click the link in your email to finish setting up your account. If you don't see the email, **click to re-send it**, and make sure to check your spam folder."
       headings: 
@@ -17250,8 +17250,8 @@ en-GB:
         rubric_in_use2: "You've already rated students with this rubric. Any major changes could affect their assessment results."
       out_of: "%{points} *out of %{total}*"
       rubric: Rubric
-      rubric_title: Title
-      title: "Title:"
+      rubric_title: Naslov
+      title: "Naslov:"
       titles: 
         find_existing_rubric: "Find existing rubric"
     rubric_criterion: 
@@ -17306,7 +17306,7 @@ en-GB:
       buttons: 
         edit_assessment: "Edit assessment"
       defaults: 
-        title: Title
+        title: Naslov
       headers: 
         assessment: Assessment
         criteria: Criteria
@@ -17451,7 +17451,7 @@ en-GB:
       files_tab: "Click any file to insert a download link for that file."
       group_links: "Link to other content in the group."
       headings: 
-        insert_content: "Insert content into the page"
+        insert_content: "Vstavi vsebino v stran"
       images: 
         alt: 
           loading: Loading...
@@ -17476,8 +17476,8 @@ en-GB:
       labels: 
         folder: Folder
       links: 
-        announcements: Announcements
-        announcements_page: Announcements
+        announcements: Obvestila
+        announcements_page: Obvestila
         assignments: Assignments
         assignments_page: Assignments
         collaborations_page: Collaborations
@@ -17496,7 +17496,7 @@ en-GB:
         users_page: People
         wiki_pages_index: Pages
       links_to: 
-        announcements: Announcements
+        announcements: Obvestila
         assignments: Assignments
         discussions: Discussions
         modules: Modules
@@ -17535,7 +17535,7 @@ en-GB:
   show_all_artifacts_34b91a83: "Show all artifacts"
   show_all_details_9879980c: "Show all details"
   show_all_developerkeyscount_keys_63ef34ca: "Show all %{developerKeysCount} keys"
-  show_all_sections_190203e8: "Show all sections"
+  show_all_sections_190203e8: "Pokaži vse segmente"
   show_and_hide_courses_menu_9e09d1d0: "Show and hide courses menu"
   show_attendance_columns_4d160e16: "Show attendance columns"
   show_by_709f525b: "Show by"
@@ -17550,7 +17550,7 @@ en-GB:
   show_courses_menu_4e17e480: "Show courses menu"
   show_courses_navigation_menu_7ad1a8d4: "Show courses navigation menu"
   show_current_grade_5bf4e0d9: "Show current grade"
-  show_dashboard_card_view_41ebd6c6: "Show dashboard card view"
+  show_dashboard_card_view_41ebd6c6: "Pokaži pogled kartic na nadzorni plošči"
   show_dashcard_view_76078ecb: "Show dashcard view"
   show_deleted_replies_a2e0a36f: "Show deleted replies"
   show_exceptions_270ea1c5: "Show exceptions"
@@ -17567,7 +17567,7 @@ en-GB:
   show_only_blueprint_courses_9fb37b41: "Show only blueprint courses"
   show_originality_report_to_students_be22f5ee: "Show originality report to students"
   show_question_details_b059df00: "Show question details"
-  show_recent_activity_stream_2be4abc1: "Show recent activity stream"
+  show_recent_activity_stream_2be4abc1: "Pokaži seznam zadnjih aktivnosti"
   show_rubric_dca783f2: "Show rubric"
   show_saved_what_if_scores_358bfe5f: "Show saved 'what-if' scores"
   show_student_names_dcb40934: "Show Student Names"
@@ -17748,7 +17748,7 @@ en-GB:
   spring_grading_period_id_61aec82c: "Spring grading period ID"
   sr_gradebook: 
     all_grading_periods: "All grading periods"
-    all_sections: "All sections"
+    all_sections: "Vsi segmenti"
     assignment_muted: "Click to unmute."
     assignment_order_alpha: Alphabetically
     assignment_order_assignment_groups: "By Assignment Group and Position"
@@ -17780,11 +17780,11 @@ en-GB:
   starred_no_subject_click_to_unstar_3191d64: "Starred '(No Subject)'. Click to un-star."
   starred_no_subject_click_to_unstar_bff04bce: "Starred '(No Subject)'. Click to un-star."
   starred_subject_click_to_unstar_6aafcddc: "Starred '%{subject}'. Click to un-star."
-  start_date_c41cb23a: "Start date:"
+  start_date_c41cb23a: "Datum začetka:"
   start_date_e937be8a: "Start date"
   start_date_end_date_d809dd93: "%{start_date} - %{end_date}"
   start_date_field_for_styleguide_8a8ab1d6: "Start Date field for style guide"
-  start_date_from_20503757: "Start date from:"
+  start_date_from_20503757: "Datum začetka od:"
   start_date_start_time_to_end_time_dc676ce1: "%{start_date}, %{start_time} to %{end_time}"
   start_date_to_1e6e6bbe: "Start date to:"
   start_dates_8f1c22a8: "Start dates:"
@@ -17813,7 +17813,7 @@ en-GB:
       section_id: section_id
       section_sis_id: section_sis_id
       sis_id: sis_id
-      submitted: submitted
+      submitted: poslano
     exact_answer: "%{exact_value} +/- %{margin}"
     inexact_answer: "%{lower_bound} to %{upper_bound}"
     no_answer: "No answer"
@@ -17943,7 +17943,7 @@ en-GB:
     media_comment: "This is a media comment."
     state: 
       graded: graded
-      submitted: submitted
+      submitted: poslano
       unsubmitted: unsubmitted
   submission_added_title_50ebdc85: "submission added: %{title}"
   submission_comment: 
@@ -18017,7 +18017,7 @@ en-GB:
       late_submission: (late)
       links: 
         resubmit: "Resubmit assignment"
-        submit: "Submit assignment"
+        submit: "Pošlji nalogo"
       media_comment: "Media comment"
       media_comment_link: "This is a media comment, *click here to view*."
       only_see_your_own_comments_muted: "You might not see all comments right now because the assignment is currently being graded"
@@ -18072,7 +18072,7 @@ en-GB:
   submissions_11e96106: Submissions
   submissions_folder_9db8dadf: "Submissions folder"
   submissions_folders_must_be_created_in_user_or_gro_aba44f76: "submissions folders must be created in User or Group context"
-  submit_a3cc6859: Submit
+  submit_a3cc6859: Pošlji
   submit_a_feature_idea_2d4baa3d: "Submit a Feature Idea"
   submit_assignment_5799b4e3: "Submit Assignment"
   submit_comment_commenttext_8e5638d7: "Submit comment: %{commentText}"
@@ -18173,7 +18173,7 @@ en-GB:
   table_of_contents_544d9471: "Table Of contents"
   table_of_contents_d2d11ba6: "Table of contents"
   tabs: 
-    announcements: Announcements
+    announcements: Obvestila
     assignments: Assignments
     collaborations: Collaborations
     conferences: Conferences
@@ -18234,7 +18234,7 @@ en-GB:
         add_new_term: "Add New Term"
       messages: 
         classes_in_term: "You can't delete a term that still has classes in it."
-        submitting: Submitting...
+        submitting: V pošiljanju
       page_title: "%{account} Terms"
       prompts: 
         delete: "Are you sure you want to delete this term?"
@@ -18771,9 +18771,9 @@ en-GB:
     edit_topic: "Edit discussion topic"
     new_announcement: "New announcement"
     new_topic: "New discussion topic"
-  title_52b8638d: "Title:"
+  title_52b8638d: "Naslov:"
   title_appointment_group_you_can_sign_up_for_this_1c254712: "*%{title} appointment group* You can **sign up** for this."
-  title_ee03d132: Title
+  title_ee03d132: Naslov
   title_is_locked_click_to_unlock_21548cfb: "%{title} is locked. Click to unlock"
   title_is_off_6c823e2d: "%{title} is off"
   title_is_on_2b72a9b7: "%{title} is on"
@@ -18785,7 +18785,7 @@ en-GB:
   titles: 
     aligned_items: "Aligned Items"
     announcement: Announcement
-    announcements: Announcements
+    announcements: Obvestila
     assignments: Assignments
     come_back_later: "You marked this question to come back to later"
     discussion: Discussion
@@ -18815,7 +18815,7 @@ en-GB:
   to_do_1d554f36: "To do"
   to_do_5526f10a: "To Do:"
   to_do_items_loading_d1cdfcd5: "‘To Do’ items loading"
-  to_do_list_dashboard_d741f64e: "To Do List Dashboard"
+  to_do_list_dashboard_d741f64e: "Nadzorna plošča opravil"
   to_link_the_course_observer_name_to_a_student_star_f993c826: "To link the course observer *%{name}* to a student, start typing the student's name below to find them, then click Update."
   to_minscore_43e5452e: "to %{minScore}%"
   to_pin_a_discussion_to_the_top_of_the_page_drag_a__bfe476c3: "To pin a discussion to the top of the page, drag a discussion here, or select Pin from the discussion settings menu."
@@ -18825,7 +18825,7 @@ en-GB:
   to_restrict_to_users_of_your_azure_active_director_df7cdd41: "To restrict to users of your Azure Active Directory, enter your tenant here."
   to_view_all_notifications_sent_to_a_canvas_user_se_6172daa: "To view all notifications sent to a Canvas user, select the user and date range for your search."
   to_view_assignments_make_sure_the_agenda_view_is_a_5695abfd: "To view assignments, make sure the *Agenda* view is active."
-  today_76e10f9c: Nedelja
+  today_76e10f9c: Danes
   toggle_course_card_color_overlays_b5b8137a: "Toggle course card colour overlays"
   toggle_dashcard_view_or_recent_activity_stream_1de257: "Toggle dashcard view or recent activity stream"
   toggle_editing_answer_text_as_html_9a93fe6: "Toggle editing answer text as HTML"
@@ -18983,7 +18983,7 @@ en-GB:
   unpublished_courses_title: "Unpublished courses"
   unpublished_dfd8801: unpublished
   unpublishing_1fa99dc6: Unpublishing…
-  unread_e9c1b19c: Unread
+  unread_e9c1b19c: Neprebrano
   unregister_service_985238e9: "Unregister service"
   unreserved_e86b7425: Unreserved
   unsafe_file_link_8a18eceb: "unsafe file link"
@@ -19201,7 +19201,7 @@ en-GB:
       messages: 
         no_entries: "There are no journal entries for this student."
       page_title: "Faculty journal"
-      title: Title
+      title: Naslov
       titles: 
         journal_for: "Faculty journal for %{user}"
     messages: 
@@ -19212,14 +19212,14 @@ en-GB:
       labels: 
         created_by: "Created by"
         note: Note
-        title: Title
+        title: Naslov
         user: User
     tooltips: 
       loading_more: "loading more results"
     user_note: 
       links: 
         delete: "Delete this entry"
-      no_title: "No title"
+      no_title: "Brez naslova"
       subheader: "%{creator} on %{created_at}"
     user_notes: 
       crumbs: 
@@ -19314,8 +19314,8 @@ en-GB:
         other: "%{count} participants"
     dashboard_sidebar: 
       coming_up: "Prihajajoči dogodki"
-      recent_feedback: "Recent feedback"
-      start_new_course: "Start a new course"
+      recent_feedback: "Povratne informacije"
+      start_new_course: "Ustvari nov izobraževalni program"
     delete: 
       are_you_sure: "Are you sure you want to delete this user account?"
       buttons: 
@@ -19361,7 +19361,7 @@ en-GB:
         current_student_courses: "Courses I'm taking"
         previous_courses: "Previous courses"
     group: 
-      show_hide_activity_list: "Show/hide in the recent activity list"
+      show_hide_activity_list: "Pokaži/skrij v seznamu zadnjih aktivnosti"
     index: 
       all_users: "All users"
       buttons: 
@@ -19512,7 +19512,7 @@ en-GB:
     user_dashboard: 
       dashboard: Nadzorna plošča
       user_atom_feed: "User Atom feed (All courses)"
-      user_dashboard: "User dashboard"
+      user_dashboard: "Uporabnikova nadzorna plošča"
     user_is_deleted: "%{user_name} has been deleted"
     user_merge_fail: "User merge failed. Please make sure you have proper permission and try again."
     user_merge_success: "User merge succeeded! %{first_user} and %{second_user} are now one and the same."
@@ -19695,7 +19695,7 @@ en-GB:
         collapsed: "Click to toggle the new image form (collapsed)"
         expanded: "Click to toggle the new image form (expanded)"
       loading_more_results: "Loading more results"
-      no_title: "No title"
+      no_title: "Brez naslova"
       titles: 
         select_folder_for_uploads: "Select folder for file uploads"
     wiki_page: 
@@ -19719,7 +19719,7 @@ en-GB:
       page_locked_until: "This page will be available on %{lock_info.unlock_at}"
     wiki_page_edit: 
       buttons: 
-        cancel: Cancel
+        cancel: Prekliči
         save: Save
         save_and_publish: "Save & publish"
       course_editing_roles: 
@@ -19732,7 +19732,7 @@ en-GB:
         only_members: "Only members"
       notify_users_text: "Notify users that this content has changed"
       options_label: Options
-      title_label: "Page title"
+      title_label: "Naslov strani"
     wiki_page_index: 
       add_page: "Add one!"
       buttons: 
@@ -19741,13 +19741,13 @@ en-GB:
       headers: 
         creation_date: "Creation date"
         last_edit: "Last edit"
-        page_title: "Page title"
+        page_title: "Naslov strani"
       loading: "Loading ..."
       loading_more: "Loading more ..."
       no_pages: "No pages created yet."
       pages_title: Pages
     wiki_page_index_edit_dialog: 
-      page_title: Title
+      page_title: Naslov
     wiki_page_index_item: 
       labels: 
         front_page: "Front page"
