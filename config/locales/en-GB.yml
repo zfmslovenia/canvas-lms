@@ -3266,7 +3266,7 @@ en-GB:
         create: "Ustvari nov dogodek"
         update: "Posodobi dogodek"
       count: "Število:"
-      date: Datum:
+      date: "Datum:"
       delete: Izbriši
       different_date_for_each_section: "Uporabi drugačne podatke za vsak segment"
       edit_calendar_event_header: "Uredi koledarski dogodek"
