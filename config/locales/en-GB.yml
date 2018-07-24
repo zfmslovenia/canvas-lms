@@ -3364,7 +3364,7 @@ en-GB:
     screenreader_date_suggestion: "%{date}. Press enter to accept."
     time_block_errors: "There are errors in your time block selections."
     time_block_row: 
-      date_label: Datum:
+      date_label: "Datum:"
       delete_link: "Delete Time Range"
       end_time_label: "Datum zaključka"
       start_time_label: "Datum začetka:"
@@ -5796,7 +5796,7 @@ en-GB:
       website_url: "Website URL"
     syllabus: 
       headers: 
-        date: Datum:
+        date: "Datum:"
         details: Details
       syllabus: 
         hide_specific_dates: "Hide section, group, and person specific dates"
@@ -6132,7 +6132,7 @@ en-GB:
       - December
   date_at_time_25a04cd2: "%{date} at %{time}"
   date_created_87e265bc: "Date Created"
-  date_ee500367: Datum:
+  date_ee500367: "Datum:"
   date_error_7b38f8ff: "Date error"
   date_is_required_9c6f5e83: "Date is required"
   date_modified_e1c8ac8f: "Date Modified"
@@ -13391,7 +13391,7 @@ en-GB:
     download_filename: "Pageviews For %{user}"
     table: 
       headers: 
-        date: Datum:
+        date: "Datum:"
         participated: Participated
         time: Time
         url: URL
@@ -17203,7 +17203,7 @@ en-GB:
       user_has_no_bio: "%{user} hasn't added a bio"
       ways_to_contact_user: Contact
     recent_activity: 
-      date_column: Datum:
+      date_column: "Datum:"
       message_column: Message
       recent_activity: "Zadnje aktivnosti"
       recent_activity_in_course: "Zadnje aktivnosti v %{course_or_group}"
@@ -17646,7 +17646,7 @@ en-GB:
   site_2d8d3df9: Site
   site_admin: 
     columns: 
-      date: Datum:
+      date: "Datum:"
       value: Value
     domain_not_found: 
       body_description: "Please check your Canvas URL and try again. If you do not know your Canvas URL, please contact your institution or course instructor."
