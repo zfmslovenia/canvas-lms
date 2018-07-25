@@ -4805,7 +4805,7 @@ en-GB:
         course: Izobraževaln program
         select_course: "Izberi nov izobraževalni program"
         subject: Zadeva
-        to: Prejemnik:
+        to: "Prejemnik:"
       links: 
         media_comment: Record
       media_comment: "Media comment"
