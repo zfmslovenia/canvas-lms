@@ -517,7 +517,7 @@ en-GB:
         view_event_details: "Poglej podrobnosti"
       course_logging_results: 
         date: Date
-        event_details: "Event details"
+        event_details: "Podrobnosti dogodka"
         event_source: Source
         event_type: Type
         no_item_found: "No items found"
@@ -597,7 +597,7 @@ en-GB:
           assignment_groups: 
             label: "Vključene naslednje delovne skupine:"
           assignments: 
-            check_box: Assignments
+            check_box: Naloge
           major: 
             check_box: Major
           papers: 
@@ -951,7 +951,7 @@ en-GB:
           assignment_groups: 
             label: "Vključene naslednje delovne skupine:"
           assignments: 
-            check_box: Assignments
+            check_box: Naloge
           major: 
             check_box: Major
           papers: 
@@ -2085,8 +2085,8 @@ en-GB:
   assignment_excused_eb6c08fa: "Assignment Excused"
   assignment_grades_have_already_been_published_ff2d84c6: "Assignment grades have already been published."
   assignment_group: 
-    default_name: Assignments
-    default_title: Assignments
+    default_name: Naloge
+    default_title: Naloge
   assignment_group_1a781505: "Delovna skupina"
   assignment_group_filter_c03f8a1d: "ID delovne skupine"
   assignment_group_was_saved_successfully_5caa27d3: "Assignment group was saved successfully"
@@ -2197,7 +2197,7 @@ en-GB:
       empty_points_possible: "-/%{pointsPossible} pts"
       no_submission: "No submission"
       no_submission_for_assignment_screenreader: "No submission for this assignment. %{pointsPossible} points possible."
-      not_yet_graded: "*Not yet graded*"
+      not_yet_graded: "*Še ni ocenjeno*"
       score_with_points_possible: "*%{score}*/%{pointsPossible} pts"
       score_with_points_possible_screenreader: "Score: %{score} out of %{pointsPossible} points."
     assignment_settings: 
@@ -2403,7 +2403,7 @@ en-GB:
       add_assignment: Assignment
       add_group: Group
       add_quiz_lti: Quiz/test
-      assignments: Assignments
+      assignments: Naloge
       assignments_settings: "Assignments settings"
       assignments_settings_screenreader: "Assignments settings"
       grading_weight_settings: "Assignment groups weight"
@@ -2454,8 +2454,8 @@ en-GB:
     no_assignments_list_item: 
       no_assignments_in_this_group: "No assignments in this group"
     no_assignments_search: 
-      aria_assignments: Assignments
-      assignments: Assignments
+      aria_assignments: Naloge
+      assignments: Naloge
       no_assignments_found: "No assignments found"
     no_name_error: "A name is required"
     no_tools_found: "No tools found"
@@ -2685,10 +2685,10 @@ en-GB:
       no_files: "No files"
       upload_or_choose_file: "Upload a file, or choose a file you've already uploaded."
     syllabus: 
-      page_title: "Syllabus for %{course}"
+      page_title: "Učni načrt za %{course}"
     syllabus_content: 
       buttons: 
-        update_syllabus: "Update syllabus"
+        update_syllabus: "Posodobi učni načrt"
       headers: 
         date: Date
         details: Details
@@ -2754,7 +2754,7 @@ en-GB:
         originality_report_visible_after_due_date: "After the due date"
         originality_report_visible_after_grading: "After the assignment is graded"
         originality_report_visible_immediately: Immediately
-  assignments_1e02582c: Assignments
+  assignments_1e02582c: Naloge
   assignments_api: 
     invalid_date_time: "Invalid datetime for %{attribute}"
     invalid_submission_types: "Invalid submission types"
@@ -3200,8 +3200,8 @@ en-GB:
       my_appointment_groups: "My appointment groups"
     calendar_navigator: 
       enter_navigation_date: "Enter the date you would like to navigate to."
-      next: Next
-      previous: Previous
+      next: Naprej
+      previous: Nazaj
       today: Danes
     calendar_title: "Koledar:"
     cancel_appointment: "Ste prepričani, da želite preklicati sestanek z %{name}?"
@@ -3266,7 +3266,7 @@ en-GB:
         create: "Ustvari nov dogodek"
         update: "Posodobi dogodek"
       count: "Število:"
-      date: "Datum:"
+      date: Datum:
       delete: Izbriši
       different_date_for_each_section: "Uporabi drugačne podatke za vsak segment"
       edit_calendar_event_header: "Uredi koledarski dogodek"
@@ -3282,7 +3282,7 @@ en-GB:
       tabs: 
         appointment_group: "Appointment Group"
         assignment: Assignment
-        event: Event
+        event: Dogodek
         todo: "To do"
     edit_planner_note: 
       calendar: "Koledar:"
@@ -3308,11 +3308,11 @@ en-GB:
       message_students: "Message students"
       slots_available: "Slots available"
     event_event_title: "Naslov dogodka:"
-    event_on_this_day: "There is an event on this day"
+    event_on_this_day: "Na ta dan je dogodek"
     event_type: 
       assignment: Assignment
       discussion: Pogovor
-      event: Event
+      event: Dogodek
       quiz: Quiz
     input_is_invalid_date: "Input is not a valid date."
     loading_more_items: "Loading more items."
@@ -3364,13 +3364,13 @@ en-GB:
     screenreader_date_suggestion: "%{date}. Press enter to accept."
     time_block_errors: "There are errors in your time block selections."
     time_block_row: 
-      date_label: "Datum:"
+      date_label: Datum:
       delete_link: "Delete Time Range"
       end_time_label: "Datum zaključka"
       start_time_label: "Datum začetka:"
     titles: 
       edit_appointment_group: "Edit appointment group"
-      edit_event: "Edit event"
+      edit_event: "Uredi dogodek"
     today: Danes
     undated_events: 
       loading_undated_events: "Nalagam dogodke brez datuma ..."
@@ -4083,7 +4083,7 @@ en-GB:
       this_may_take_a_bit: "this may take a bit..."
     quiz_export_checklist: 
       labels: 
-        all_quizzes: "All quizzes"
+        all_quizzes: "Vsi preizkusi znanja"
       select_quizzes: "Select quizzes to export"
   content_exports_cannot_be_downloaded_after_days_da_396dfbca: "Content exports cannot be downloaded after %{days} days."
   content_exports_expire_after_days_days_9bffa557: "Content exports expire after %{days} days."
@@ -4636,12 +4636,12 @@ en-GB:
     module_started: "In progress"
     module_unlocked: Unlocked
     optgroup: 
-      assignments: Assignments
+      assignments: Naloge
       discussion_topics: Pogovori
       external_tools: "External tools"
       external_urls: "External URLs"
       files: Datoteke
-      quizzes: Quizzes
+      quizzes: Preizkusi znanja
       wiki_pages: "Wiki pages"
     points_possible_short: "%{points} pts"
     prerequisites_message: 
@@ -4802,10 +4802,10 @@ en-GB:
       labels: 
         add_to_faculty_journal: "Dodaj kot dnevniški vnos"
         attachments: Priponke
-        course: Izobraževaln program
+        course: Izobraževalni program
         select_course: "Izberi nov izobraževalni program"
         subject: Zadeva
-        to: "Prejemnik:"
+        to: Prejemnik:
       links: 
         media_comment: Record
       media_comment: "Media comment"
@@ -4986,7 +4986,7 @@ en-GB:
     batch_update_message: 
       one: "1 course processed"
       other: "%{count} courses processed"
-    course: Izobraževaln program
+    course: Izobraževalni program
     course_format: 
       blended: Blended
       not_set: "Not set"
@@ -5035,12 +5035,12 @@ en-GB:
     student_summary: 
       not_sorted: "Student summary table"
     student_view_student_name: "Test student"
-    syllabus: Syllabus
+    syllabus: Učni načrt
     wiki_permissions: 
       all: Anyone
       only_teachers: "Only teachers"
       teachers_students: "Teacher and students"
-  course_8a63b4a3: Izobraževaln program
+  course_8a63b4a3: Izobraževalni program
   course_8dcfb195: course
   course_activity_bfe11267: "Course activity"
   course_activity_stream_40091c17: "Course activity stream"
@@ -5181,7 +5181,7 @@ en-GB:
       old_account_id: "Old Account Id"
       open_enrollment: "Open Enrolment"
       public_description: "Public Description"
-      public_syllabus: "Public Syllabus"
+      public_syllabus: "Učni načrt"
       replacement_course_id: "Replacement Course Id"
       restrict_enrollments_to_course_dates: "Restrict Enrolments To Course Dates"
       root_account_id: "Root Account Id"
@@ -5214,7 +5214,7 @@ en-GB:
   course_outcomes_7dc1cbc7: "Course outcomes"
   course_pages_449f1dd4: "Strani izobraževalnega programa"
   course_people_3058c948: "Course people"
-  course_quizzes_c337653c: "Course quizzes"
+  course_quizzes_c337653c: "Preizkusi znanja"
   course_restore: 
     restore_error: "There was an error attempting to restore the course. Course was not restored."
   course_role_role_type_119c2f64: "Course role: %{role_type}"
@@ -5413,7 +5413,7 @@ en-GB:
         my_courses: "Vsi izobraževalni programi"
         my_groups: "My Groups"
         past_enrollments: "Past enrolments"
-      start_new_course: Izobraževaln program
+      start_new_course: Izobraževalni program
       titles: 
         courses: Izobraževalni programi
         rss: 
@@ -5484,7 +5484,7 @@ en-GB:
         go_back: "Start over"
         have_been_enrolled: "The following users have been enrolled"
         name: Name
-        next: Next
+        next: Naprej
         section: Section
         user_might_not_exist: "If your format is correct, contact your Canvas Admin to ensure the user has a Canvas account."
         user_role: "Role:"
@@ -5714,7 +5714,7 @@ en-GB:
           course_activity_stream: "Course activity stream"
           custom_page: "Prva stran za Strani"
           modules: "Moduli izobraževalnega programa"
-          syllabus: Syllabus
+          syllabus: Učni načrt
       empty_body: "No content"
       front_page_not_set: "Front page must be set first"
       headers: 
@@ -5756,7 +5756,7 @@ en-GB:
       all_rubrics: "All rubrics"
       any: Any
       assignment_groups: "Delovne skupine"
-      assignments: Assignments
+      assignments: Naloge
       course_rubrics: "Course rubrics"
       discussion_posts: "Discussion posts"
       discussion_topic: "Discussion topic"
@@ -5784,10 +5784,10 @@ en-GB:
       quiz: Quiz
       quiz_questions: "Quiz questions"
       quiz_submissions: "Quiz submissions"
-      quizzes: Quizzes
+      quizzes: Preizkusi znanja
       submission_type: "Submission type"
       tabs: 
-        assignments: Assignments
+        assignments: Naloge
         files: "File storage"
         students: Students
         totals: Skupno
@@ -5796,7 +5796,7 @@ en-GB:
       website_url: "Website URL"
     syllabus: 
       headers: 
-        date: "Datum:"
+        date: Datum:
         details: Details
       syllabus: 
         hide_specific_dates: "Hide section, group, and person specific dates"
@@ -5882,7 +5882,7 @@ en-GB:
   crumbs: 
     access_report: "Access report"
     announcements: Obvestila
-    assignments: Assignments
+    assignments: Naloge
     calendar_events: "Koledarski dogodki"
     collaborations: Collaborations
     conferences: Conferences
@@ -5905,14 +5905,14 @@ en-GB:
     plugins: Plugins
     prior_users: "Prior users"
     question_banks: "Question banks"
-    quizzes: Quizzes
+    quizzes: Preizkusi znanja
     registered_services: "Registered services"
     revisions: Revisions
     rubrics: Rubrics
     settings: Nastavitve
     site_admin: "Skrbnik strani"
     stats: Statistics
-    syllabus: Syllabus
+    syllabus: Učni načrt
     users: Users
     wiki_pages: Strani
   css_ae1d10ce: CSS
@@ -6118,21 +6118,21 @@ en-GB:
       weekday: "%A"
     month_names: 
       - ~
-      - January
-      - February
-      - March
+      - Januar
+      - Februar
+      - Marec
       - April
       - Maj
-      - June
-      - July
-      - August
+      - Junij
+      - Julij
+      - Avgust
       - September
-      - October
+      - Oktober
       - November
       - December
-  date_at_time_25a04cd2: "%{date} at %{time}"
-  date_created_87e265bc: "Date Created"
-  date_ee500367: "Datum:"
+  date_at_time_25a04cd2: "%{date} ob %{time}"
+  date_created_87e265bc: "Datum nastanka"
+  date_ee500367: Datum:
   date_error_7b38f8ff: "Date error"
   date_is_required_9c6f5e83: "Date is required"
   date_modified_e1c8ac8f: "Date Modified"
@@ -6141,7 +6141,7 @@ en-GB:
     errors: 
       not_a_date: "That is not a date!"
     first_day_index: "1"
-    nextText: Next
+    nextText: Naprej
     prevText: Prev
   dates: 
     no_date: "No date"
@@ -6571,7 +6571,7 @@ en-GB:
     index: 
       course_discussions_atom_feed_title: "Course discussions Atom feed"
     index_view: 
-      assignments: Assignments
+      assignments: Naloge
       delete: Izbriši
       discussion_topics: "Discussion topics"
       edit_settings: "Edit discussions settings"
@@ -6640,7 +6640,7 @@ en-GB:
       manage_discussion: "Manage discussion"
       mark_all_as_read: "Mark all as read"
       mark_all_as_unread: "Označi vse kot neprebrano."
-      next_message: "Next message"
+      next_message: "Naslednje sporočilo"
       previous_message: "Previous message"
       reply_to_message: "Reply to current message"
       reply_to_topic: "Reply to topic"
@@ -7100,7 +7100,7 @@ en-GB:
   enrolled_a6a517cd: Enrolled
   enrolled_as_272da3b9: "Enrolled as"
   enrollment: 
-    default_course_name: Izobraževaln program
+    default_course_name: Izobraževalni program
     default_email: "No email"
     default_user_name: "Unknown user"
     roles: 
@@ -7179,7 +7179,7 @@ en-GB:
       section_name_invalid: "Section name is not valid"
       section_name_too_long: "Section name is too long"
       upload_failed: "Upload failed."
-    first_category: Home
+    first_category: Domov
     first_entry: 
       content: "Nothing entered yet"
       title: Welcome
@@ -7495,7 +7495,7 @@ en-GB:
   event_date_c9459fe3: "Event Date"
   event_date_f05219e7: "Datum dogodka:"
   event_end_time_ef830e66: "Event End Time"
-  event_fe9ba3fe: Event
+  event_fe9ba3fe: Dogodek
   event_start_time_441b491f: "Event Start Time"
   event_title_57a50568: "Naslov dogodka:"
   event_title_course_name_changed_to_37510fbb: "%{event_title}, %{course_name} changed to"
@@ -8148,7 +8148,7 @@ en-GB:
       course_average: "Course average"
       course_median: "Course median"
       course_mode: "Course mode"
-    hide_all_details_button: "Hide all details"
+    hide_all_details_button: "Skrij vse podrobnosti"
     hide_notes: "Hide notes column"
     hide_student_names: "Hide student names"
     invalid_assignment_groups_warning: 
@@ -8413,7 +8413,7 @@ en-GB:
       muted: Muted
     grade_summary: 
       all_grading_periods: "All grading periods"
-      assignments: Assignments
+      assignments: Naloge
       buttons: 
         show_what_if: "Show saved \"What-if\" scores"
       change_score_instructions: "Click any score and enter a new value to see how the change will affect your total."
@@ -8598,11 +8598,11 @@ en-GB:
       late_notice: "Note: This submission was LATE"
       links: 
         click_to_view: "click here to view"
-        course_home: "Course home"
+        course_home: "Domača stran izobraževalnega programa"
         download_file: "Download file"
         gradebook: Gradebook
-        next: Next
-        previous: Previous
+        next: Naprej
+        previous: Nazaj
         remove_attachment: "Remove Attachment"
         settings: Nastavitve
         show_all_sections: "Pokaži vse segmente"
@@ -8832,7 +8832,7 @@ en-GB:
     tabs: 
       discussions: Pogovori
       files: Datoteke
-      home: Home
+      home: Domov
       pages: Strani
       people: People
   group_a8f5ed9c: Group
@@ -9319,7 +9319,7 @@ en-GB:
       create: "Create %{model}"
       submit: "Save %{model}"
       update: "Update %{model}"
-    course: Izobraževaln program
+    course: Izobraževalni program
     dashboard_helper: 
       announcement_details: "Announcement Details"
       announcement_label: "Visit course announcements"
@@ -9365,7 +9365,7 @@ en-GB:
   hide_account_navigation_menu_ccdf9480: "Hide account navigation menu"
   hide_admin_navigation_menu_5cab9c9e: "Hide admin navigation menu"
   hide_all_artifacts_d654fbd5: "Hide all artifacts"
-  hide_all_details_61d7ebb: "Hide all details"
+  hide_all_details_61d7ebb: "Skrij vse podrobnosti"
   hide_correct_answers_at_2421b0aa: "Hide correct answers at"
   hide_correct_answers_at_b1a59408: "Hide Correct Answers At"
   hide_course_sections_for_course_name_bd1911af: "Hide course sections for course %{name}"
@@ -9386,7 +9386,7 @@ en-GB:
   high_score_47924c1a: "High: %{score}"
   highest_28ad71e6: Highest
   highest_score_e080551e: "Highest score"
-  home_351838cd: Home
+  home_351838cd: Domov
   home_page_is_not_valid_2e8a25ae: "Home page is not valid"
   home_tutorial_tray_66826983: "Home tutorial tray"
   homework_submission_172e8354: "Homework submission"
@@ -9597,7 +9597,7 @@ en-GB:
   instructions: 
     authorize_google_docs: "Before you can collaborate on documents, you need to authorise Canvas to access your Google Docs account:"
     authorize_google_drive: "Before you can collaborate on documents, you need to authorise Canvas to access your Google Drive account:"
-  instructions_2f88ee72: Instructions
+  instructions_2f88ee72: Navodila
   instructor_comments_205e0ec8: "Instructor comments"
   instructor_id_ed9c0d8b: "Instructor ID"
   instructor_is_working_on_grades_135388d2: "Instructor is working on grades"
@@ -9800,8 +9800,8 @@ en-GB:
   jpg_png_or_gif_files_14e360d2: "jpg, png, or gif files"
   jquery: 
     module_sequence_footer: 
-      next: Next
-      previous: Previous
+      next: Naprej
+      previous: Nazaj
   just_a_casual_question_comment_idea_or_suggestion_1579d069: "Just a casual question, comment, idea or suggestion"
   just_in_time_provisioning_382a0354: "Just-in-time provisioning"
   k12_description: |-
@@ -9813,7 +9813,7 @@ en-GB:
   kenya_254_2945663a: "Kenya (+254)"
   key_api_key_68bf80ae: "Key: *%{api_key}*"
   key_ff4089c5: "Key:"
-  keyboard_instructions_e032939f: "Keyboard instructions"
+  keyboard_instructions_e032939f: "Navodila za tipkovnico"
   keyboard_nav_dialog: 
     esc_key_notification: "When navigating the gradebook grid, press the escape key before using keyboard shortcuts."
   keyboard_shortcuts_ed1844bd: "Keyboard shortcuts"
@@ -9954,7 +9954,7 @@ en-GB:
       migration: 
         announcements: Obvestila
         assessment_question_banks: "Question banks"
-        assignments: Assignments
+        assignments: Naloge
         attachments: Datoteke
         calendar_events: "Koledarski dogodki"
         context_modules: Moduli
@@ -9963,7 +9963,7 @@ en-GB:
         external_tools: "External tools"
         groups: "Student groups"
         learning_outcomes: "Learning outcomes"
-        quizzes: Quizzes
+        quizzes: Preizkusi znanja
         rubrics: Rubrics
         syllabus_body: "Syllabus body"
         tool_profiles: "Tool Profiles"
@@ -10583,7 +10583,7 @@ en-GB:
           attendee: Attendee
           attendees: Attendees
           cancel_reason: "Reason for cancelling"
-          course: Izobraževaln program
+          course: Izobraževalni program
           date_and_time: Date/time
           details: "Appointment details"
           group: Group
@@ -10602,7 +10602,7 @@ en-GB:
           attendee: Attendee
           attendees: Attendees
           cancel_reason: "Reason for cancelling"
-          course: Izobraževaln program
+          course: Izobraževalni program
           date_and_time: Date/Time
           details: "Appointment details"
           group: Group
@@ -10615,7 +10615,7 @@ en-GB:
           attendee: Attendee
           attendees: Attendees
           cancel_reason: "Reason for cancelling"
-          course: Izobraževaln program
+          course: Izobraževalni program
           date_and_time: Date/time
           details: "Appointment details"
           group: Group
@@ -10631,7 +10631,7 @@ en-GB:
       email: 
         html: 
           cancel_reason: "Reason for cancelling"
-          course: Izobraževaln program
+          course: Izobraževalni program
           dates: Date(s)
           details: "Appointment details"
           link_text: "View the appointment"
@@ -10640,7 +10640,7 @@ en-GB:
           subject: "Appointments for %{appointment_name} have been cancelled (%{course})"
         labels: 
           cancel_reason: "Reason for cancelling"
-          course: Izobraževaln program
+          course: Izobraževalni program
           dates: Date(s)
           details: "Appointment details"
         message: "All appointments for \"%{appointment_name}\" have been cancelled."
@@ -10655,7 +10655,7 @@ en-GB:
       email: 
         group_signup: "Group (%{group_category})"
         html: 
-          course: Izobraževaln program
+          course: Izobraževalni program
           dates: Date(s)
           details: "Appointment details"
           group_signup: "Group (%{group_category})"
@@ -10668,7 +10668,7 @@ en-GB:
         individual_signup: Individual
         instructions: "Sign up for a time slot at the following link: %{link}"
         labels: 
-          course: Izobraževaln program
+          course: Izobraževalni program
           dates: Date(s)
           details: "Appointment details"
           signup_type: "Signup Type"
@@ -10687,7 +10687,7 @@ en-GB:
       email: 
         group_signup: "Group (%{group_category})"
         html: 
-          course: Izobraževaln program
+          course: Izobraževalni program
           dates: Date(s)
           details: "Appointment details"
           group_signup: "Group (%{group_category})"
@@ -10699,7 +10699,7 @@ en-GB:
         individual_signup: Individual
         instructions: "Sign up for a time slot at the following link: %{link}"
         labels: 
-          course: Izobraževaln program
+          course: Izobraževalni program
           dates: Date(s)
           details: "Appointment details"
           signup_type: "Signup Type"
@@ -10719,7 +10719,7 @@ en-GB:
         html: 
           attendee: Attendee
           attendees: Attendees
-          course: Izobraževaln program
+          course: Izobraževalni program
           date_and_time: Date/time
           details: "Appointment details"
           group: Group
@@ -10731,7 +10731,7 @@ en-GB:
         labels: 
           attendee: Attendee
           attendees: Attendees
-          course: Izobraževaln program
+          course: Izobraževalni program
           date_and_time: Date/time
           details: "Appointment details"
           group: Group
@@ -10748,7 +10748,7 @@ en-GB:
         html: 
           attendee: Attendee
           attendees: Attendees
-          course: Izobraževaln program
+          course: Izobraževalni program
           date_and_time: Date/time
           details: "Appointment details"
           group: Group
@@ -10760,7 +10760,7 @@ en-GB:
         labels: 
           attendee: Attendee
           attendees: Attendees
-          course: Izobraževaln program
+          course: Izobraževalni program
           date_and_time: Date/time
           details: "Appointment details"
           group: Group
@@ -11181,7 +11181,7 @@ en-GB:
             Keep learning,
             
             Canvas Network
-        course_required_materials: "Materials and instructions for %{course}"
+        course_required_materials: "Gradiva in navodila za %{course}"
     course_started: 
       email: 
         body: |-
@@ -12353,7 +12353,7 @@ en-GB:
       cancel: Prekliči
       edit_item: "Edit module item"
       item_title: "Module item title"
-      points_possible: pts
+      points_possible: točk
       save: Save
       saving: saving...
     module: 
@@ -12382,7 +12382,7 @@ en-GB:
       module_item: 
         available: Available
         due: Due
-        points_abbreviated: pts
+        points_abbreviated: točk
     module_view: 
       module: 
         prerequisites: Predhodne zahteve
@@ -12556,7 +12556,7 @@ en-GB:
   n_points_possible_precision_2_st_points_bc3748df: "%{n_points_possible_precision_2_st} Points"
   n_points_precision_2_strip_insig_points_60ad6f21: "%{n_points_precision_2_strip_insig} Points"
   n_pointspossible_points_possible_1d098245: "%{n_pointsPossible} Points possible"
-  n_pointspossible_pts_73274d36: "%{n_pointsPossible} Pts"
+  n_pointspossible_pts_73274d36: "%{n_pointsPossible} točk"
   name: "Academic Benchmark importer"
   name_1aed4a1b: Name
   name_3806192d: "Name:"
@@ -12649,14 +12649,14 @@ en-GB:
   new_zealand_64_f126cf2e: "New Zealand (+64)"
   new_zealand_ef5d7b74: "New Zealand"
   newest_oldest_d768cf1a: "Newest - Oldest"
-  next_40e12421: Next
+  next_40e12421: Naprej
   next_announcements_page_3956eb11: "Next announcements page"
   next_assignment_8ec51175: "Next assignment"
   next_item_2d1ddc96: "Next: *item*"
   next_mastery_path_is_currently_locked_a9253711: "Next mastery path is currently locked"
   next_mastery_path_is_currently_processing_f044d7d8: "Next mastery path is currently processing"
   next_mastery_path_is_still_processing_please_perio_bb0121af: "Next mastery path is still processing, please periodically refresh the page"
-  next_message_780bcf24: "Next message"
+  next_message_780bcf24: "Naslednje sporočilo"
   next_module_item_9bb8a222: "Next module/item"
   next_month_749b1778: "Naslednji mesec"
   next_month_b55a387c: "Naslednji mesec"
@@ -13072,7 +13072,7 @@ en-GB:
         format: "%n%"
   number_between_1_and_16_inclusive_31f5468d: "number between 1 and 16 inclusive"
   number_more_a46966: "%{number} More..."
-  number_of_allowed_attempts_3d10b740: "Number of allowed attempts"
+  number_of_allowed_attempts_3d10b740: "Število dovoljenih poskusov"
   number_of_respondents_e1e7e8b: "Number of respondents"
   number_of_scores_to_ignore_for_each_student_fb94e818: "Number of scores to ignore for each student"
   numpoints_points_b1f0666a: "%{numPoints} points"
@@ -13264,7 +13264,7 @@ en-GB:
       insert_criterion_rating: "Insert criterion rating"
       insert_rating: Insert
       points: Points
-      pts: pts
+      pts: točk
       rating_description: "Criterion rating description"
     dont_import: "This group cannot be imported."
     failed_outcome_creation: "Outcome creation failed"
@@ -13349,7 +13349,7 @@ en-GB:
         other: "%{count} artefacts"
       attempts: 
         one: "1 attempt"
-        other: "%{count} attempts"
+        other: "%{count} poskusov"
       attempts_from_artifacts: "%{attempts} *from %{artifacts}*"
       labels: 
         see_results: "See %{user_name}'s results for"
@@ -13358,7 +13358,7 @@ en-GB:
       outcomes_for: "Outcomes for %{user_name}"
       score_out_of_possible: "%{score}* out of %{possible}*"
       short_title: 
-        attempts: Attempts
+        attempts: Poskusov
         average_percent: "Avg per cent"
         latest_score: "Latest Score"
         outcome: Outcome
@@ -13391,7 +13391,7 @@ en-GB:
     download_filename: "Pageviews For %{user}"
     table: 
       headers: 
-        date: "Datum:"
+        date: Datum:
         participated: Participated
         time: Time
         url: URL
@@ -13983,7 +13983,7 @@ en-GB:
   points_possible_44cb4190: "/ %{points_possible}"
   points_possible_must_be_0_or_more_for_selected_gra_f96a04e3: "Points possible must be 0 or more for selected grading type"
   points_possible_points_fda3b111: "%{points_possible} Points"
-  points_pts_e5596bf7: "%{points} pts"
+  points_pts_e5596bf7: "%{points} točk"
   points_range_rating_pts_ab9c8540: "%{points}%{range_rating} Pts"
   points_total_pts_5b4cbd77: "%{points} / %{total} pts"
   pointspossible_points_possible_964c8592: "%{pointsPossible} Points possible"
@@ -14048,7 +14048,7 @@ en-GB:
   preview_your_changes_373557d8: "Preview your changes"
   previous_announcements_page_79c0ada1: "Previous announcements page"
   previous_assignment_83d1f423: "Previous assignment"
-  previous_bd2ac015: Previous
+  previous_bd2ac015: Nazaj
   previous_csv_file_time_d7bfe7ef: "Previous CSV File (%{time})"
   previous_csv_timestamp_6673c69c: "Previous CSV (%{timestamp})"
   previous_export_c6a997f7: "Previous export"
@@ -14450,7 +14450,7 @@ en-GB:
       email_sent: "Confirmation email sent to %{email}, make sure to check your spam folder"
       link_invalid: "The link you used is no longer valid.  If you can't log in, click \"Don't know your password?\" to reset your password."
       password_changed: "Password changed"
-  pts_699bd9aa: Pts
+  pts_699bd9aa: Točk
   public_a749f507: Public
   public_course_index_59270e80: "Public Course Index"
   public_courses_title: "Public Courses"
@@ -14720,7 +14720,7 @@ en-GB:
   quiz_results_are_protected_for_this_quiz_and_are_n_1ea03502: "Rezultati preizkusa znanja so zaščiteni in niso vidni študentom."
   quiz_results_are_protected_for_this_quiz_and_are_n_c85bd56e: "Rezultati preizkusa znanja so zaščiteni in niso vidni študentom, dokler ni oddan zadnji poskus."
   quiz_results_are_protected_for_this_quiz_and_can_b_fc4fc208: "Quiz results are protected for this quiz and can be viewed a single time immediately after submission."
-  quiz_score_to_keep_d1f7c4b1: "Quiz score to keep"
+  quiz_score_to_keep_d1f7c4b1: "Rezultat, ki bo obveljal"
   quiz_settings_4e17f005: "Quiz settings"
   quiz_statistics: 
     answer_bars_chart: 
@@ -14737,10 +14737,10 @@ en-GB:
         zero: Nobody
     answer_details: 
       hide: "Hide answer details"
-      hide_all: "Hide answer details for all questions"
+      hide_all: "Skrij podrobnosti odgovora za vsa vprašanja."
       show: "Show answer details"
       show_all: "Show answer details for all questions"
-    attempts: "Attempts: %{count} out of %{total}"
+    attempts: "Rezultat: %{score} od %{total}"
     correct_answer: "Pravilni odgovor"
     correct_essay_student_ratio: "%{ratio}% of your students received full credit for this question."
     correct_multiple_response_ratio: "%{ratio}% of your students responded correctly."
@@ -14820,7 +14820,7 @@ en-GB:
     answer_text: "Answer text"
     assignment_points_possible: 
       one: "1 pt"
-      other: "%{count} pts"
+      other: "%{count} točk"
     at_the_bottom: "-- at the bottom --"
     before_quiz_item: "before %{name}"
     buttons: 
@@ -14900,16 +14900,16 @@ en-GB:
         manage_question_banks: "Manage question banks"
         publish_multiple_quizzes: "Publish multiple quizzes"
         settings: Nastavitve
-      quizzes_title: Quizzes
+      quizzes_title: Preizkusi znanja
       search_for_quiz: "Search for quiz"
       title_add_quiz: "Add Quiz"
     label: 
       answer: 
         text: "Answer text, rich text area"
       question: 
-        instructions: "Question instructions, rich text area"
+        instructions: "Navodila za vprašanja, polje z obogatenim besedilom"
       quiz: 
-        instructions: "Quiz instructions, rich text area"
+        instructions: "Navodila za preizkus znanja, polje z obogatenim besedilom"
     labels: 
       answer_text: "Answer text"
       comments_on_answer: "Comments, if the user chooses this answer"
@@ -14965,8 +14965,8 @@ en-GB:
     no_filters_found: "No filters found"
     no_quizzes_view: 
       headers: 
-        course_quizzes: "Course quizzes"
-      no_quizzes: "No quizzes available"
+        course_quizzes: "Preizkusi znanja"
+      no_quizzes: "Noben preizkus znanja ni na voljo"
     notices: 
       message_sent: "Message sent!"
     question: 
@@ -15079,7 +15079,7 @@ en-GB:
           delete_question: "Delete this question"
           edit_question: "Edit this question"
           move_copy_question: "move/copy question to another bank"
-        not_yet_graded: "Not yet graded"
+        not_yet_graded: "Še ni ocenjeno"
         original_score: "Original score:"
         points_possible: "%{points_possible} pts"
         regraded_score: "Re-graded score:"
@@ -15108,7 +15108,7 @@ en-GB:
         quiz_deleted: "That quiz has been deleted"
         quiz_update_failed: "Quiz failed to update"
       fabulous_quizzes: 
-        page_titles: Quizzes
+        page_titles: Preizkusi znanja
       find_question_from_bank: 
         already_added: "this question is already on the quiz"
         bank_description: "%{bank_name}, %{n} questions"
@@ -15209,7 +15209,7 @@ en-GB:
           answers: Answers
           distractors: "Additional match possibilities (distractors)"
           missing_word_after: "Text to go after answers"
-          points: pts
+          points: točk
           question: Question
         links: 
           add_another_answer: "Add another answer"
@@ -15279,7 +15279,7 @@ en-GB:
         unnamed_survey_results: "Survey results for %{user}"
         view_log: "View log"
       index: 
-        page_titles: Quizzes
+        page_titles: Preizkusi znanja
       invalid_ip: 
         quiz_protected: "This quiz is protected and is only available from certain locations. The computer you are currently using does not appear to be at a valid location for taking this quiz."
         survey_protected: "This survey is protected and is only available from certain locations. The computer you are currently using does not appear to be at a valid location for taking this survey."
@@ -15364,7 +15364,7 @@ en-GB:
         muted_quiz_description: "Your quiz score is unavailable because your instructor has not finished grading it. When your instructor finishes grading this quiz, your score will be available on this page."
         muted_quiz_header: "Your quiz has been muted"
       new: 
-        allowed_attempts: "Number of allowed attempts"
+        allowed_attempts: "Število dovoljenih poskusov"
         anonymous_submissions: "Keep submissions anonymous"
         buttons: 
           not_published: "Not published"
@@ -15389,7 +15389,7 @@ en-GB:
           ip_addresses: "Filter by IP address"
           ip_filter: "Filter IP Addresses"
           never_hide_results: "Let students see their quiz responses"
-          quiz_instructions: "Quiz instructions"
+          quiz_instructions: "Navodila za preizkus znanja"
           quiz_notify: "Notify users this quiz has changed"
           quiz_score: Rezultat
           require_access_code: "Require an access code"
@@ -15416,7 +15416,7 @@ en-GB:
         require_lockdown_browser: "Require Respondus LockDown Browser"
         require_lockdown_browser_for_results: "Required to view quiz results"
         retrieving_filters: "Retrieving filters..."
-        score_to_keep: "Quiz score to keep"
+        score_to_keep: "Rezultat, ki bo obveljal"
         show_correct_answers: "Let Students See The Correct Answers"
         show_correct_answers_at: "Show Correct Answers at"
         show_correct_answers_last_attempt: "Only after their last attempt"
@@ -15467,7 +15467,7 @@ en-GB:
       question_statistic: 
         attempts: 
           one: "1 attempt"
-          other: "%{count} attempts"
+          other: "%{count} poskusov"
         empty_response: "Empty response"
         labels: 
           other_answers: "Other answers"
@@ -15499,7 +15499,7 @@ en-GB:
         unlimited: Unlimited
       quiz_edit_details: 
         labels: 
-          quiz_instructions: "Quiz instructions"
+          quiz_instructions: "Navodila za preizkus znanja"
           quiz_score: Rezultat
       quiz_right_side: 
         attempts_left: 
@@ -15518,13 +15518,13 @@ en-GB:
           preview_quiz_again: "Preview the quiz again"
           preview_survey_again: "Preview the survey again"
         no_more_attempts: "No More Attempts available"
-        questions_not_graded: "Some questions not yet graded"
+        questions_not_graded: "Nekatera vprašanja še niso ocenjena"
         score_set_manually: "This score was set by the teacher"
         unlimited_attempts: "Unlimited attempts"
         view_previous_attempts: "View previous attempts"
       quiz_show_teacher: 
         anonymous_submissions: "Anonymous submissions"
-        attempts: Attempts
+        attempts: Poskusov
         available_from: "Available from"
         cant_go_back: "Lock questions after answering"
         code: "Access code"
@@ -15561,14 +15561,14 @@ en-GB:
           fudge_points_changed_points_survey: "Since %{user} took this survey, the number of points possible has changed by %{difference}. You can adjust for this change and manually add positive or negative points using this box."
           fudge_points_generic_explanation: "You can manually adjust the score by adding positive or negative points to this box."
           questions_need_review: "The following questions need to be reviewed"
-          quiz_score: "Quiz score"
+          quiz_score: "Rezultat preizkusa znanja"
           score_for_attempt: "Score for this attempt"
-          score_for_quiz: "Score for this quiz"
+          score_for_quiz: "Rezultat tega preizkusa znanja"
           score_for_survey: "Score for this survey"
           survey_score: "Survey Score"
         links: 
           click_to_view_results: "Click here to view the results."
-        questions_not_graded: "Some questions not yet graded"
+        questions_not_graded: "Nekatera vprašanja še niso ocenjena"
         quiz_fudged_negative: "This quiz score has been manually adjusted by %{fudge} points."
         quiz_fudged_positive: "This quiz score has been manually adjusted by +%{fudge} points."
         quiz_not_yet_taken: "The quiz hasn't been taken yet."
@@ -15581,7 +15581,7 @@ en-GB:
       quiz_summary: 
         assignment_points_possible: 
           one: "1 pt"
-          other: "%{count} pts"
+          other: "%{count} točk"
         labels: 
           allowed_attempts: "Allowed attempts"
           attempts_left: "Attempts left"
@@ -15609,7 +15609,7 @@ en-GB:
           quiz_details: "Quiz details"
         labels: 
           question_details: "Show question details"
-          quiz_instructions: "Quiz instructions"
+          quiz_instructions: "Navodila za preizkus znanja"
         links: 
           back_to_quiz_page: "Back to quiz page"
       refresh_quiz_after_popup: 
@@ -15689,33 +15689,33 @@ en-GB:
       statistics_crumb: Statistics
       submission_version: 
         attempt_number: "Attempt %{att_no}"
-        kept: KEPT
-        latest: LATEST
+        kept: UPOŠTEVAN
+        latest: ZADNJI
       submission_versions: 
-        attempt: Attempt
-        attempt_history: "Attempt history"
-        questions_not_graded: "Some questions not yet graded"
-        quiz_attempt_history_description: "A table that shows your quiz attempt history. Each attempt is on the left side. The attempt, time, and score are across the top."
-        regraded: Re-graded
+        attempt: Poskus
+        attempt_history: "Zgodovina poskusov"
+        questions_not_graded: "Nekatera vprašanja še niso ocenjena"
+        quiz_attempt_history_description: "Tabela, ki prikazuje vašo zgodovino poskusov Vsak poskus je na levi strani Poskus, čas in rezultat so navedeni zgoraj."
+        regraded: Ponovna ocena
         score: Rezultat
-        time: Time
+        time: Čas
       take_quiz: 
-        audible_quiz_timer_shortcut_description: "Note: this is a timed quiz. You may check the remaining time you have at any point while taking the quiz by pressing the keyboard combination SHIFT, ALT, and T... Again: SHIFT, ALT, and T..."
+        audible_quiz_timer_shortcut_description: "Pozor: to je preizkus znanja z omejitvijo časa Čas, ki vam je ostal na voljo, lahko enostavno preverite tako, da uporabite kombinacijo tipk SHIFT, ALT in T ... Ponovno: SHIFT, ALT in T ..."
         buttons: 
-          next: Next
-          out_of_time_submit: "Ok, fine"
-          previous: Previous
-          submit_quiz: "Submit quiz"
+          next: Naprej
+          out_of_time_submit: "V redu"
+          previous: Nazaj
+          submit_quiz: "Oddaj preizkus znanja"
         headers: 
           draft_preview: "This is a preview of the draft version of the quiz"
           published_preview: "This is a preview of the published version of the quiz"
         labels: 
-          started: Started
-          times_up: "Time's up! Submitting results in"
+          started: Začetek
+          times_up: "Čas je potekel! Pošiljanje rezultatov"
         logged_out_of_canvas: "*Bili ste odjavljeni* Za nadaljevanje se morate ponovno prijaviti."
-        login_required: "Login required"
-        not_saved: "Not saved"
-        quiz_instructions: "Quiz instructions"
+        login_required: "Zahtevana je prijava"
+        not_saved: "Ni shranjeno"
+        quiz_instructions: "Navodila za preizkus znanja"
       take_quiz_in_popup: 
         headers: 
           loading_in_lockdown: "Loading quiz in Respondus LockDown Browser"
@@ -15723,10 +15723,10 @@ en-GB:
           return_to_quiz_page: "[Click here](%{url}) to return to the quiz page."
       take_quiz_right_side: 
         labels: 
-          attempt_due: "Attempt due"
+          attempt_due: "Poskus do"
           score: Rezultat
-          time_elapsed: "Time elapsed"
-          time_running: "Time running"
+          time_elapsed: "Trenuten čas"
+          time_running: "Tekoči čas"
         links: 
           hide_time_running: Skrij
           keep_editing_quiz: "Keep editing this quiz"
@@ -15738,20 +15738,20 @@ en-GB:
         details: "Assignment rubric details"
     show: 
       answers: 
-        correct: Correct!
-        correct_answers: "Correct Answers"
-        incorrect: Incorrect
-        partial: Partial
+        correct: Pravilno!
+        correct_answers: "Pravilni odgovori"
+        incorrect: Nepravilno!
+        partial: Delno
         right: "Pravilni odgovor"
-        unanswered: Unanswered
-        you_answered: "You Answered"
+        unanswered: Neodgovorjeno
+        you_answered: "Vi ste odgovorili"
       buttons: 
-        already_published: Published!
-        publishing: Publishing...
+        already_published: Objavljeno!
+        publishing: Objavljam ...
       confirms: 
-        delete_quiz: "Are you sure you want to delete this quiz?"
+        delete_quiz: "Ste prepričani, da želite izbrisati ta preizkus znanja?"
         delete_quiz_submissions_warning: 
-          one: "Warning: 1 student has already taken this quiz. If you delete it, any completed submissions will be deleted and no longer appear in the gradebook."
+          one: "Pozor: 1 student has already taken this quiz. If you delete it, any completed submissions will be deleted and no longer appear in the gradebook."
           other: "Warning: %{count} students have already taken this quiz. If you delete it, any completed submissions will be deleted and no longer appear in the gradebook."
       links: 
         hide_student_quiz_results: "Hide Student Quiz Results"
@@ -15763,7 +15763,7 @@ en-GB:
     statistics: 
       count_attempts: 
         one: "1 attempt"
-        other: "%{count} attempts"
+        other: "%{count} poskusov"
       titles: 
         submitted_users_for_quesiton: "Submitted Users for %{user}"
       uncounted_submissions: 
@@ -15771,62 +15771,62 @@ en-GB:
         other: "%{count} other submissions"
     take_quiz: 
       confirms: 
-        cant_go_back_blank: "You can't come back to this question once you hit next. Are you sure you want to leave it blank?"
-        navigate_away: "You're about to navigate away from this page.  Continue anyway?"
+        cant_go_back_blank: "You can't come back to this question once you hit next. Ste prepričani, da želite pustiti prazno?"
+        navigate_away: "Zapustili boste trenutno stran.  Ali želite vseeno nadaljevati?"
         unanswered_questions: 
-          one: "You have 1 unanswered question (see the right sidebar for details).  Submit anyway?"
-          other: "You have %{count} unanswered questions (see the right sidebar for details).  Submit anyway?"
-        unfinished_quiz: "You're about to leave the quiz unfinished.  Continue anyway?"
+          one: "1 vprašanje še ni odgovorjeno (poglejte polje na desni za podrobnosti).  Ali želite vseeno oddati?"
+          other: "%{count} vprašanj še ni odgovorjenih (poglejte polje na desni za podrobnosti).  Ali želite vseeno oddati?"
+        unfinished_quiz: "Zapuščate preizkus znanja, ne da bi ga zaključili.  Ali želite vseeno nadaljevati?"
         unseen_questions: 
-          one: "There is still 1 question you haven't seen yet.  Submit anyway?"
-          other: "There are still %{count} questions you haven't seen yet.  Submit anyway?"
+          one: "Še vedno je 1 vprašanje, ki si ga niste ogledali.  Ali želite vseeno oddati?"
+          other: "Še vedno je %{count} vprašanj, ki si jih niste ogledali.  Ali želite vseeno oddati?"
       days_count: 
-        one: "1 day"
-        other: "%{count} days"
+        one: "1 dan"
+        other: "%{count} dni"
       errors: 
-        connection_lost: "Connection to %{host} was lost.  Please make sure you're connected to the Internet before continuing."
-        only_numerical_values: "only numerical values are accepted"
+        connection_lost: "Povezava do %{host} je bila prekinjena.  Prepričajte se, da imate dostop do interneta, preden nadaljujete."
+        only_numerical_values: "sprejete so samo številke"
       hide_time_link: Skrij
       hours_count: 
-        one: "1 Hour"
-        other: "%{count} Hours"
+        one: "1 ura"
+        other: "%{count} ur"
       labels: 
-        time_elapsed: "Time elapsed"
-      login_failed: "Login failed."
-      login_successful: "Login successful."
+        time_elapsed: "Trenuten čas"
+      login_failed: "Prijava ni uspešna."
+      login_successful: "Prijava uspešna."
       minutes_count: 
-        one: "1 minute"
-        other: "%{count} minutes"
+        one: "1 minuta"
+        other: "%{count} minut"
       months_count: 
         one: "1 mesec"
         other: "%{count} mesecev"
       notices: 
-        due_date_five_minutes_left: "Five minutes left before quiz will be marked late"
-        due_date_one_minute_left: "One minute left before quiz will be marked late"
-        due_date_thirty_minutes_left: "Thirty minutes left before quiz will be marked late"
-        extra_time: "You have been given extra time on this attempt"
-        less_time: "Your time for this quiz has been reduced."
-        submission_five_minutes_left: "This quiz will be submitted in five minutes"
-        submission_one_minute_left: "This quiz will be submitted in one minute"
-        submission_thirty_minutes_left: "This quiz will be submitted in thirty minutes"
-      question_answered: Answered
-      question_unanswered: "Haven't answered yet"
-      saved_at: "Saved at %{t}"
-      saving: Saving...
-      saving_not_needed: "No new data to save. Last checked at %{t}"
+        due_date_five_minutes_left: "Pet minut še, preden bo preizkus znanja označen kot pozen"
+        due_date_one_minute_left: "Ena minut še, preden bo preizkus znanja označen kot pozen"
+        due_date_thirty_minutes_left: "Trideset minut še, preden bo preizkus znanja označen kot pozen"
+        extra_time: "Pri tem poskusu vam je bilo dodeljen dodaten čas"
+        less_time: "Čas za ta kviz je bil zmanjšan."
+        submission_five_minutes_left: "Ta preizkus znanja bo oddan čez pet minut."
+        submission_one_minute_left: "Ta preizkus znanja bo oddan čez 1 minuto."
+        submission_thirty_minutes_left: "Ta preizkus znanja bo oddan čez 30 minut."
+      question_answered: Odgovorjeno
+      question_unanswered: "Še ni odgovorjeno"
+      saved_at: "Shranjeno ob %{t}"
+      saving: Shranjujem ...
+      saving_not_needed: "Ni novih podatkov za shranjevanje. Last checked at %{t}"
       seconds_count: 
         one: "1 Second"
         other: "%{count} Seconds"
       show_time_link: Show
       titles: 
         come_back_later: "You marked this question to come back to later"
-        times_up: "Time's up!"
+        times_up: "Čas je potekel!"
       years_count: 
         one: "1 year"
         other: "%{count} years"
     timing: 
       labels: 
-        time_elapsed: "Time elapsed"
+        time_elapsed: "Trenuten čas"
         time_remaining: "Time Remaining"
     titles: 
       add_questions_as_group: "Add questions as a group"
@@ -15845,7 +15845,7 @@ en-GB:
     : "True"
   quizzes/quiz: 
     submission_action_take_quiz: "Take %{title}"
-  quizzes_7e598f57: Quizzes
+  quizzes_7e598f57: Preizkusi znanja
   quizzes_tutorial_tray_6f87cdd3: "Quizzes tutorial tray"
   radio_button_option_1_a8ec51f9: "Radio button option 1"
   radio_button_option_2_31e50043: "Radio button option 2"
@@ -16227,7 +16227,7 @@ en-GB:
       role_name: "Role name:"
       role_type: "Base type:"
       save: Save
-      saving: Saving...
+      saving: Shranjujem ...
     permission_button: 
       rolebutton: 
         disable: Disable
@@ -16347,7 +16347,7 @@ en-GB:
   saving_associations_989bd4da: "Saving associations"
   saving_associations_complete_e4b9634d: "Saving associations complete"
   saving_associations_started_8ac85360: "Saving associations started"
-  saving_d55dd90e: Saving...
+  saving_d55dd90e: Shranjujem ...
   saving_recording_e111cb05: "Saving Recording..."
   schedule_student_availability_332154a: "Schedule student availability"
   scheduler_shown_df77ca6f: "Scheduler shown"
@@ -16439,7 +16439,7 @@ en-GB:
       outcome_info: "Outcome information"
       result_sub_count: "Total results:"
     screenreader_gradebook: 
-      assignments: Assignments
+      assignments: Naloge
       learning_mastery: "Learning mastery"
     settings: 
       assignment_toggles_and_actions: 
@@ -16491,8 +16491,8 @@ en-GB:
         all_courses: "Vsi izobraževalni programi"
     all_courses_inner: 
       join_course: "Join this course"
-      next: Next
-      previous: Previous
+      next: Naprej
+      previous: Nazaj
     course_sections: "Course sections"
     enrollments_observers: Observers
     enrollments_students: Students
@@ -16714,14 +16714,14 @@ en-GB:
     authenticate: 
       buttons: 
         enroll_in_course: "Enrol in course"
-        next: Next
+        next: Naprej
       getting_started: "You are enrolling in **%{course}**."
       labels: 
         password: Password
     authenticate_or_register: 
       buttons: 
         enroll_in_course: "Enrol in course"
-        next: Next
+        next: Naprej
       existing_user: "I already have a %{institution_name} login"
       getting_started: "You are enrolling in **%{course}**."
       labels: 
@@ -16731,7 +16731,7 @@ en-GB:
     confirm_enrollments: 
       buttons: 
         enroll_in_course: "Enrol in course"
-        next: Next
+        next: Naprej
       getting_started: "You are enrolling in **%{course}**"
     course_full: 
       class_full: "Enrolment has filled up for **%{course}**. We apologise for the inconvenience."
@@ -17025,7 +17025,7 @@ en-GB:
         criterion_ratings: "Criterion ratings"
         master_level: "set mastery for any score at or above"
         use_for_scoring: "use this criterion for scoring"
-      points: "%{points} pts"
+      points: "%{points} točk"
       points_threshold: "threshold: %{points} pts"
       titles: 
         mastery_level: "percent above which to set mastery"
@@ -17083,7 +17083,7 @@ en-GB:
         as: "As: *%{user_name}*"
     inline_preview: 
       links: 
-        course_home: "Course home"
+        course_home: "Domača stran izobraževalnega programa"
         exit_frame: "Lose the frames"
         files: Datoteke
         hide_sidebar: "Hide Sidebar"
@@ -17203,7 +17203,7 @@ en-GB:
       user_has_no_bio: "%{user} hasn't added a bio"
       ways_to_contact_user: Contact
     recent_activity: 
-      date_column: "Datum:"
+      date_column: Datum:
       message_column: Message
       recent_activity: "Zadnje aktivnosti"
       recent_activity_in_course: "Zadnje aktivnosti v %{course_or_group}"
@@ -17227,7 +17227,7 @@ en-GB:
         rubric_title: "Some rubric"
       headers: 
         criteria: Criteria
-        points: Pts
+        points: Točk
         ratings: Ratings
       labels: 
         custom_rating: "I'll write free-form comments when assessing students"
@@ -17278,7 +17278,7 @@ en-GB:
       no_marks: "No marks"
       options: 
         select: "[ Select ]"
-      points: "%{points} pts"
+      points: "%{points} točk"
       points_label: Points
       points_out_of2: "%{points} / %{total} pts"
       titles: 
@@ -17301,7 +17301,7 @@ en-GB:
         find_a_rubric: "Find a rubric"
     rubric_forms: 
       criteria_description_label: "Description of criterion"
-      points: "%{points} pts"
+      points: "%{points} točk"
     rubric_summary: 
       buttons: 
         edit_assessment: "Edit assessment"
@@ -17369,7 +17369,7 @@ en-GB:
       new_tab: "Load in a new tab"
       new_topic_option: "[ New Topic ]"
       options: 
-        assignments: Assignments
+        assignments: Naloge
       quiz_item: Quiz
       quiz_notice: "Select the quiz you want to associate with this *module*, or add a new one by selecting \"New quiz\"."
       quiz_select_label: "Select the quiz you want to associate, or add a new one by selecting \"New Quiz\"."
@@ -17478,8 +17478,8 @@ en-GB:
       links: 
         announcements: Obvestila
         announcements_page: Obvestila
-        assignments: Assignments
-        assignments_page: Assignments
+        assignments: Naloge
+        assignments_page: Naloge
         collaborations_page: Collaborations
         discussions: Pogovori
         discussions_page: Pogovori
@@ -17489,21 +17489,21 @@ en-GB:
         modules: Moduli
         modules_page: Moduli
         new_page: "Link to a new page"
-        quizzes: Quizzes
-        syllabus: Syllabus
+        quizzes: Preizkusi znanja
+        syllabus: Učni načrt
         upload_file: "Upload a new file"
         upload_image: "Upload a new image"
         users_page: People
         wiki_pages_index: Strani
       links_to: 
         announcements: Obvestila
-        assignments: Assignments
+        assignments: Naloge
         discussions: Pogovori
         modules: Moduli
         nav: 
           course: "Course navigation"
           group: "Group navigation"
-        quizzes: Quizzes
+        quizzes: Preizkusi znanja
         wiki_pages: Strani
       messages: 
         loading: Loading...
@@ -17646,7 +17646,7 @@ en-GB:
   site_2d8d3df9: Site
   site_admin: 
     columns: 
-      date: "Datum:"
+      date: Datum:
       value: Value
     domain_not_found: 
       body_description: "Please check your Canvas URL and try again. If you do not know your Canvas URL, please contact your institution or course instructor."
@@ -17797,7 +17797,7 @@ en-GB:
   start_time_2c3d11b5: "Datum začetka:"
   start_time_to_end_time_ee60f6eb: "%{start_time} to %{end_time}"
   start_tls_26e4b0dc: "Start TLS"
-  started_5e138638: Started
+  started_5e138638: Začetek
   starts_at_29843f98: "Starts at"
   starts_ce584f1c: "Starts:"
   statistics: 
@@ -18008,7 +18008,7 @@ en-GB:
         save: Save
         save_comment: "Save comment"
       crumbs: 
-        assignments: Assignments
+        assignments: Naloge
       hide_rubric_button: "Hide rubric"
       labels: 
         add_a_comment: "Add a comment"
@@ -18135,7 +18135,7 @@ en-GB:
   switzerland_41_f861e414: "Switzerland (+41)"
   switzerland_f4f7137c: Switzerland
   syllabus: "Course syllabus"
-  syllabus_f191f65b: Syllabus
+  syllabus_f191f65b: Učni načrt
   syllabus_tutorial_tray_97e8ef82: "Syllabus tutorial tray"
   syllabus_visibility_options_a81ef419: "Syllabus Visibility Options"
   sync_68e5c167: Sync
@@ -18174,7 +18174,7 @@ en-GB:
   table_of_contents_d2d11ba6: "Table of contents"
   tabs: 
     announcements: Obvestila
-    assignments: Assignments
+    assignments: Naloge
     collaborations: Collaborations
     conferences: Conferences
     course_assignments: "Course assignments"
@@ -18184,7 +18184,7 @@ en-GB:
     eportfolios: ePortfelji
     files: Datoteke
     grades: Ocene
-    home: Home
+    home: Domov
     logout: Odjava
     modules: Moduli
     observees: Observing
@@ -18192,16 +18192,16 @@ en-GB:
     pages: Strani
     people: People
     profile: Profile
-    quizzes: Quizzes
+    quizzes: Preizkusi znanja
     settings: Nastavitve
-    syllabus: Syllabus
+    syllabus: Učni načrt
     tab_location_error: "That tab location is invalid"
     tab_unmanagable_error: "%{css_class} is not manageable"
   taiwan_886_9a5b6bbf: "Taiwan (+886)"
   take_a_picture_d582acf1: "Take a picture"
   take_a_snapshot_now_5b622d85: "Take a snapshot now"
   take_the_quiz_87214d7e: "Take the quiz"
-  take_the_quiz_again_8ea51a6c: "Take the quiz again"
+  take_the_quiz_again_8ea51a6c: "Ponovno opravljanje preizkusa znanja"
   take_the_survey_ada59508: "Take the survey"
   take_the_survey_again_24ce22c2: "Take the survey again"
   teacher_5a73b637: Teacher
@@ -18583,7 +18583,7 @@ en-GB:
       same_day: "%{date} from %{start_time} to %{end_time}"
       times: "%{start_time} to %{end_time}"
     with_ago: "%{time} ago"
-  time_2b5aac58: Time
+  time_2b5aac58: Čas
   time_block_5a7cda5c: "Time Block"
   time_left_in_your_instant_trial_5dd0392b: "%{time} left in your Instant Trial"
   time_left_in_your_instant_trial_extend_now_afb9bd2f: "%{time} left in your Instant Trial *(extend now)*"
@@ -18786,7 +18786,7 @@ en-GB:
     aligned_items: "Aligned Items"
     announcement: Announcement
     announcements: Obvestila
-    assignments: Assignments
+    assignments: Naloge
     come_back_later: "You marked this question to come back to later"
     discussion: Pogovor
     discussions: Pogovori
@@ -19346,7 +19346,7 @@ en-GB:
       average_grades: 
         one: "average for 1 student"
         other: "average for %{count} students"
-      course: Izobraževaln program
+      course: Izobraževalni program
       current_teacher_courses: "Courses I'm teaching"
       linked_student_accounts: "Linked student accounts"
       links: 
@@ -19519,7 +19519,7 @@ en-GB:
     user_not_found: "No active user with that ID was found."
     user_updated: "User was successfully updated."
     welcome: 
-      no_courses_message: "You don't have any courses, so this page won't be very exciting for now. Once you've created or signed up for courses, you'll start to see conversations from all of your classes."
+      no_courses_message: "Vpisani niste v noben izobraževalni program, zato je ta stran za vas prazna. Ko boste vpisani v izobraževalni program, boste videli pogovore z vseh programov, v katere ste vpisani."
       unpublished_courses_message: "You've enrolled in one or more courses that have not started yet. Once those courses are available, you will see information about them here and in the navigation on the left side. In the meantime, feel free to sign up for more courses, or set up your profile."
       welcome_to_happiness: "Dobrodošli!"
   users_d1b60cb0: Users
@@ -19585,12 +19585,12 @@ en-GB:
   waiting_for_selection_ce0398c7: "Waiting for selection"
   warning_6576b5b8: warning
   warning_aacb8c24: Warning
-  warning_crocodoc_has_limitations_when_used_in_fire_8ab414e6: "Warning: Crocodoc has limitations when used in Firefox. Comments will not always be saved."
-  warning_d9ac42ef: "Warning:"
-  warning_for_improved_accessibility_in_moving_files_71e1028b: "Warning: For improved accessibility in moving files, please use the Move to Dialog option found in the menu."
+  warning_crocodoc_has_limitations_when_used_in_fire_8ab414e6: "Pozor: Crocodoc has limitations when used in Firefox. Comments will not always be saved."
+  warning_d9ac42ef: "Pozor:"
+  warning_for_improved_accessibility_in_moving_files_71e1028b: "Pozor: For improved accessibility in moving files, please use the Move to Dialog option found in the menu."
   warning_for_improved_accessibility_of_calendar_eve_da54b4e2: "Opozorilo: za boljši prikaz koledarskih dogodkov uporabite pogled za agendo"
   warning_for_improved_accessibility_of_reordering_a_5d0206c7: "Warning: for improved accessibility of reordering assignments and groups, please use the Move to Dialog option found in the menu."
-  warning_for_improved_accessibility_please_click_he_e6472c02: "Warning: For improved accessibility, please click here to use the Individual View Gradebook."
+  warning_for_improved_accessibility_please_click_he_e6472c02: "Pozor: For improved accessibility, please click here to use the Individual View Gradebook."
   warning_icon_f64936d7: "warning icon"
   warnings: 
     test_install: 
@@ -19902,7 +19902,7 @@ en-GB:
   you_can_try_to_log_in_again_2b23ef0f: "You may try to *log in again*."
   you_can_update_some_of_this_user_s_information_but_8e99a045: "You can update some of this user's information, but s/he can change it back if s/he chooses."
   you_can_use_a_single_16x16_32x32_48x48_ico_file_85da88b5: "You can use a single 16x16, 32x32, 48x48 ico file."
-  you_can_view_your_grades_based_on_what_if_scores_s_a1aeae72: "You can view your grades based on What-if scores so that you know how grades will be affected by upcoming, or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded."
+  you_can_view_your_grades_based_on_what_if_scores_s_a1aeae72: "  You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded."
   you_cannot_assign_sections_to_a_group_discussion_t_fec73e05: "You cannot assign sections to a group discussion topic"
   you_cannot_assign_to_a_group_outside_of_the_assign_7869eb3b: "You cannot assign to a group outside of the assignment's group set"
   you_cannot_edit_themes_on_this_subaccount_63ceaaf3: "You cannot edit themes on this sub-account."
@@ -20050,8 +20050,8 @@ en-GB:
   your_search_encountered_the_following_errors_fc3e5e7f: 
     one: "Your search encountered the following error:"
     other: "Your search encountered the following errors:"
-  your_submission_has_not_been_graded_yet_d6963e53: "Your submission has not been graded yet"
-  your_time_for_this_quiz_has_been_reduced_394652e9: "Your time for this quiz has been reduced."
+  your_submission_has_not_been_graded_yet_d6963e53: "Vaš poskus še ni ocenjen"
+  your_time_for_this_quiz_has_been_reduced_394652e9: "Čas za ta kviz je bil zmanjšan."
   yyyy_mm_dd_hh_mm_a01b6081: "YYYY-MM-DD hh:mm"
   z_a_b48d8903: "Z - A"
   z_a_be2ab67c: Z–A
