@@ -140,7 +140,7 @@ en-GB:
   account_97b34646: Račun
   account_authorization_config: 
     default_delegated_login_handle_name: Login
-    default_login_handle_name: Email
+    default_login_handle_name: E-naslov
   account_authorization_config/ldap: 
     test_bind_failed: "Failed to bind with the following error: %{error}"
     test_bind_timeout: "Timeout when binding"
@@ -173,7 +173,7 @@ en-GB:
     ldap_settings_test: 
       labels: 
         pass: Password
-        user: Username
+        user: Uporabniško ime
       ldap_test_login_button: "Test login"
       test_ldap_bind_help_body: "Your LDAP server rejected the bind attempt. Things to consider:"
       test_ldap_bind_help_fixes_1: "Verify the provided filter string (i.e. '(sAMAccountName={{login}})')."
@@ -256,7 +256,7 @@ en-GB:
   account_name_13ed649: "%{account_name}"
   account_name_7f63a13: "account name"
   account_name_analytics_62bf60ae: "%{account.name} Analytics"
-  account_name_bff54ed5: "Account name"
+  account_name_bff54ed5: "Uporabniški račun"
   account_navigation_80bbefd4: "Account Navigation"
   account_navigation_menu_10c05bf9: "Account navigation menu"
   account_notification: 
@@ -313,18 +313,18 @@ en-GB:
     report_header_course__id: course_id
     report_header_course_format: course_format
     report_header_course_id: "course id"
-    report_header_course_name: "course name"
+    report_header_course_name: "Ime izobraževalnega programa"
     report_header_course_sis: "course sis"
     report_header_course_sis_id: "course sis id"
     report_header_created_at: "created at"
     report_header_current_score: "trenutni rezultat"
-    report_header_email: email
+    report_header_email: e-naslov
     report_header_end__date: end_date
     report_header_end_date: "end date"
     report_header_enrollment_state: "enrolment state"
     report_header_expiration: expiration
     report_header_final_score: "končni rezultat"
-    report_header_first_name: first_name
+    report_header_first_name: ime
     report_header_full_name: celotno_ime
     report_header_group_id: group_id
     report_header_id: id
@@ -332,13 +332,13 @@ en-GB:
     report_header_last_access_at: "last access at"
     report_header_last_activity_at: "last activity at"
     report_header_last_ip: "last ip"
-    report_header_last_name: last_name
+    report_header_last_name: priimek
     report_header_learning_outcome_id: "learning outcome id"
     report_header_learning_outcome_name: "learning outcome name"
     report_header_login_id: login_id
     report_header_long__name: long_name
     report_header_long_name: "long name"
-    report_header_name: name
+    report_header_name: ime
     report_header_nonxlist_course_id: nonxlist_course_id
     report_header_outcome_score: "rezultat"
     report_header_parent_account_id: parent_account_id
@@ -433,8 +433,8 @@ en-GB:
         enrollment_term_id: "Enrolment term"
         full_name: "Celotno ime"
         name: "Course name"
-        path: Email
-        send_confirmation: "Email the user about this account creation"
+        path: E-naslov
+        send_confirmation: "Uporabniku pošlji sporočilo o ustvaritvi računa."
         short_name: "Display name"
         sis_user_id: "SIS ID"
         sortable_name: "Sortable name"
@@ -649,7 +649,7 @@ en-GB:
       title: "Confirm delete %{user} from %{account}"
     consortium_user_search: 
       find_user_by: "Find a user by login/email"
-      find_user_by_label: Login/Email
+      find_user_by_label: Prijava/e-naslov
     consortium_users: 
       user_search_label: "User search"
     course: 
@@ -662,7 +662,7 @@ en-GB:
       more_count: 
         one: "1 more"
         other: "%{count} more"
-      none: none
+      none: brez
       settings_link: Nastavitve
       sis_id_label: "SIS ID"
       statistics_link: Statistics
@@ -1150,7 +1150,7 @@ en-GB:
         external_services_warning: "Notice: Some notifications may contain confidential information. Selecting to receive notifications at an email other than your institution provided address may result in sending sensitive Canvas course and group information outside of the institutional system."
         external_services_warning_label: "Pop-up message content:"
         from: From
-        sample_subject: "Recent Canvas Notifications"
+        sample_subject: "Najnovejša obvestila iz spletne učilnice Forum Akademija"
         subject: Subject
       open_registration_delegated_warning_message: "An external identity provider is enabled, and users created via open registration may not be able to log in unless the external identity provider's login form has a link back to %{url}."
       open_registration_delegated_warning_tooltip: "An external identity provider is enabled"
@@ -3635,7 +3635,7 @@ en-GB:
   click_here_to_download_size_of_file_74443988: "Click here to download %{size_of_file}"
   click_here_to_log_in_again_4a6055de: "Click here to log in again"
   click_here_to_see_the_file_79e2b366: "Click here to see the file."
-  click_here_to_view_ec8cb2fd: "Click here to view"
+  click_here_to_view_ec8cb2fd: "Kliknite tukaj za ogled"
   click_on_a_snapshot_to_revert_back_to_your_trial_a_39250fdb: "Click on a snapshot to revert back to your trial as it was when the snapshot was taken. Note: You will lose any work you have done since the snapshot was taken and it cannot be undone!"
   click_to_add_a_name_6cf551b0: "Click to add a name"
   click_to_change_profile_picture_for_display_name_6a4b41db: "Click to change profile picture for %{display_name}"
@@ -3679,7 +3679,7 @@ en-GB:
   click_to_test_a_different_score_2e0bb6f0: "Click to test a different score"
   click_to_test_dropdown_b950974d: "Click to test dropdown"
   click_to_unpublish_5b19e761: "Click to unpublish."
-  click_to_view_event_details_b25dc1f3: "Click to view event details"
+  click_to_view_event_details_b25dc1f3: "Kliknite za ogled podrobnosti dogodka"
   clicking_on_the_column_headers_will_sort_the_rows__3a6e9573: "Clicking on the column headers will sort rows by that column."
   clone_group_set_c2a40e15: "Clone group set"
   close_and_return_to_canvas_80544344: "Close and return to Canvas"
@@ -3879,8 +3879,8 @@ en-GB:
         add_email_address: "Yes, add email address"
         back: Back
         continue: Continue
-        create_account: "Create my account"
-        have_account: "I have a canvas account"
+        create_account: "Ustvari nov račun"
+        have_account: "Uporabniški račun že imam"
         login_as: "Log in as %{invited_user}"
         merge: Combine
         new_account: "No"
@@ -3895,7 +3895,7 @@ en-GB:
             There's a user account already associated with %{email}.
             
             **Are you %{name}?**
-        account_needed: "You've been invited to join **%{course}**. To accept this request you need a Canvas account. Click the link below to create a Canvas account."
+        account_needed: "You've been invited to join **%{course}**. Za potrditev potrebujete uporabniški račun. Click the link below to create a Canvas account."
         add_email: "Would you like to add this email address to your current account?"
         choose_login: "Select where you would like to log in at."
         logged_in_other_user: "**%{email}** is a new account, but you are currently logged in as **%{user}**."
@@ -3917,7 +3917,7 @@ en-GB:
         unique_id: Login
       page_title: "Register %{email}"
       titles: 
-        welcome_aboard: "Welcome aboard!"
+        welcome_aboard: "Dobrodošli!"
     confirm_failed: 
       details: "It looks like you may have already confirmed your registration. Try *logging in* with the email address and password you registered. If you can't remember your password, click the \"Forgot Password\" link and you should get a new link that you can use to log in and reset your password."
       feedback: "If you keep having problems, click the \"Help\" link below to search the guides or to let us know what's going on."
@@ -4274,7 +4274,7 @@ en-GB:
       get_courses: "Get Courses"
       password: Password
       select_school: "Select School"
-      username: Username
+      username: Uporabniško ime
     web_ct_course_list: 
       course_list: Course(s)
       no_files_help_label: "More information for 'Do not download files' option"
@@ -5204,7 +5204,7 @@ en-GB:
       workflow_state: "Workflow State"
   course_members_are_free_to_join_9b2603d4: "Course members are free to join"
   course_modules_795cb95e: "Moduli izobraževalnega programa"
-  course_name_45175338: "course name"
+  course_name_45175338: "Ime izobraževalnega programa"
   course_name_63b973d1: "Course name"
   course_name_is_required_90919349: "Course name is required"
   course_name_successfully_added_48116a50: "%{course_name} successfully added!"
@@ -5475,7 +5475,7 @@ en-GB:
         can_only_grade_students_in_section: "Can grade students in their section only"
         close: Done
         duplicates_removed: "Some duplicates were removed."
-        email: Email
+        email: E-naslov
         email_field_label: "Enter the email addresses of the users you would like to add, seperated by commas"
         email_field_place_holder: "\"Example Student\" <student@example.com>, \"Lastname, Firstname\" <firstlast@example.com>, justAnEmailAddress@example.com"
         email_or_login: Email/Login
@@ -6332,7 +6332,7 @@ en-GB:
         school_position: Naslov
         type_what_you_hear: "Type what you hear"
         type_what_you_see: "Type what you see"
-        username: Email
+        username: E-naslov
       library_media_specialist: "Library/Media Specialist"
       lms_administrator: "LMS Administrator"
       manager: Manager
@@ -7042,17 +7042,17 @@ en-GB:
   element_option_missing_error_an_element_to_attach__be433478: "`element` option missing error: An element to attach the TreeBrowserView to must be specified when setting the render option to 'true' for BBTreeBrowserView"
   email: 
     default_from_name: "Instructure Canvas"
-  email_22a7d52d: Email
+  email_22a7d52d: E-naslov
   email_actions_a9bfe457: "Email actions"
   email_address_6e0443a5: "Email address"
   email_address_a1b97a39: "Email address"
   email_addresses_893faeb2: "Email addresses"
   email_already_in_use_330248e: "Email already in use"
-  email_e366fa29: email
+  email_e366fa29: e-naslov
   email_is_invalid_e0d982eb: "Email is invalid!"
   email_is_invalid_or_in_use_4c3de5b9: "Email is invalid or in use"
   email_is_required_736ac26b: "Email required"
-  email_the_user_about_this_account_creation_e63f8759: "Email the user about this account creation"
+  email_the_user_about_this_account_creation_e63f8759: "Uporabniku pošlji sporočilo o ustvaritvi računa."
   embed_content_from_name_fb9e241a: "Embed content from %{name}"
   embedded_images_598ff8da: embedded_images
   ember_modules_description: "Modules rewritten in Ember. Uses the native drag and drop API to allow dragging from external locations."
@@ -7202,7 +7202,7 @@ en-GB:
       missing_page: "Couldn't find that page"
   eportfolio_entry: 
     atom_author: "ePortfolio entry"
-    click_through: "Click to view page content"
+    click_through: "Kliknite za ogled vsebine strani"
     default_content: "No content added yet"
     default_name: "Page name"
   eportfolio_settings_75ba1f9a: "ePortfolio Settings"
@@ -8008,7 +8008,7 @@ en-GB:
   generating_preview_ae83830: "Generating preview..."
   germany_49_fc5b8179: "Germany (+49)"
   germany_b02d91c9: Germany
-  get_started_b9507525: "Get started"
+  get_started_b9507525: "Začetek"
   get_the_following_from_your_salesforce_connected_a_881fc9a3: "Get the following from your Salesforce Connected App"
   get_your_users_error_reports_posted_to_salesforce__76f57839: "Get your users error reports posted to Salesforce Service Cloud"
   get_your_users_error_reports_posted_to_salesforce_dfb1a6c2: "Get your users error reports posted to Salesforce"
@@ -8455,7 +8455,7 @@ en-GB:
         your_score: "Vaš rezultat"
       learning_outcomes: "Learning Mastery"
       links: 
-        click_to_view: "click here to view"
+        click_to_view: "Kliknite za ogled"
         download: "Download %{attachment}"
         revert_score: "Revert to actual score"
         show_details: "Show all details"
@@ -8597,7 +8597,7 @@ en-GB:
         sort_by: "Sort student list"
       late_notice: "Note: This submission was LATE"
       links: 
-        click_to_view: "click here to view"
+        click_to_view: "Kliknite za ogled"
         course_home: "Domača stran izobraževalnega programa"
         download_file: "Download file"
         gradebook: Gradebook
@@ -10449,11 +10449,11 @@ en-GB:
         html: 
           added_message: "You've been added as an %{role_type} to the account %{account} at %{website}."
           click_to_finish_registration: "Click here to finish the registration process"
-          email: Email
+          email: E-naslov
           name: Name
           subject: "Canvas account admin invitation"
           url_info_label: "You'll need to register with Canvas before you can participate as an account admin."
-          username: Username
+          username: Uporabniško ime
         name_info: "Name: %{name}"
         subject: "Canvas account admin invitation"
         url_info: |-
@@ -10462,21 +10462,21 @@ en-GB:
         username_info: "Username: %{username}"
     added_to_conversation: 
       email: 
-        body: "%{user_name} just added you to a conversation in Canvas. To view the conversation, click the link below:"
+        body: "Oseba %{user_name} vas je dodala v pogovor v spletni učilnici Forum Akademija. To view the conversation, click the link below:"
         html: 
-          body: "%{user_name} just added you to a conversation in Canvas."
+          body: "Oseba %{user_name} vas je dodala v pogovor v spletni učilnici Forum Akademija."
           link_text: "Ogled pogovora"
-          subject: "%{user_name} just added you to a conversation in Canvas."
+          subject: "Oseba %{user_name} vas je dodala v pogovor v spletni učilnici Forum Akademija."
           unknown_user: "Unknown user"
-        subject: "%{user_name} just added you to a conversation in Canvas."
+        subject: "Oseba %{user_name} vas je dodala v pogovor v spletni učilnici Forum Akademija."
         unknown_user: "Unknown user"
       sms: 
-        body: "%{user_name} just added you to a conversation in Canvas."
+        body: "Oseba %{user_name} vas je dodala v pogovor v spletni učilnici Forum Akademija."
         more_info: "More info at %{url}"
         unknown_user: "Unknown user"
       summary: 
-        body: "%{user_name} just added you to a conversation in Canvas."
-        subject: "%{user_name} just added you to a conversation in Canvas."
+        body: "Oseba %{user_name} vas je dodala v pogovor v spletni učilnici Forum Akademija."
+        subject: "Oseba %{user_name} vas je dodala v pogovor v spletni učilnici Forum Akademija."
         unknown_user: "Unknown user"
       twitter: 
         tweet: "Canvas Alert - Added to conversation by %{user_name}."
@@ -10539,7 +10539,7 @@ en-GB:
         html: 
           attached_file: "Attached file"
           download: download
-          link: "View announcement"
+          link: "Prikaži obvestilo"
         labels: 
           file_included: "File included"
       sms: 
@@ -10554,7 +10554,7 @@ en-GB:
         html: 
           body: "%{user} posted a new comment on the announcement: %{discussion_topic} for %{course}:"
           discussion_entry_reply_message: "Join the conversation using the link below, or comment by replying to this message. When allowed, if you need to include an attachment, please log in to Canvas and reply to the announcement."
-          link: "Click here to join view the announcement"
+          link: "Kliknite za ogled prispevka"
           subject: "New comment on Announcement %{discussion_topic}: %{course}"
         subject: "New comment on Announcement %{discussion_topic}: %{course}"
       sms: 
@@ -10570,7 +10570,7 @@ en-GB:
           attendee: Attendee
           attendees: Attendees
           cancel_reason: "Reason for cancelling"
-          click_to_see_appointment: "Click here to view the appointment"
+          click_to_see_appointment: "Kliknite za ogled dogodka"
           date_and_time: Date/Time
           details: "Appointment details"
           group: Group
@@ -10780,11 +10780,11 @@ en-GB:
         body: |-
             The assignment "%{title}" for %{course} has changed.
             
-            Click here to view the assignment:
+            Kliknite za ogled naloge:
             %{url}
         html: 
           body: "The assignment \"%{title}\" for %{course} has changed."
-          link: "Click here to view the assignment"
+          link: "Kliknite za ogled naloge"
           subject: "Assignment Changed: %{title}, %{course}"
         subject: "Assignment changed: %{title}, %{course}"
       sms: 
@@ -10808,7 +10808,7 @@ en-GB:
           new_assignment: "A new assignment has been created for your course, %{course_name}"
           no_due_date: "Brez roka"
         labels: 
-          click_to_see_assignment: "Click here to view the assignment"
+          click_to_see_assignment: "Kliknite za ogled naloge"
         multiple_due_dates: "due: Multiple dates"
         new_assignment: "A new assignment has been created for your course, %{course_name}"
         no_due_date: "due: Brez roka"
@@ -10838,7 +10838,7 @@ en-GB:
           link_text: "View the assignment"
           no_due_date: "Brez roka"
         labels: 
-          click_to_see_assignment: "Click here to view the assignment"
+          click_to_see_assignment: "Kliknite za ogled naloge"
         no_due_date: "Brez roka"
       sms: 
         assignment_due_date_changed: "%{assignment_name}, %{course_name}, is now due:"
@@ -10859,10 +10859,10 @@ en-GB:
         html: 
           assignment_due_date_changed: "Assignment Due Date Changed: %{assignment_name}, %{course_name} (%{override})"
           assignment_due_date_changed_sentence: "The due date for the assignment, %{assignment_name}, for the course, %{course_name} (%{override}), has changed to:"
-          link: "Click here to view the assignment"
+          link: "Kliknite za ogled naloge"
           no_due_date: "Brez roka"
         labels: 
-          click_to_see_assignment: "Click here to view the assignment"
+          click_to_see_assignment: "Kliknite za ogled naloge"
         no_due_date: "Brez roka"
       sms: 
         assignment_due_date_changed: "%{assignment_name}, %{course_name} (%{override}) is now due:"
@@ -10881,7 +10881,7 @@ en-GB:
         assignment_graded: "Assignment graded: %{assignment_name}, %{course_name}"
         html: 
           assignment_graded: "Assignment graded: %{assignment_name}, %{course_name}"
-          link: "Click here to view the assignment"
+          link: "Kliknite za ogled naloge"
           the_assignment_is_graded: "The assignment, %{assignment_name}, has been graded."
         labels: 
           view_here: "You can view it here"
@@ -10902,7 +10902,7 @@ en-GB:
     assignment_resubmitted: 
       email: 
         html: 
-          link: "Click here to view the submission"
+          link: "Kliknite za ogled prispevka"
           user_resubmitted: "Resubmission: %{user_name}, %{assignment_name}"
           user_resubmitted_sentence: "%{user_name} has resubmitted to %{assignment_name} in the course %{course_name}"
         labels: 
@@ -10920,7 +10920,7 @@ en-GB:
     assignment_submitted: 
       email: 
         html: 
-          link: "Click here to view the submission"
+          link: "Kliknite za ogled prispevka"
           user_submitted: "Submission: %{user_name}, %{assignment_name}"
           user_submitted_sentence: "%{user_name} has just submitted to %{assignment_name} in the course %{course_name}"
         labels: 
@@ -10938,7 +10938,7 @@ en-GB:
     assignment_submitted_late: 
       email: 
         html: 
-          link: "Click here to view the submission"
+          link: "Kliknite za ogled prispevka"
           user_resubmitted_sentence: "%{user_name} has just submitted to %{assignment_name} in the course %{course_name}"
           user_submitted: "Late assignment: %{user_name}, %{assignment_name}"
         labels: 
@@ -11108,11 +11108,11 @@ en-GB:
           attached_files: "Attached files:"
           audio_comment: "This message includes media comments. To listen or reply, click the link below:"
           download: download
-          reply_to_conversation_message: "You can reply to this message in Canvas by replying directly to this email. If you need to include an attachment, please log in to Canvas and reply through the inbox."
+          reply_to_conversation_message: "Na to sporočilo lahko odgovorite tako, da odgovorite na to elektronsko pošto. If you need to include an attachment, please log in to Canvas and reply through the inbox."
           subject: "%{user_name}, you just sent a message in Canvas."
           unknown_user: "Unknown user"
           view_message: "View this message in Conversations"
-        reply_to_conversation_message: "You can reply to this message in Canvas by replying directly to this email."
+        reply_to_conversation_message: "Na to sporočilo lahko odgovorite tako, da odgovorite na to elektronsko pošto."
         subject: "%{user_name}, you just sent a message in Canvas."
         unknown_user: "Unknown user"
         view_message: "View this message in Conversations"
@@ -11134,11 +11134,11 @@ en-GB:
           attached_files: "Pripete datoteke:"
           audio_comment: "This message includes media comments. To listen or reply, click the link below:"
           download: download
-          reply_to_conversation_message: "You can reply to this message in Canvas by replying directly to this email. If you need to include an attachment, please log in to Canvas and reply through the Inbox."
+          reply_to_conversation_message: "Na to sporočilo lahko odgovorite tako, da odgovorite na to elektronsko pošto. If you need to include an attachment, please log in to Canvas and reply through the Inbox."
           subject: "%{user_name} just sent you a message in Canvas."
           unknown_user: "Unknown user"
           view_message: "View this message in Conversations"
-        reply_to_conversation_message: "You can reply to this message in Canvas by replying directly to this email."
+        reply_to_conversation_message: "Na to sporočilo lahko odgovorite tako, da odgovorite na to elektronsko pošto."
         subject: "%{user_name} just sent you a message in Canvas."
         unknown_user: "Unknown user"
         view_message: "View this message in Conversations"
@@ -11253,30 +11253,30 @@ en-GB:
         body: "Canvas Alert - Accepted: %{user}, %{enrollment_type}, course, %{course}"
     enrollment_invitation: 
       email: 
-        body_designer: "You've been invited to participate in the course, %{course}, as a designer."
-        body_observer: "You've been invited to participate in the course, %{course}, as an observer."
-        body_student: "You've been invited to participate in the course, %{course}, as a student."
-        body_ta: "You've been invited to participate in the course, %{course}, as a TA."
-        body_teacher: "You've been invited to participate in the course, %{course}, as a teacher."
-        details: "Visit the course page here:"
+        body_designer: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot oblikovalec."
+        body_observer: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot opazovalec."
+        body_student: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot študent."
+        body_ta: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot pomočnik predavatelja."
+        body_teacher: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot predavatelj."
+        details: "Izobraževalni program si oglejte tukaj:"
         html: 
-          body_designer: "You've been invited to participate in the course, %{course}, as a designer."
-          body_observer: "You've been invited to participate in the course, %{course}, as an observer."
-          body_student: "You've been invited to participate in the course, %{course}, as a student."
-          body_ta: "You've been invited to participate in the course, %{course}, as a TA."
-          body_teacher: "You've been invited to participate in the course, %{course}, as a teacher."
-          email: Email
+          body_designer: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot oblikovalec."
+          body_observer: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot opazovalec."
+          body_student: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot študent."
+          body_ta: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot pomočnik predavatelja."
+          body_teacher: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot predavatelj."
+          email: E-naslov
           link: "Kliknite tukaj za ogled izobraževalnega programa"
           name: Name
-          none: none
-          subject: "Course invitation"
-          username: Username
+          none: brez
+          subject: "Vabilo na izobraževalni program"
+          username: Uporabniško ime
         labels: 
-          email: Email
+          email: E-naslov
           name: Name
-          username: Username
-        none: none
-        subject: "Course invitation"
+          username: Uporabniško ime
+        none: brez
+        subject: "Vabilo na izobraževalni program"
       sms: 
         body_designer: "You've been invited to the course as a designer."
         body_observer: "You've been invited to the course as an observer."
@@ -11285,17 +11285,17 @@ en-GB:
         body_teacher: "You've been invited to the course as a teacher."
         details: "More info at %{url}"
         labels: 
-          email: Email
+          email: E-naslov
           name: Name
-          username: Username
-        none: none
+          username: Uporabniško ime
+        none: brez
       summary: 
-        body_designer: "You've been invited to participate in the course, %{course}, as a designer."
-        body_observer: "You've been invited to participate in the course, %{course}, as an observer."
-        body_student: "You've been invited to participate in the course, %{course}, as a student."
-        body_ta: "You've been invited to participate in the course, %{course}, as a TA."
-        body_teacher: "You've been invited to participate in the course, %{course}, as a teacher."
-        subject: "Course invitation"
+        body_designer: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot oblikovalec."
+        body_observer: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot opazovalec."
+        body_student: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot študent."
+        body_ta: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot pomočnik predavatelja."
+        body_teacher: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot predavatelj."
+        subject: "Vabilo na izobraževalni program"
       twitter: 
         body: "Canvas Alert - Invited: course as %{enrollment_type}"
     enrollment_notification: 
@@ -11305,25 +11305,25 @@ en-GB:
         body_student: "You've been enrolled in the course, %{course}, as a student."
         body_ta: "You've been enrolled in the course, %{course}, as a TA."
         body_teacher: "You've been enrolled in the course, %{course}, as a teacher."
-        details: "Visit the course page here:"
+        details: "Izobraževalni program si oglejte tukaj:"
         html: 
           body_designer: "You've been enrolled in the course, %{course}, as a designer."
           body_observer: "You've been enrolled in the course, %{course}, as an observer."
           body_student: "You've been enrolled in the course, %{course}, as a student."
           body_ta: "You've been enrolled in the course, %{course}, as a TA."
           body_teacher: "You've been enrolled in the course, %{course}, as a teacher."
-          complete_registration_link: "Click here to complete registration"
-          email: Email
+          complete_registration_link: "Kliknite tukaj za zaključek registracije"
+          email: E-naslov
           link: "Kliknite tukaj za ogled izobraževalnega programa"
           name: Name
-          none: none
+          none: brez
           subject: "Course enrolment"
-          username: Username
+          username: Uporabniško ime
         labels: 
-          email: Email
+          email: E-naslov
           name: Name
-          username: Username
-        none: none
+          username: Uporabniško ime
+        none: brez
         register: "Visit %{link} to complete registration"
         subject: "Course enrolment"
       sms: 
@@ -11334,10 +11334,10 @@ en-GB:
         body_teacher: "You've been enrolled in the course as a teacher."
         details: "More info at %{url}"
         labels: 
-          email: Email
+          email: E-naslov
           name: Name
-          username: Username
-        none: none
+          username: Uporabniško ime
+        none: brez
       summary: 
         body_designer: "You've been enrolled in the course, %{course}, as a designer."
         body_observer: "You've been enrolled in the course, %{course}, as an observer."
@@ -11349,33 +11349,33 @@ en-GB:
         body: "Canvas Alert - Enrolled: course as %{role_type}"
     enrollment_registration: 
       email: 
-        body_designer: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a designer."
-        body_observer: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a observer."
-        body_student: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a student."
-        body_ta: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a TA."
-        body_teacher: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a teacher."
-        details: "You'll need to register with Canvas before you can participate in the class.  To get started, visit the course page here:"
+        body_designer: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot oblikovalec."
+        body_observer: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot opazovalec."
+        body_student: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot študent."
+        body_ta: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot pomočnik predavatelja."
+        body_teacher: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot predavatelj."
+        details: "Brez registracije ne morete sodelovati v izobraževalnem programu.  Izobraževalni program si oglejte tukaj:"
         html: 
-          body: "You have been invited to participate in a class at %{website}. The class is called %{course}. Course role: %{role_type}"
-          body_designer: "The class is called %{course} and you've been invited to participate as a designer."
-          body_observer: "The class is called %{course} and you've been invited to participate as a observer."
-          body_student: "The class is called %{course} and you've been invited to participate as a student."
-          body_ta: "The class is called %{course} and you've been invited to participate as a TA."
-          body_teacher: "The class is called %{course} and you've been invited to participate as a teacher."
-          details: "You'll need to register with Canvas before you can participate in the class."
-          email: Email
+          body: "You have been invited to participate in a class at %{website}. Izobraževalni program se imenuje %{course}. Course role: %{role_type}"
+          body_designer: "Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot oblikovalec."
+          body_observer: "Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot opazovalec."
+          body_student: "Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot študent."
+          body_ta: "Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot pomočnik predavatelja."
+          body_teacher: "Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot predavatelj."
+          details: "Brez registracije ne morete sodelovati v izobraževalnem programu."
+          email: E-naslov
           link: "Kliknite tukaj za ogled izobraževalnega programa"
           name: Name
-          none: none
+          none: brez
           participate_in_class: "You've been invited to participate in a class at %{website}"
-          subject: "Course invitation"
-          username: Username
+          subject: "Vabilo na izobraževalni program"
+          username: Uporabniško ime
         labels: 
-          email: Email
+          email: E-naslov
           name: Name
-          username: Username
-        none: none
-        subject: "Course Invitation"
+          username: Uporabniško ime
+        none: brez
+        subject: "Vabilo na izobraževalni program"
       sms: 
         body_designer: "You've been invited to the course as a designer."
         body_observer: "You've been invited to the course as an observer."
@@ -11384,17 +11384,17 @@ en-GB:
         body_teacher: "You've been invited to the course as a teacher."
         details: "More info at %{url}"
         labels: 
-          email: Email
+          email: E-naslov
           name: Name
-          username: Username
-        none: none
+          username: Uporabniško ime
+        none: brez
       summary: 
-        body_designer: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a designer."
-        body_observer: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a observer."
-        body_student: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a student."
-        body_ta: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a TA."
-        body_teacher: "You've been invited to participate in a class at %{website}.  The class is called %{course}, and you've been invited to participate as a teacher."
-        subject: "Course invitation"
+        body_designer: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot oblikovalec."
+        body_observer: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot opazovalec."
+        body_student: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot študent."
+        body_ta: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot pomočnik predavatelja."
+        body_teacher: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot predavatelj."
+        subject: "Vabilo na izobraževalni program"
       twitter: 
         body: "Canvas Alert - Invited: course as %{enrollment_type}"
     event_date_changed: 
@@ -11555,7 +11555,7 @@ en-GB:
     layout: 
       email: 
         html: 
-          click_to_preferences: "Update your notification settings"
+          click_to_preferences: "Prilagodite svoje nastavitve obveščanja"
     merge_email_communication_channel: 
       email: 
         body: "An account has been created for you at %{host}, but you already have a Canvas account.  If you would like to merge them together, please visit the following url:"
@@ -11603,7 +11603,7 @@ en-GB:
       email: 
         html: 
           attached_file: "Attached file"
-          link: "View announcement"
+          link: "Prikaži obvestilo"
         labels: 
           file_included: "File included"
       sms: 
@@ -11955,9 +11955,9 @@ en-GB:
         send_button: Pošlji
     submission_comment: 
       email: 
-        body: "%{author} just made a new comment on the submission for %{user} for %{assignment}"
+        body: "Oseba %{author} je ustvarila nov komentar za uporabnika %{user} za %{assignment}."
         html: 
-          body: "%{author} just made a new comment on the submission for %{user} for %{assignment}"
+          body: "Oseba %{author} je ustvarila nov komentar za uporabnika %{user} za %{assignment}."
           link_message: "Click here to view the comment"
           someone: Someone
           subject: "Submission comment: %{user}, %{assignment}, %{context}"
@@ -11969,16 +11969,16 @@ en-GB:
         body: "New comment by %{author} for %{assignment}, %{user}, %{context}."
         more_info: "More info at %{url}"
       summary: 
-        body: "%{author} just made a new comment on the submission for %{user} for %{assignment}."
+        body: "Oseba %{author} je ustvarila nov komentar za uporabnika %{user} za %{assignment}."
         someone: Someone
         subject: "Submission Comment: %{user}, %{assignment}, %{context}"
       twitter: 
         tweet: "Canvas Alert - Comment: %{author} for %{assignment}, %{user}, %{context}."
     submission_comment_for_teacher: 
       email: 
-        body: "%{author} just made a new comment on the submission for %{user} for %{assignment}"
+        body: "Oseba %{author} je ustvarila nov komentar za uporabnika %{user} za %{assignment}."
         html: 
-          body: "%{author} just made a new comment on the submission for %{user} for %{assignment}"
+          body: "Oseba %{author} je ustvarila nov komentar za uporabnika %{user} za %{assignment}."
           link_message: "You can review the submission details by clicking the link below:"
           review_submission: "Click here to review the submission"
           someone: Someone
@@ -11990,7 +11990,7 @@ en-GB:
         more_info: "More info at %{url}"
         sms_body: "New comment by %{author} for %{assignment}, %{user}, %{context}."
       summary: 
-        body: "%{author} just made a new comment on the submission for %{user} for %{assignment}."
+        body: "Oseba %{author} je ustvarila nov komentar za uporabnika %{user} za %{assignment}."
         someone: Someone
         subject: "Submission comment: %{user}, %{assignment}, %{context}"
       twitter: 
@@ -12039,11 +12039,11 @@ en-GB:
         tweet: "Canvas Alert - grade change: %{date}"
     submission_graded: 
       email: 
-        body: "Your assignment, %{assignment}, has been graded."
+        body: "Vaša naloga, %{assignment}, je bila ocenjena."
         excused: "This assignment has been excused."
         graded_date: "graded: %{date}"
         html: 
-          body: "Your assignment, %{assignment}, has been graded."
+          body: "Vaša naloga, %{assignment}, je bila ocenjena."
           excused: "This assignment has been excused."
           graded_date: "graded: %{date}"
           link_message: "You can review the assignment here"
@@ -12106,15 +12106,15 @@ en-GB:
         body: "Canvas Alert - Quiz submitted: %{quiz}, %{user_name}"
     summaries: 
       email: 
-        daily_body: "Prijavljeni ste za dnevno poročilo nekaterih obvestil vašega računa.  Below is the report for %{date}:"
+        daily_body: "Prijavljeni ste za dnevno poročilo nekaterih obvestil vašega računa.  Spodaj je poročilo za %{date}:"
         html: 
           click_to_preferences: "Kliknite tukaj za prilagoditev obveščanja."
-          daily_body: "Prijavljeni ste za dnevno poročilo nekaterih obvestil vašega računa. Below is the report for %{date}:"
-          subject: "Najnovejša obvestila"
+          daily_body: "Prijavljeni ste za dnevno poročilo nekaterih obvestil vašega računa. Spodaj je poročilo za %{date}:"
+          subject: "Najnovejša obvestila iz spletne učilnice Forum Akademija"
           view: "Kliknite za ogled"
           weekly_body: "Prijavljeni ste za tedensko poročilo nekaterih obvestil vašega računa. Below is the report for the week ending %{date}:"
         notifications_link: "You can change your notification settings by visiting the following page:"
-        subject: "Najnovejša obvestila"
+        subject: "Najnovejša obvestila iz spletne učilnice Forum Akademija"
         weekly_body: "Prijavljeni ste za tedensko poročilo nekaterih obvestil vašega računa.  Below is the report for the week ending %{date}:"
       sms: 
         notifications_sms: "%{notifications_count} novih obvestil na %{url}"
@@ -12561,7 +12561,7 @@ en-GB:
   name_1aed4a1b: Name
   name_3806192d: "Name:"
   name_app_has_been_deleted_fb2d9426: "%{name} app has been deleted"
-  name_badfe525: name
+  name_badfe525: ime
   name_count_users_ccc93c3d: "%{name} (%{count} users)"
   name_current_score_b3198dfa: "%{name} current score"
   name_error_fee4236: "Name error"
@@ -12727,7 +12727,7 @@ en-GB:
   no_way_to_export_gradebooks_provided_b4c2939d: "No way to export gradebooks provided."
   no_way_to_monitor_gradebook_exports_provided_b451236a: "No way to monitor gradebook exports provided."
   none_3b5e34d2: None
-  none_9b6c9bec: none
+  none_9b6c9bec: brez
   norway_47_bc598662: "Norway (+47)"
   norway_c11471b3: Norway
   not_a_number: "must be a positive number"
@@ -13111,7 +13111,7 @@ en-GB:
   observees: 
     being_observed: "Students being observed"
     new_observee_password: Password
-    new_observee_username: Username
+    new_observee_username: Uporabniško ime
     observee_added: "Now observing %{user}"
     observing: Observing
   observer_accounts_only_30c70a70: "Observer accounts only"
@@ -13190,7 +13190,7 @@ en-GB:
   orbis_report_header_assignment_id: "assignment id"
   orbis_report_header_assignment_title: "assignment title"
   orbis_report_header_canvas_course_id: "course id"
-  orbis_report_header_course_name: "course name"
+  orbis_report_header_course_name: "Ime izobraževalnega programa"
   orbis_report_header_course_sis_id: "course sis id"
   orbis_report_header_date_submitted: "date submitted"
   orbis_report_header_points_possible: "points possible"
@@ -14338,7 +14338,7 @@ en-GB:
       links: 
         add_contact_method: "Contact method"
         add_email_address: "Email address"
-        email: Email
+        email: E-naslov
         resend_confirmation: "Ponovno pošilj potrdilo"
         text_sms: "Text message"
       sent_confirmation_email: "We emailed a confirmation link to %{email_address}. Click the link in that email to finish registering. Make sure to check your spam box in case it got filtered."
@@ -14920,7 +14920,7 @@ en-GB:
       other_incorrect_matches: "Other incorrect match options"
       possible_answer: "Possible answer"
     ldb_login_popup: 
-      email: Email
+      email: E-naslov
       log_in: "Log in"
       logged_out_of_canvas: "*Bili ste odjavljeni* Za nadaljevanje se morate ponovno prijaviti."
       password: Password
@@ -15963,7 +15963,7 @@ en-GB:
   region_47e29025: "Region:"
   region_939f2a6c: Region
   registration: 
-    get_started: "Get started"
+    get_started: "Začetek"
     incomplete_registration_warning: 
       set_up_account: "Your account is almost set up. To finish, please check your email at *%{email}* to set your password."
       start_participating: "You can start participating now, but you must set a password before you can log back in."
@@ -15993,7 +15993,7 @@ en-GB:
       buttons: 
         start_teaching: "Start teaching"
       labels: 
-        email: Email
+        email: E-naslov
         name: Ime
     welcome_to_canvas: "Dobrodošli!"
   registration_url_60e0eaaa: "Registration URL"
@@ -16938,7 +16938,7 @@ en-GB:
       buttons: 
         accept: Accept
         decline: Decline
-      invitation_text: "You have been invited to join [%{course}](%{link_to_course}) as %{enrollment_type_with_indefinite_article}"
+      invitation_text: "Vabljeni ste k sodelovanju pri izobraževalnem programu [%{course}](%{link_to_course}) kot %{enrollment_type_with_indefinite_article}."
     enrollment: 
       enrolled_as_designer: "enrolled as a designer"
       enrolled_as_limited_designer: "enrolled as a designer with section-only access"
@@ -17806,7 +17806,7 @@ en-GB:
       id: ID
       n_correct: "n correct"
       n_incorrect: "n incorrect"
-      name: name
+      name: ime
       root_account: root_account
       score: score
       section: section
@@ -17963,7 +17963,7 @@ en-GB:
       group_comment: "Pošlji komentar vsem v skupini"
     late: LATE
     links: 
-      click_to_view: "click here to view"
+      click_to_view: "Kliknite za ogled"
     loading_comments: "Loading comments..."
     more_details_in_the_speedgrader: "More details in the SpeedGrader"
     post_comment: "Post Comment"
@@ -18357,7 +18357,7 @@ en-GB:
   the_quiz_name_must_be_under_length_characters_68e7de3a: "The quiz name must be under %{length} characters"
   the_roles_held_by_the_reporting_user_student_teach_8fa5a269: "the roles held by reporting user (student, teacher, administrator, etc.)"
   the_salesforce_account_id_if_it_exists_e7949706: "The Salesforce Account ID (if it exists)"
-  the_scheduler_tool_lets_you_set_up_time_slots_that_233345b1: "The scheduler tool allows you to set up time slots for students (or student groups) to sign up. To get started, click the button below."
+  the_scheduler_tool_lets_you_set_up_time_slots_that_233345b1: "The scheduler tool allows you to set up time slots for students (or student groups) to sign up. Za začetek kliknite spodnji gumb."
   the_severity_of_the_issue_as_selected_by_the_user__88db91d9: "Severity of the issue, as selected by user from a drop-down menu."
   the_shortcut_icon_for_ios_android_devices_180x180__cc17b661: "The shortcut icon for iOS/Android devices. 180x180 png"
   the_specified_file_with_file_id_already_has_an_ori_bd30758c: "The specified file with file_id already has an originality report"
@@ -19182,7 +19182,7 @@ en-GB:
       updating_user_details: "Updating user details..."
     notices: 
       image_reported: "This image has been reported"
-  user_name_just_added_you_to_a_conversation_in_canv_7b278b51: "%{user_name} just added you to a conversation in Canvas. To view the conversation, click this link: %{link}."
+  user_name_just_added_you_to_a_conversation_in_canv_7b278b51: "Oseba %{user_name} vas je dodala v pogovor v spletni učilnici Forum Akademija. Za ogled pogovora kliknite na to povezavo: %{link}."
   user_name_just_sent_you_a_message_in_canvas_9e911af7: "%{user_name} just sent you a message in Canvas"
   user_name_successfully_added_79af8365: "%{user_name} successfully added."
   user_name_you_ll_need_to_log_in_before_you_can_vie_164c8e30: "%{user_name}, you must *log in* before you can view that page."
@@ -19308,7 +19308,7 @@ en-GB:
       grades: Ocene
       profile: "%{user}'s profile"
     current_conference: 
-      current_conference_text: "You have been invited to join **[%{conference}](%{link_to_conference})**. It started at %{started_at} and has %{participant_count}."
+      current_conference_text: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. It started at %{started_at} and has %{participant_count}."
       participant_count: 
         one: "1 participant"
         other: "%{count} participants"
@@ -19398,7 +19398,7 @@ en-GB:
         unique_id: Login
       more: več ...
       never: never
-      none: none
+      none: brez
       reset_mfa: "Reset multi-factor authentication"
       titles: 
         logins: "Login information"
@@ -19544,8 +19544,8 @@ en-GB:
   view_analytics_91a3b7a: "View Analytics"
   view_analytics_data_in_tables_instead_of_graphs_8a33f536: "View analytics data in tables instead of graphs"
   view_analytics_for_name_9b31594e: "View analytics for %{name}"
-  view_announcement_e431195c: "View announcement"
-  view_announcements_b6d6d819: "View announcements"
+  view_announcement_e431195c: "Prikaži obvestilo"
+  view_announcements_b6d6d819: "Prikaži obvestila"
   view_app_center_6c89a3fe: "View App Centre"
   view_app_configurations_52b52441: "View App Configurations"
   view_ba339f93: Pogled
@@ -19887,8 +19887,8 @@ en-GB:
   you_can_reply_to_this_comment_by_responding_to_thi_3d130e8c: "You can reply to this comment by responding to this message or review the submission details using this link: %{link}."
   you_can_reply_to_this_comment_by_responding_to_thi_4fd1379e: "You can reply to this comment by responding to this message, or review the submission details using this link: %{link}.  When allowed, if you need to include an attachment, please log in to Canvas and reply to the submission"
   you_can_reply_to_this_message_in_canvas_by_clickin_f5f5f7a3: "You can reply to this message in Canvas by clicking this link: %{link}."
-  you_can_reply_to_this_message_in_canvas_by_replyin_c9f9abb: "You can reply to this message in Canvas by replying directly to this email, or by clicking this link: %{link}.  If you need to include an attachment, please log in to Canvas and reply through the inbox."
-  you_can_reply_to_this_message_in_canvas_by_replyin_fa33638d: "You can reply to this message in Canvas by replying directly to this email or by clicking this link: %{link}."
+  you_can_reply_to_this_message_in_canvas_by_replyin_c9f9abb: "Na to sporočilo lahko odgovorite tako, da odgovorite na to elektronsko pošto ali kliknete to povezavo: %{link}.  If you need to include an attachment, please log in to Canvas and reply through the inbox."
+  you_can_reply_to_this_message_in_canvas_by_replyin_fa33638d: "Na to sporočilo lahko odgovorite tako, da odgovorite na to elektronsko pošto ali kliknete to povezavo: %{link}."
   you_can_review_the_submission_details_by_clicking__9abc5515: "You can review the submission details by clicking this link: %{link}."
   you_can_review_the_submission_details_using_the_li_c25dd615: "You can review the submission details using the link below."
   you_can_review_the_submission_details_using_this_l_c7f51917: "You can review the submission details using this link: %{link}."
@@ -19974,14 +19974,14 @@ en-GB:
   you_ve_been_enrolled_in_the_course_course_67b2e1b7: "You have been enrolled in the course, %{course}."
   you_ve_been_enrolled_in_the_course_course_course_r_2b2f00f9: "You have been enrolled in the course, %{course}. Course role: %{role_type}"
   you_ve_been_given_an_account_role_for_the_account__18e0ef38: "You have been given an account role for the %{account} account at %{website}. Role type: %{role_type}."
-  you_ve_been_invited_to_course_90764f1: "You have been invited to %{course}."
-  you_ve_been_invited_to_course_course_role_role_typ_b8ab8f22: "You have been invited to %{course}. Course role: %{role_type}"
-  you_ve_been_invited_to_participate_in_a_class_at_w_b87cd481: "You have been invited to participate in a class at %{website}. The class is called %{course}. Course role: %{role_type}"
-  you_ve_been_invited_to_participate_in_the_course_c_a8d1f6a8: "You have been invited to participate in the course, %{course}. Course role: %{role_type}"
+  you_ve_been_invited_to_course_90764f1: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}."
+  you_ve_been_invited_to_course_course_role_role_typ_b8ab8f22: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. Course role: %{role_type}"
+  you_ve_been_invited_to_participate_in_a_class_at_w_b87cd481: "Vabljeni ste k sodelovanju pri izobraževalnem programu na spletni strani %{website}. Izobraževalni program se imenuje %{course}. Course role: %{role_type}"
+  you_ve_been_invited_to_participate_in_the_course_c_a8d1f6a8: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. Course role: %{role_type}"
   you_ve_been_invited_to_peer_review_reviewee_82580fb: "You have been invited to peer review %{reviewee}."
   you_ve_been_invited_to_peer_review_reviewee_follow_2e71fce2: "You have been invited to peer review %{reviewee}. Follow this link to review them: %{link}."
-  you_ve_been_invited_to_the_course_course_2aac8140: "You have been invited to the course, %{course}."
-  you_ve_been_invited_to_the_course_course_course_ro_a74d748b: "You have been invited to the course, %{course}. Course role: %{role_type}"
+  you_ve_been_invited_to_the_course_course_2aac8140: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}."
+  you_ve_been_invited_to_the_course_course_course_ro_a74d748b: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. Course role: %{role_type}"
   you_ve_been_reminded_to_assess_rubric_context_70eeb600: "You have been reminded to assess %{rubric}, %{context}."
   you_ve_updated_the_scoring_criteria_this_will_affe_ec852671: "You’ve updated the scoring criteria; this will affect all students previously assessed using this outcome"
   you_will_be_redirected_to_a_login_page_where_you_w_fc8df402: "You will be redirected to a Log-in page where you must log in with your child's credentials."
