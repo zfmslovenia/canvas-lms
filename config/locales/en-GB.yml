@@ -568,7 +568,7 @@ en-GB:
         Assignment: Assignment
         Course: Course
         Grader: Grader
-        Student: Student
+        Student: Udeleženec
         To: To
         date: Date
         from: From
@@ -667,8 +667,8 @@ en-GB:
       sis_id_label: "SIS ID"
       statistics_link: Statistics
       student_count: 
-        one: "1 Student"
-        other: "%{count} Students"
+        one: "1 udeleženec"
+        other: "%{count} udeležencev"
       teachers_label: Teachers
     course_add_failed_message: "Adding course failed, please try again"
     course_added_message: "%{course} successfully added!"
@@ -1040,7 +1040,7 @@ en-GB:
         sections: Reports
         settings: "Nastavitve računa"
       help_link_available_to_all_admins: Admins
-      help_link_available_to_all_students: Students
+      help_link_available_to_all_students: Udeleženci
       help_link_available_to_all_teachers: Teachers
       help_link_available_to_all_users: Users
       if_you_would_like_to_link_to_your_own_campus_support_website_in_the_help_dialog_you_can_do_that_here: "If you would like to link to your own campus support website in the help dialog you can do that here"
@@ -1109,7 +1109,7 @@ en-GB:
         sis_default_grade_export: "'Post Marks to SIS' checkbox is enabled by default for assignments, marked discussions and quizzes"
         sis_source_id: "SIS ID"
         start_at: Starts
-        students_can_create_courses: Students
+        students_can_create_courses: Udeleženci
         sub_account_includes: "Let sub-accounts use the Theme Editor to customise their own branding"
         subject: Subject
         teachers_can_create_courses: Teachers
@@ -1312,7 +1312,7 @@ en-GB:
         courses: Izobraževalni programi
         generated_at: Generated
         media_storage: Media
-        students: Students
+        students: Udeleženci
         teachers: Teachers
         uploaded_storage: Uploaded
         users: Users
@@ -3895,7 +3895,7 @@ en-GB:
             There's a user account already associated with %{email}.
             
             **Are you %{name}?**
-        account_needed: "You've been invited to join **%{course}**. Za potrditev potrebujete uporabniški račun. Click the link below to create a Canvas account."
+        account_needed: "You've been invited to join **%{course}**. Za potrditev potrebujete uporabniški račun. Kliknite na spodnji gumb za ustvaritev uporabniškega računa."
         add_email: "Would you like to add this email address to your current account?"
         choose_login: "Select where you would like to log in at."
         logged_in_other_user: "**%{email}** is a new account, but you are currently logged in as **%{user}**."
@@ -5005,7 +5005,7 @@ en-GB:
       section: Section
       sis_login_id: "SIS Login ID"
       sis_user_id: "SIS User ID"
-      student: Student
+      student: Udeleženec
     default_grading_scheme_name: "Default grading scheme"
     default_name: "My course"
     default_short_name: Course-101
@@ -5217,8 +5217,8 @@ en-GB:
   course_quizzes_c337653c: "Preizkusi znanja"
   course_restore: 
     restore_error: "There was an error attempting to restore the course. Course was not restored."
-  course_role_role_type_119c2f64: "Course role: %{role_type}"
-  course_roles_1314f962: "Course roles"
+  course_role_role_type_119c2f64: "Vrsta uporabnika: %{role_type}"
+  course_roles_1314f962: "Vrste uporabnikov izobraževalnega programa"
   course_roster_78f70e97: "Course roster"
   course_search: 
     cant_be_blank: "Can't be blank"
@@ -5426,7 +5426,7 @@ en-GB:
           
           To link the course observer %{user} to a student, select the student's name from the list below.
       labels: 
-        student: Student
+        student: Udeleženec
       loading: "Loading students..."
       select_student: "Select student"
     link_validator: 
@@ -5789,7 +5789,7 @@ en-GB:
       tabs: 
         assignments: Naloge
         files: "File storage"
-        students: Students
+        students: Udeleženci
         totals: Skupno
       text_entry: "Text entry"
       unaccepted_students: "Unaccepted students"
@@ -5968,7 +5968,7 @@ en-GB:
     sis_user_id: "SIS user ID"
     standard: 
       deviation: "Standard deviation"
-    student: Student
+    student: Udeleženec
     top: 
       student: 
         count: "Top student count"
@@ -6346,7 +6346,7 @@ en-GB:
       school_technology_coordinator: "School Technology Coordinator"
       sign_up_to_canvas: "Sign up to try Canvas"
       south_america_central_america_and_caribbean: "South America, Central America, and Caribbean"
-      student: Student
+      student: Udeleženec
       subscribe: "I want to receive news, tips and info from Instructure"
       superintendent: Superintendent
       support: Support
@@ -6911,7 +6911,7 @@ en-GB:
   edit_collaboration_b014c18b: "Edit collaboration"
   edit_comment_comment_e74afa04: "Edit comment: %{comment}"
   edit_conference_title_6e234815: "Edit '%{conference_title}'"
-  edit_course_role_3b992fc2: "Edit course role"
+  edit_course_role_3b992fc2: "Vrste uporabnikov izobraževalnega programa"
   edit_criterion_5e4dadca: "Edit criterion"
   edit_criterion_description_5828919: "Edit criterion description"
   edit_current_message_da650d4c: "Edit current message"
@@ -7108,7 +7108,7 @@ en-GB:
       designer_with_indefinite_article: "A designer"
       observer: Observer
       observer_with_indefinite_article: "An observer"
-      student: Student
+      student: Udeleženec
       student_with_indefinite_article: "A student"
       ta: TA
       ta_with_indefinite_article: "A TA"
@@ -7127,7 +7127,7 @@ en-GB:
   enrollmentNames: 
     course_designer: "Course designer"
     observer: Observer
-    student: Student
+    student: Udeleženec
     teacher: Teacher
     teacher_assistant: TA
   enrollment_role_f5d985a7: "Enrolment role"
@@ -7388,7 +7388,7 @@ en-GB:
         body: "Ready to get started? You can always get back to this wizard from any page by clicking the \"%{help_link_text}\" link you'll see there."
       headers: 
         finish: "Let's do it"
-        getting_started: "Getting started"
+        getting_started: "Začetek"
         instructions: "Using an ePortfolio"
         introduction: Introduction
         page_content: "Page content"
@@ -8185,7 +8185,7 @@ en-GB:
     recording_expired_message: "Speech recognition has expired due to inactivity. Kliknite gumb »Stop« za uporabo trenutnega besedila kot komentar ali kliknite »Prekliči« za zavrnitev."
     recording_message: Recording...
     row_student_name: 
-      student_placeholder: Student
+      student_placeholder: Udeleženec
     secondary_id: "Secondary ID"
     section_to_show_menu: 
       choose_a_section_to_show: "Choose a section to show"
@@ -8194,7 +8194,7 @@ en-GB:
     show_all_details_button: "Show all details"
     show_notes: "Show notes column"
     show_student_names: "Show student names"
-    student: Student
+    student: Udeleženec
     student_index: "Student %{index}"
     student_mute_notification: "Instructor is working on grades"
     student_name: "Student name"
@@ -8303,7 +8303,7 @@ en-GB:
     points_out_of: "od %{points_possible} točk"
     resubmitted: "Resubmitted since last graded"
     row_student_name: 
-      student_placeholder: Student
+      student_placeholder: Udeleženec
     secondary_id: "Secondary ID"
     section_to_show_menu: 
       choose_a_section_to_show: "Choose a section to show"
@@ -8512,7 +8512,7 @@ en-GB:
         after: After
         before: Before
         current: Current
-        student: Student
+        student: Udeleženec
       page_title: "Gradebook history"
       regraded: Regraded
       revert: "Revert to this grade"
@@ -8736,7 +8736,7 @@ en-GB:
     percent_of_grade: "%{percentage} of grade"
     points_out_of: "od %{points_possible} točk"
     row_student_name: 
-      student_placeholder: Student
+      student_placeholder: Udeleženec
     section_to_show_menu: 
       choose_a_section_to_show: "Choose a section to show"
       showing_course: "Showing course"
@@ -11356,7 +11356,7 @@ en-GB:
         body_teacher: "You've been invited to participate in a class at %{website}.  Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot predavatelj."
         details: "Brez registracije ne morete sodelovati v izobraževalnem programu.  Izobraževalni program si oglejte tukaj:"
         html: 
-          body: "You have been invited to participate in a class at %{website}. Izobraževalni program se imenuje %{course}. Course role: %{role_type}"
+          body: "Vabljeni ste k sodelovanju pri izobraževalnem programu na spletni strani %{website}. Izobraževalni program se imenuje %{course}. Vrsta uporabnika: %{role_type}"
           body_designer: "Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot oblikovalec."
           body_observer: "Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot opazovalec."
           body_student: "Izobraževalni program se imenuje %{course}, vabljeni ste, da sodelujete kot študent."
@@ -15241,7 +15241,7 @@ en-GB:
           click_to_enter_wrong_answer_comments: "Click to enter comments for a wrong answer"
         wrong_answer_comments: "Wrong answer comments"
       history: 
-        anonymous_username: Student
+        anonymous_username: Udeleženec
         buttons: 
           allow_extra_attempt: "allow this student an extra attempt"
         count_attempts_left: 
@@ -15316,7 +15316,7 @@ en-GB:
           attempt: Attempt
           attempts_left: "Attempts left"
           score: Rezultat
-          student: Student
+          student: Udeleženec
           student_extensions: "Student extensions"
           time: Time
         in_progress: "in progress"
@@ -16193,8 +16193,8 @@ en-GB:
       designers: Designers
       observer: Observer
       observers: Observers
-      student: Student
-      students: Students
+      student: Udeleženec
+      students: Udeleženci
       ta: TA
       tas: TAs
       teacher: Teacher
@@ -16243,7 +16243,7 @@ en-GB:
       add_role: "Add Role"
     roles_override_index: 
       account_roles: "Account roles"
-      course_roles: "Course roles"
+      course_roles: "Vrste uporabnikov izobraževalnega programa"
       page_header_title: "Account permissions"
   rootFoldersFinder: 
     course_files: "Course files"
@@ -16495,7 +16495,7 @@ en-GB:
       previous: Nazaj
     course_sections: "Course sections"
     enrollments_observers: Observers
-    enrollments_students: Students
+    enrollments_students: Udeleženci
     enrollments_tas: "Teaching assistants"
     enrollments_teachers: Teachers
     student_groups: "Student Groups"
@@ -16920,7 +16920,7 @@ en-GB:
     current_enrollment: 
       enrolled_as_designer: Designer
       enrolled_as_observer: Observer
-      enrolled_as_student: Student
+      enrolled_as_student: Udeleženec
       enrolled_as_ta: TA
       enrolled_as_teacher: Teacher
       favorited_tooltip: "Click to remove from the courses menu."
@@ -17828,7 +17828,7 @@ en-GB:
   storage_used_in_mb_c75fbd9c: "storage used in MB"
   stream_items_api: 
     assessment_request_title: "Peer Review for %{title}"
-  student_5da6bfd1: Student
+  student_5da6bfd1: Udeleženec
   student_921b864d: student
   student_assignment_outcome_map_title: "Student Competency"
   student_context_card_ad59967e: "Student context card"
@@ -17874,7 +17874,7 @@ en-GB:
   studentcount_students_will_get_num_points_fdd43b55: 
     one: "1 student will get %{num} points"
     other: "%{studentCount} students will get %{num} points"
-  students_1b8cd07b: Students
+  students_1b8cd07b: Udeleženci
   students_are_not_allowed_to_access_test_installati_11b9078: "Students are not allowed to access test installations."
   students_being_observed_4de3e520: "Students Being Observed"
   students_can_only_participate_in_the_course_betwee_6f8595aa: "Students can only participate in the course between these dates"
@@ -19099,7 +19099,7 @@ en-GB:
     registration: 
       agree_to_terms_with_code_of_conduct: "You agree to the *terms of use* and the **code of conduct**."
   user_696f4d6a: user
-  user_accepted_their_invitation_for_the_course_cour_5eaa1357: "%{user} accepted invitation for the course, %{course}. Course role: %{role_type}"
+  user_accepted_their_invitation_for_the_course_cour_5eaa1357: "%{user} accepted invitation for the course, %{course}. Vrsta uporabnika: %{role_type}"
   user_accepted_their_invitation_for_the_course_cour_9d600393: "%{user} accepted their invitation for the course, %{course}."
   user_access_tokens_title: "User access tokens"
   user_avatars_e4fc4ed3: "User avatars"
@@ -19117,7 +19117,7 @@ en-GB:
   user_information_6353d7e1: "User information"
   user_is_now_group_leader_60ec9b98: "%{user} is now group leader"
   user_isn_t_allowed_to_edit_global_outcomes_a7eb4a87: "User isn't allowed to edit global outcomes"
-  user_just_accepted_their_invitation_to_participate_7a4b2ce4: "%{user} just accepted invitation to participate in the course, %{course}. Course role: %{role_type}"
+  user_just_accepted_their_invitation_to_participate_7a4b2ce4: "%{user} just accepted invitation to participate in the course, %{course}. Vrsta uporabnika: %{role_type}"
   user_just_updated_title_88074ab2: "%{user} just updated %{title}"
   user_list_66428346: "User list"
   user_lists: 
@@ -19229,7 +19229,7 @@ en-GB:
       headers: 
         current_courses: "Current courses"
         last_entry: "Last faculty journal entry"
-        student: Student
+        student: Udeleženec
       journal_header: "Faculty journal"
       page_title: "Faculty Journal"
   user_observer_csv_3592a9cf: "User observer CSV"
@@ -19490,7 +19490,7 @@ en-GB:
         final_score: "Končni rezultat"
         last_interaction: "Last student interaction"
         last_journal_entry: "Last faculty journal entry"
-        student_name: Student
+        student_name: Udeleženec
         teacher_activity: "Teacher Activity Report for %{teacher}"
         ungraded: "Ungraded assignments"
       last_time: 
@@ -19972,16 +19972,16 @@ en-GB:
   you_scored_a_score_a5dd5561: "You scored a %{score}."
   you_scored_d3e00111: "You scored"
   you_ve_been_enrolled_in_the_course_course_67b2e1b7: "You have been enrolled in the course, %{course}."
-  you_ve_been_enrolled_in_the_course_course_course_r_2b2f00f9: "You have been enrolled in the course, %{course}. Course role: %{role_type}"
+  you_ve_been_enrolled_in_the_course_course_course_r_2b2f00f9: "You have been enrolled in the course, %{course}. Vrsta uporabnika: %{role_type}"
   you_ve_been_given_an_account_role_for_the_account__18e0ef38: "You have been given an account role for the %{account} account at %{website}. Role type: %{role_type}."
   you_ve_been_invited_to_course_90764f1: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}."
-  you_ve_been_invited_to_course_course_role_role_typ_b8ab8f22: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. Course role: %{role_type}"
-  you_ve_been_invited_to_participate_in_a_class_at_w_b87cd481: "Vabljeni ste k sodelovanju pri izobraževalnem programu na spletni strani %{website}. Izobraževalni program se imenuje %{course}. Course role: %{role_type}"
-  you_ve_been_invited_to_participate_in_the_course_c_a8d1f6a8: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. Course role: %{role_type}"
+  you_ve_been_invited_to_course_course_role_role_typ_b8ab8f22: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. Vrsta uporabnika: %{role_type}"
+  you_ve_been_invited_to_participate_in_a_class_at_w_b87cd481: "Vabljeni ste k sodelovanju pri izobraževalnem programu na spletni strani %{website}. Izobraževalni program se imenuje %{course}. Vrsta uporabnika: %{role_type}"
+  you_ve_been_invited_to_participate_in_the_course_c_a8d1f6a8: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. Vrsta uporabnika: %{role_type}"
   you_ve_been_invited_to_peer_review_reviewee_82580fb: "You have been invited to peer review %{reviewee}."
   you_ve_been_invited_to_peer_review_reviewee_follow_2e71fce2: "You have been invited to peer review %{reviewee}. Follow this link to review them: %{link}."
   you_ve_been_invited_to_the_course_course_2aac8140: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}."
-  you_ve_been_invited_to_the_course_course_course_ro_a74d748b: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. Course role: %{role_type}"
+  you_ve_been_invited_to_the_course_course_course_ro_a74d748b: "Vabljeni ste k sodelovanju pri izobraževalnem programu %{course}. Vrsta uporabnika: %{role_type}"
   you_ve_been_reminded_to_assess_rubric_context_70eeb600: "You have been reminded to assess %{rubric}, %{context}."
   you_ve_updated_the_scoring_criteria_this_will_affe_ec852671: "You’ve updated the scoring criteria; this will affect all students previously assessed using this outcome"
   you_will_be_redirected_to_a_login_page_where_you_w_fc8df402: "You will be redirected to a Log-in page where you must log in with your child's credentials."
