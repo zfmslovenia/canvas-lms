@@ -10,6 +10,11 @@ da:
     da: Dansk
   bigeasy_locale: da_DK
   dow_offset: 1
+sl:
+  locales:
+    sl: Slovenščina
+  bigeasy_locale: sl_SI
+  dow_offset: 1
 de:
   locales:
     de: Deutsch
