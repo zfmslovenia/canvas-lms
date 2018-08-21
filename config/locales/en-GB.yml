@@ -57,7 +57,7 @@ en-GB:
   a_message_is_required_129e1814: "A message is required"
   a_name_for_this_set_is_required_222bad23: "A name for this set is required"
   a_name_is_required_b5df38a9: "A name is required"
-  a_new_assignment_has_been_created_for_your_course__12b72639: "A new assignment has been created for your course, %{course_name}"
+  a_new_assignment_has_been_created_for_your_course__12b72639: "Za vaš izobraževalni program %{course_name} je bila ustvarjena nova naloga."
   a_partner_id_is_required_to_use_academic_benchmark_adba3df0: "A partner ID is required to use academic benchmarks"
   a_partner_key_is_required_to_use_academic_benchmar_da9f31bd: "A partner key is required to use academic benchmarks"
   a_problem_occurred_adding_reviewers_57b083d9: "A problem occurred adding reviewers."
@@ -254,7 +254,7 @@ en-GB:
   account_id_73966078: account_id
   account_id_f6e26867: "Account ID"
   account_name_13ed649: "%{account_name}"
-  account_name_7f63a13: "account name"
+  account_name_7f63a13: "Ime računa"
   account_name_analytics_62bf60ae: "%{account.name} Analytics"
   account_name_bff54ed5: "Uporabniški račun"
   account_navigation_80bbefd4: "Account Navigation"
@@ -2064,7 +2064,7 @@ en-GB:
   assignment_assignment_submission_plain_text_view_b217d372: "Assignment %{assignment} submission plain text view"
   assignment_comments_e43ed898: "Assignment comments"
   assignment_configuration_4153cb88: "Assignment Configuration"
-  assignment_created_assignment_name_course_name_324a5639: "Assignment created - %{assignment_name}, %{course_name}"
+  assignment_created_assignment_name_course_name_324a5639: "Ustvarjena je bila nova naloga – %{assignment_name}, %{course_name}"
   assignment_d8387b78: assignment
   assignment_details: 
     no_graded_submissions: "No graded submissions"
@@ -3437,7 +3437,7 @@ en-GB:
     wizard_box: 
       descriptions: 
         assignment: "Now click the \"Assignment\" tab in the dialog to create an assignment instead of a calendar event."
-        assignment_done: "Done! The assignment is now created! You can click it to see the details, edit and delete the event, or drag and drop it to a new day to change its date."
+        assignment_done: "Done! Naloga je sedaj ustvarjena! You can click it to see the details, edit and delete the event, or drag and drop it to a new day to change its date."
         change_date: "That one's easy. Just drag the event to a new date and let go. Or you can click the event and then click \"Edit\" to get a little more specific."
         create: "To start creating a calendar event, just click the day on the calendar where you want the event."
         create_assignment: "Just like with a calendar event, click the date you want to add the assignment to. Or you can create an assignment without a due date by clicking in the \"Undated events\" box (*where?*)."
@@ -3895,7 +3895,7 @@ en-GB:
             There's a user account already associated with %{email}.
             
             **Are you %{name}?**
-        account_needed: "You've been invited to join **%{course}**. Za potrditev potrebujete uporabniški račun. Kliknite na spodnji gumb za ustvaritev uporabniškega računa."
+        account_needed: "Vabimo vas, da se udeležite izobraževalnega programa **%{course}**. Za potrditev potrebujete uporabniški račun. Kliknite na spodnji gumb za ustvaritev uporabniškega računa."
         add_email: "Would you like to add this email address to your current account?"
         choose_login: "Select where you would like to log in at."
         logged_in_other_user: "**%{email}** is a new account, but you are currently logged in as **%{user}**."
@@ -5385,12 +5385,12 @@ en-GB:
       headings: 
         invitation: Invitation
       invitation: 
-        designer: "You've been invited to join this course as a *designer* for the user account *%{user}*."
+        designer: "Vabljeni ste, da sodelujete v izobraževalnem programu %{course} kot oblikovalec."
         observer: "You've been invited to join this course as an *observer* for the user account *%{user}*."
-        one: "You've been invited to join this course for the user account *%{user}*."
-        other: "You've been invited to join this course for the user account *%{user}*."
-        student: "You've been invited to join this course as a *student* for the user account *%{user}*."
-        ta: "You've been invited to join this course as a *TA* for the user account *%{user}*."
+        one: "Vabimo vas, da se udeležite izobraževalnega programa za uporabniški račun *%{user}*."
+        other: "Vabimo vas, da se udeležite izobraževalnega programa za uporabniški račun *%{user}*."
+        student: "Vabimo vas, da se udeležite izobraževalnega programa kot študent za uporabniški račun *%{user}*."
+        ta: "Vabimo vas, da se udeležite izobraževalnega programa kot študent za uporabniški račun *%{user}*."
         teacher: "You've been invited to join this course as a *teacher* for the user account *%{user}*."
       invitiation: 
         look_around: "Feel free to wander around and look over the course. When you're ready, you can either accept or reject the invitation."
@@ -5448,7 +5448,7 @@ en-GB:
       invitation_accepted: "Invitation accepted!  Welcome to %{course}!"
       invitation_cancelled: "Invitation cancelled."
       login_to_accept: "You'll need to log in before you can accept the enrolment."
-      preview_course: "You've been invited to join this course.  You can look around, but you'll need to accept the enrolment invitation before you can participate."
+      preview_course: "Vabimo vas, da se udeležite izobraževalnega programa.  You can look around, but you'll need to accept the enrolment invitation before you can participate."
       reset_test_student: "The test student has been reset successfully."
       unconcluded: "Course unconcluded"
       updated: "Course was successfully updated."
@@ -10798,19 +10798,19 @@ en-GB:
         assignment_change: "Canvas Alert - Change: %{assignment_name}, %{course_name}"
     assignment_created: 
       email: 
-        assignment_created: "Assignment Created - %{assignment_name}, %{course_name}"
+        assignment_created: "Ustvarjena je bila nova naloga – %{assignment_name}, %{course_name}"
         due_at: "rok: %{assignment_due_date_time}"
         html: 
-          assignment_created: "Assignment Created - %{assignment_name}, %{course_name}"
+          assignment_created: "Ustvarjena je bila nova naloga – %{assignment_name}, %{course_name}"
           due_at: "Rok: %{assignment_due_date_time}"
           link_text: "View the assignment"
           multiple_due_dates: "due: Multiple dates"
-          new_assignment: "A new assignment has been created for your course, %{course_name}"
+          new_assignment: "Za vaš izobraževalni program %{course_name} je bila ustvarjena nova naloga."
           no_due_date: "Brez roka"
         labels: 
           click_to_see_assignment: "Kliknite za ogled naloge"
         multiple_due_dates: "due: Multiple dates"
-        new_assignment: "A new assignment has been created for your course, %{course_name}"
+        new_assignment: "Za vaš izobraževalni program %{course_name} je bila ustvarjena nova naloga."
         no_due_date: "due: Brez roka"
       sms: 
         due_at: "rok: %{assignment_due_date_time}"
@@ -10819,7 +10819,7 @@ en-GB:
         new_assignment: "New assignment for %{course_name}"
         no_due_date: "due: Brez roka"
       summary: 
-        assignment_created: "Assignment created - %{assignment_name}, %{course_name}"
+        assignment_created: "Ustvarjena je bila nova naloga – %{assignment_name}, %{course_name}"
         due_at: "rok: %{assignment_due_date_time}"
         multiple_due_dates: "due: Multiple dates"
         no_due_date: "due: Brez roka"
@@ -11216,7 +11216,7 @@ en-GB:
       title: "Pošlji odgovor"
     email: 
       footer: |-
-          You received this email because you are participating in one or more classes using Canvas.  Za spremembo ali izključitev obvestil po e-pošti, obiščite:
+          To sporočilo ste prejeli, ker sodelujete v enem ali več izobraževalnih programov Forum Akademije.  Za spremembo ali izključitev obvestil po e-pošti obiščite:
           %{url}
     enrollment_accepted: 
       email: 
@@ -11639,7 +11639,7 @@ en-GB:
         body_course: "Canvas Alert - New group: %{group} for the course %{course}"
     new_context_group_membership_invitation: 
       email: 
-        body_account: "You've been invited to join the group %{group} for the account %{account}."
+        body_account: "Vabimo vas, da se udeležite izobraževalnega programa **%{course}**."
         body_course: "You've been invited to join the group %{group} for the course %{course}."
         details: "You can check out the group by clicking the link below:"
         html: 
@@ -12002,14 +12002,14 @@ en-GB:
         html: 
           body: "The grade on your assignment, %{assignment_title} has been changed."
           excused: "This assignment has been excused."
-          link_message: "You can review the assignment here"
+          link_message: "Nalogo lahko pregledate tukaj"
           no_date_set: "No date set"
           not_applicable: N/A
           regraded_date: "re-graded: %{date}"
           score: "rezultat: %{score} od %{total}"
           score_pending: "score pending review by the teacher"
           subject: "Grade changed: %{assignment}, %{context}"
-        link_message: "You can review the assignment here:"
+        link_message: "Nalogo lahko pregledate tukaj:"
         no_date_set: "No date set"
         not_applicable: N/A
         regraded_date: "re-graded: %{date}"
@@ -12046,13 +12046,13 @@ en-GB:
           body: "Vaša naloga, %{assignment}, je bila ocenjena."
           excused: "This assignment has been excused."
           graded_date: "graded: %{date}"
-          link_message: "You can review the assignment here"
+          link_message: "Nalogo lahko pregledate tukaj"
           no_date_set: "No date set"
           not_applicable: N/A
           score: "rezultat: %{score} od %{total}"
           score_pending_review: "score pending review by the teacher"
           subject: "Assignment graded: %{assignment}, %{context}"
-        link_message: "You can review the assignment here:"
+        link_message: "Nalogo lahko pregledate tukaj:"
         no_date_set: "No date set"
         not_applicable: N/A
         score: "rezultat: %{score} od %{total}"
@@ -12112,10 +12112,10 @@ en-GB:
           daily_body: "Prijavljeni ste za dnevno poročilo nekaterih obvestil vašega računa. Spodaj je poročilo za %{date}:"
           subject: "Najnovejša obvestila iz spletne učilnice Forum Akademija"
           view: "Kliknite za ogled"
-          weekly_body: "Prijavljeni ste za tedensko poročilo nekaterih obvestil vašega računa. Below is the report for the week ending %{date}:"
+          weekly_body: "Prijavljeni ste za tedensko poročilo nekaterih obvestil vašega računa. Spodaj je poročilo za teden, ki se je končal dne %{date}:"
         notifications_link: "You can change your notification settings by visiting the following page:"
         subject: "Najnovejša obvestila iz spletne učilnice Forum Akademija"
-        weekly_body: "Prijavljeni ste za tedensko poročilo nekaterih obvestil vašega računa.  Below is the report for the week ending %{date}:"
+        weekly_body: "Prijavljeni ste za tedensko poročilo nekaterih obvestil vašega računa.  Spodaj je poročilo za teden, ki se je končal dne %{date}:"
       sms: 
         notifications_sms: "%{notifications_count} novih obvestil na %{url}"
       twitter: 
@@ -12896,7 +12896,7 @@ en-GB:
       appointment_reserved_by_user: "Appointment reserved by user"
       appointment_reserved_for_user: "Appointment reserved for user"
       assignment_changed: "Assignment changed"
-      assignment_created: "Assignment created"
+      assignment_created: "Ustvarjena naloga"
       assignment_due_date_changed: "Assignment due date changed"
       assignment_due_date_override_changed: "Assignment due date override changed"
       assignment_graded: "Assignment graded"
@@ -17092,9 +17092,9 @@ en-GB:
       accept_or_reject: "When you're ready, you can either accept or reject the invitation."
       body_designer: "You've been invited to join %{course} as a **designer** for the user account **%{email_address}**."
       body_observer: "You've been invited to join %{course} as an **observer** for the user account **%{email_address}**."
-      body_student: "You've been invited to join %{course} as a **student** for the user account **%{email_address}**."
-      body_ta: "You've been invited to join %{course} as a **TA** for the user account **%{email_address}**."
-      body_teacher: "You've been invited to join %{course} as a **teacher** for the user account **%{email_address}**."
+      body_student: "Vabimo vas, da se udeležite izobraževalnega programa kot **študent** za uporabniški račun *%{email_address}*."
+      body_ta: "Vabimo vas, da se udeležite izobraževalnega programa kot **študent** za uporabniški račun *%{email_address}*."
+      body_teacher: "Vabimo vas, da se udeležite izobraževalnega programa kot **študent** za uporabniški račun *%{email_address}*."
       buttons: 
         accept: "Accept invitation"
         reject: "Reject invitation"
