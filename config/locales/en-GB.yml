@@ -139,7 +139,7 @@ en-GB:
     turnitin_pledge: "This assignment submission is my own, original work"
   account_97b34646: Račun
   account_authorization_config: 
-    default_delegated_login_handle_name: Login
+    default_delegated_login_handle_name: Prijava
     default_login_handle_name: E-naslov
   account_authorization_config/ldap: 
     test_bind_failed: "Failed to bind with the following error: %{error}"
@@ -1401,7 +1401,7 @@ en-GB:
         default: 
           unpublishd_courses: 
             text: "This report shows all the courses for a given term that are not published. The resulting csv file will have one row per course and will show the course ID, course SIS ID, course short name, course name, course start and end dates."
-    unrecognized_time_zone: "'%{timezone}' is not a recognised time zone"
+    unrecognized_time_zone: "'%{timezone}‘ ni registriran časovni pas"
     unused_courses_csv_description: 
       account_reports: 
         unused_courses: 
@@ -1590,7 +1590,7 @@ en-GB:
       unhandled: "Oops! The last request didn't work out."
     links: 
       details: details...
-      login: Login
+      login: Prijava
     no_text: "No text"
   alerts: 
     alert: 
@@ -1664,7 +1664,7 @@ en-GB:
   all_students_have_taken_the_survey_494f9f42: "All students have taken the survey"
   all_submissions_must_have_a_selected_grade_3a84e5a9: "All submissions must have a selected grade."
   all_terms_cd27b0fb: "All terms"
-  all_timezones_5e8afa7b: "All Time zones"
+  all_timezones_5e8afa7b: "Vsi časovni pasovi"
   all_weights_must_be_greater_than_or_equal_to_0_cc2dcdf1: "All weightings must be greater than, or equal to 0"
   allow_a_moderator_to_review_multiple_independent_g_752c4b90: "Allow a moderator to review multiple independent grades for selected submissions"
   allow_bulk_grade_export_to_sis_e11a6e66: "Allow bulk grade export to SIS"
@@ -3034,7 +3034,7 @@ en-GB:
     filter: Filter
     find_user: "Find User"
     import: Import
-    login: Login
+    login: Prijava
     manage_rubrics: "Manage rubrics"
     masquerade: "Masquerade as user"
     ok: OK
@@ -3610,7 +3610,7 @@ en-GB:
   choose_a_color_or_course_nickname_or_move_course_c_dd23f754: "Izberite barvo ali vzdevek za izobraževalni program ali premaknite kartico izobraževalnega programa %{course}"
   choose_a_course_home_page_8059c7b: "Choose a course home page"
   choose_a_csv_file_to_upload_9644480c: "Choose a CSV file to upload:"
-  choose_a_timezone_d9c52998: "Choose a time zone"
+  choose_a_timezone_d9c52998: "Izberite časovni pas"
   choose_an_authentication_service_47dc8875: "Choose an authentication service"
   choose_and_publish_980812cb: "Choose and publish"
   choose_assignment_b0132c5e: "-- Choose assignment --"
@@ -3858,7 +3858,7 @@ en-GB:
   common_cartridge_file_description: "Common Cartridge 1.x Package"
   common_cartridge_html_file_to_page_conversion_7bf9678: "Common Cartridge HTML File to Page Conversion"
   common_cartridge_name: "Common Cartridge Importer"
-  common_timezones_2b00baba: "Common time zones"
+  common_timezones_2b00baba: "Pogosti časovni pasovi"
   communicate_to_your_students_exactly_what_will_be__57a679c5: |-
       Communicate to your students exactly what will be required
       of them throughout the course in chronological order. Generate a
@@ -3886,7 +3886,7 @@ en-GB:
         new_account: "No"
         ? "no"
         : "No"
-        register: Register
+        register: Registracija
         transfer_enrollment: "Transfer enrolment"
         ? "yes"
         : "Yes"
@@ -3908,19 +3908,19 @@ en-GB:
             Which is you?
         none_of_these: "None of these, I'm a new user"
         register: "In order to set up your account, we'll need a little more information."
-        register_with_course: "In order to finish signing you up for the course **%{course}**, we'll need a little more information."
+        register_with_course: "Za vpis v izobraževalni program **%{course}** potrebujemo še nekaj podatkov."
         wrong_account: "The invitation for %{course} was sent to **%{invited_user}**, but you are currently logged in as **%{current_user}**"
       labels: 
         password: Password
-        subscribe_to_emails: "I want to receive information, news and tips from Instructure"
-        time_zone: "Time Zone"
-        unique_id: Login
-      page_title: "Register %{email}"
+        subscribe_to_emails: "Želim prejemati informacije in obvestila s portala Forum Akademija"
+        time_zone: "Časovni pas"
+        unique_id: Prijava
+      page_title: "Registracija %{email}"
       titles: 
         welcome_aboard: "Dobrodošli!"
     confirm_failed: 
-      details: "It looks like you may have already confirmed your registration. Try *logging in* with the email address and password you registered. If you can't remember your password, click the \"Forgot Password\" link and you should get a new link that you can use to log in and reset your password."
-      feedback: "If you keep having problems, click the \"Help\" link below to search the guides or to let us know what's going on."
+      details: "Najbrž ste že potrdili svojo registracijo. Poskusite **se prijaviti** s svojim e-naslovom in geslom, ki ste si ga izbrali. Če se svojega gesla ne morete spomniti, kliknite na povezavo za ponastavitev gesla in na svoj e-naslov boste prejeli povezavo, s katero boste lahko ponastavili svoje geslo."
+      feedback: "Če imate še vedno težave, kliknite povezavo »Pomoč« spodaj ali nam sporočite, kaj se dogaja."
       page_title: "Registration confirmation failed"
       titles: 
         problems_with_registration: "Problem with registration"
@@ -5630,7 +5630,7 @@ en-GB:
         sis_source_id: "SIS ID"
         start_at: Starts
         storage_quota: "File storage"
-        time_zone: "Time zone"
+        time_zone: "Časovni pas"
         turnitin_comments: "Turnitin comments"
       language_overrides_preferences: "This will override any user/system language preferences. This is only recommended for foreign language courses"
       links: 
@@ -6284,7 +6284,7 @@ en-GB:
       invalid_email: "Invalid email address"
       personalizing: Personalising...
       ready: Ready!
-      registered_successfully: "Registered successfully!"
+      registered_successfully: "Uspešna registracija!"
       specify_location: "Please specify your geographic location"
       try_again: "Try again"
       you_must_agree_to_terms: "You must agree to the Terms of Use"
@@ -9451,7 +9451,7 @@ en-GB:
   if_you_configure_settings_that_cause_you_to_not_be_13d4cbbf: "If you configure settings that prevent you from being able to log in, you can directly access regular Canvas login at %{url}"
   if_you_do_not_select_usage_rights_now_this_file_wi_40c42125: "If you do not select usage rights now, this file will be unpublished after it's uploaded."
   if_you_enable_this_feature_be_sure_that_your_sales_566967e6: "If you enable this feature, ensure that your sales-force account has these custom fields added exactly with the names in the left column of the table"
-  if_you_keep_having_problems_click_the_link_link_be_a4d695eb: "If you keep having problems, click the '%{link}' link below to search guides or to let us know what's going on."
+  if_you_keep_having_problems_click_the_link_link_be_a4d695eb: "Če imate še vedno težave, nam sporočite, kaj se dogaja."
   if_you_leave_the_zip_file_download_currently_being_c47c1dfb: "If you leave, the zip file download currently being prepared will be cancelled."
   if_you_made_changes_to_the_student_submission_file_e006d49b: |-
       If you made changes to student submission files you downloaded
@@ -10226,7 +10226,7 @@ en-GB:
         logout_response_redirect_from_idp: "Received LogoutResponse from IdP"
         logout_response_redirect_to_idp: "Sending LogoutResponse to IdP"
         redirect_from_idp: "Received LoginResponse from IdP"
-  login_6f3d6249: Login
+  login_6f3d6249: Prijava
   login_attribute_731a8181: "Login attribute"
   login_button_661b410a: "Login button"
   login_button_text_c958250f: "Login button text"
@@ -13213,7 +13213,7 @@ en-GB:
   other_1c6d9c79: Other
   other_carrier_45531207: "Other network"
   other_ddacb37d: other
-  other_timezones_42530564: "Other time zones"
+  other_timezones_42530564: "Drugi časovni pasovi"
   out_of_formattedoutof_e08e90d5: "od  %{formattedOutOf}"
   out_of_n_assignment_points_possible_3b026ea9: "od %{n_assignment.points_possible} točk"
   out_of_points_37a749d7: "(od %{points})"
@@ -14174,7 +14174,7 @@ en-GB:
         inbox_opt_out: "Conversations Inbox Opt-out"
         linkedin_access: "LinkedIn access"
         loading_images: "Loading images..."
-        login: Login
+        login: Prijava
         organization: Organisation
         other_services: "Other services"
         purpose: Purpose
@@ -14211,7 +14211,7 @@ en-GB:
         show_user_services: "Let fellow course/group members see which services I've linked to my profile"
         skype_name: "Skype name"
         sortable_name: "Sortable name"
-        time_zone: "Time Zone"
+        time_zone: "Časovni pas"
         token: Token
         token_application: App
         token_created: Created
@@ -14248,7 +14248,7 @@ en-GB:
       page_title: "User settings"
       profile_pictures: "Select the image you'd like to use as your profile pic, or upload a new image:"
       skype_description: "Skype offers free online voice and video calls. Lots of students use Skype as a free, easy way to communicate. If you register your Skype Name and enable visibility, then other students can easily find your contact and call or add you using Skype."
-      subscribe_to_emails: "I want to receive information, news and tips from Instructure"
+      subscribe_to_emails: "Želim prejemati informacije in obvestila s portala Forum Akademija"
       titles: 
         access_token_details: "Access token details"
         authorize_google_docs: "Authorise Google Docs"
@@ -18588,7 +18588,7 @@ en-GB:
   time_left_in_your_instant_trial_5dd0392b: "%{time} left in your Instant Trial"
   time_left_in_your_instant_trial_extend_now_afb9bd2f: "%{time} left in your Instant Trial *(extend now)*"
   time_limit_a6f1a51e: "Time limit"
-  time_zone_f56f5183: "Time zone"
+  time_zone_f56f5183: "Časovni pas"
   time_zones: 
     abu_dhabi: "Abu Dhabi"
     adelaide: Adelaide
@@ -19395,7 +19395,7 @@ en-GB:
         password_confirmation: "Confirm password"
         sis_id: "SIS ID"
         sis_user_id: "SIS ID"
-        unique_id: Login
+        unique_id: Prijava
       more: več ...
       never: never
       none: brez
@@ -19438,7 +19438,7 @@ en-GB:
         profile_picture: "Profile picture"
         short_name: "Display name"
         sortable_name: "Sortable name"
-        time_zone: "Time Zone"
+        time_zone: "Časovni pas"
       merge_with_another_user: "Merge with another user"
       none: None
       remove_avatar: "Remove avatar picture"
