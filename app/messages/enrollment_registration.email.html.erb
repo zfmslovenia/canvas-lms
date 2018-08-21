@@ -16,7 +16,7 @@
 <% website = HostUrl.context_host(asset.course) %>
 
 <p>
-  <%= t :body, "You've been invited to participate in a class at %{website}.  The class is called %{course}. Course role: %{role_type}",
+  <%= t :body, "You've been invited to participate in a class at %{website}.  The class is called %{course}.",
       :website => website, :course => asset.course.name, :role_type => asset.readable_role_name %>
 </p>
 
