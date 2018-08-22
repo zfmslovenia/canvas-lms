@@ -3907,11 +3907,11 @@ en-GB:
             
             Which is you?
         none_of_these: "None of these, I'm a new user"
-        register: "In order to set up your account, we'll need a little more information."
+        register: "Za pripravo računa potrebujemo še nekaj podatkov."
         register_with_course: "Za vpis v izobraževalni program **%{course}** potrebujemo še nekaj podatkov."
         wrong_account: "The invitation for %{course} was sent to **%{invited_user}**, but you are currently logged in as **%{current_user}**"
       labels: 
-        password: Password
+        password: Geslo
         subscribe_to_emails: "Želim prejemati informacije in obvestila s portala Forum Akademija"
         time_zone: "Časovni pas"
         unique_id: Prijava
@@ -4272,7 +4272,7 @@ en-GB:
     web_ct: 
       cancel: Prekliči
       get_courses: "Get Courses"
-      password: Password
+      password: Geslo
       select_school: "Select School"
       username: Uporabniško ime
     web_ct_course_list: 
@@ -10125,7 +10125,7 @@ en-GB:
   locked_until_mastery_path_is_processed_for_item_na_48766cf7: "Locked until mastery path is processed for \"%{item_name}\""
   locked_until_unlock_date_498ead5f: "Locked until %{unlock_date}"
   locking_91f476a5: Locking...
-  log_in_c9e240ef: "Log in"
+  log_in_c9e240ef: "Prijava"
   log_on_url_fc166e4c: "Log on URL"
   log_out_379ba28a: "Odjavi se"
   log_out_url_2605c2c1: "Url za odjavo"
@@ -10134,51 +10134,51 @@ en-GB:
   login: 
     canvas: 
       forgot_password_link: 
-        dont_know_password: "Forgot Password?"
+        dont_know_password: "Pozabili geslo?"
       legacy_login_content: 
-        back_to_login: "Back to Login"
+        back_to_login: "Nazaj na prijavo"
         browse_courses: "Browse courses"
         buttons: 
-          request_password: "Request Password"
+          request_password: "Novo geslo"
         labels: 
-          password: Password
-          remember_me: "Stay signed in"
-        log_in: "Log In"
-        login_handle: "Enter your %{login_handle_name} and we will send you a link to change your password."
+          password: Geslo
+          remember_me: "Ostanite prijavljeni"
+        log_in: "Prijava"
+        login_handle: "Vpišite vaš %{login_handle_name} in poslali vam bomo povezavo za ponastavitev gesla."
       mobile_login: 
-        back_to_login: "Back to login"
+        back_to_login: "Nazaj na prijavo"
         buttons: 
-          request_password: "Request password"
-        dont_know_password: "Forgot  password?"
-        log_in: "Log in"
-        login_handle: "Enter your %{login_handle_name} and we will send you a link to change your password."
-        password: Password
+          request_password: "Novo geslo"
+        dont_know_password: "Pozabili geslo?"
+        log_in: "Prijava"
+        login_handle: "Vpišite vaš %{login_handle_name} in poslali vam bomo povezavo za ponastavitev gesla."
+        password: Geslo
         sending: sending...
       new: 
-        back_to_login: "Back to login"
+        back_to_login: "Nazaj na prijavo"
         browse_courses: "Browse courses"
         buttons: 
-          request_password: "Request password"
+          request_password: "Novo geslo"
         coenrollment_banner: "*Parent of a Canvas User?* **Click here for an account**"
         dont_know_password: "Don't know your password?"
         labels: 
-          password: Password
-          remember_me: "Stay signed in"
-        log_in: "Log in"
+          password: Geslo
+          remember_me: "Ostanite prijavljeni"
+        log_in: "Prijava"
         login_handle: "Vpišite vaš %{login_handle_name} in poslali vam bomo povezavo za ponastavitev gesla."
-        page_title: "Log in to canvas"
+        page_title: "Prijava v sistem"
         register_for_canvas: "*Need a Canvas account?* **Click here. It's free!**"
       new_login_content: 
         ? "User Research"
         : "User Research"
-        back_to_login: "Back to Login"
+        back_to_login: "Nazaj na prijavo"
         browse_courses: "Browse courses"
         buttons: 
-          request_password: "Request Password"
+          request_password: "Novo geslo"
         labels: 
-          password: Password
-          remember_me: "Stay signed in"
-        log_in: "Log In"
+          password: Geslo
+          remember_me: "Ostanite prijavljeni"
+        log_in: "Prijava"
         login_handle: "Vpišite vaš %{login_handle_name} in poslali vam bomo povezavo za ponastavitev gesla."
         open_source_learning_management_system: "Odprtokodni LMS"
     logout_confirm: 
@@ -13104,13 +13104,13 @@ en-GB:
         allow_application: "Allow %{app_name} to access your account."
         email: "Your email address is %{email}."
         login_name: "You are authorising this app as %{user_name}."
-      login: "Log in"
+      login: "Prijava"
       page_title: "App login"
       remember_auth: "Remember authorisation"
   object_type_e4f3bbeb: "Object Type"
   observees: 
     being_observed: "Students being observed"
-    new_observee_password: Password
+    new_observee_password: Geslo
     new_observee_username: Uporabniško ime
     observee_added: "Now observing %{user}"
     observing: Observing
@@ -13449,7 +13449,7 @@ en-GB:
   participations_1823832d: Participations
   pass_2a8c4f07: pass
   pass_fail_3d9461b0: Pass/Fail
-  password_8a271b1c: Password
+  password_8a271b1c: Geslo
   past_14da759a: Past
   past_collaborations_1241938f: "Past collaborations"
   past_terms_4b6ec40e: "Past Terms"
@@ -13942,7 +13942,7 @@ en-GB:
       domain_description: "(e.g. mycompany.wimba.com)"
       labels: 
         domain: Domain
-        password: Password
+        password: Geslo
         username: Uporabniško ime
     yo: 
       description: "Just Yo"
@@ -13960,7 +13960,7 @@ en-GB:
         http_env: "HTTP ENV"
         message_backtrace: Backtrace
         message_type: "Message Type"
-        password: Password
+        password: Geslo
         request_context_id: "Request Context ID"
         shared_secret: "Shared Secret"
         site: Site
@@ -14201,11 +14201,11 @@ en-GB:
           approved_integrations: "Odobrene integracije"
         locale: Jezik
         name: "Celotno ime"
-        new_password: "New password"
-        old_password: "Old password"
+        new_password: "Novo geslo"
+        old_password: "Staro geslo"
         other_services: "Click any service below to register"
-        password: Password
-        password_for: "Password for"
+        password: Geslo
+        password_for: "Geslo za "
         purpose: Purpose
         short_name: "Display name"
         show_user_services: "Let fellow course/group members see which services I've linked to my profile"
@@ -14409,7 +14409,7 @@ en-GB:
   provisioning_title: Provisioning
   pseudonym: 
     errors: 
-      bad_credentials: "Invalid username or password"
+      bad_credentials: "Nepravilno uporabniško ime or geslo"
       common: "Can't use common passwords (e.g. \"password\")"
       invalid: "May only contain letters, numbers, or the following: %{characters}"
       mismatch: "Doesn't match"
@@ -14426,10 +14426,10 @@ en-GB:
   pseudonyms: 
     confirm_change_password: 
       buttons: 
-        update_password: "Update password"
+        update_password: "Posodobi geslo"
       labels: 
-        new_password: "New password"
-        password: Password
+        new_password: "Novo geslo"
+        password: Geslo
         password_confirmation: "Confirm new password"
         which_login_to_change: "Which login to change"
       page_title: "Change password"
@@ -14449,7 +14449,7 @@ en-GB:
       account_updated: "Account updated!"
       email_sent: "Confirmation email sent to %{email}, make sure to check your spam folder"
       link_invalid: "The link you used is no longer valid.  If you can't log in, click \"Don't know your password?\" to reset your password."
-      password_changed: "Password changed"
+      password_changed: "Geslo spremenjeno"
   pts_699bd9aa: Točk
   public_a749f507: Public
   public_course_index_59270e80: "Public Course Index"
@@ -14921,9 +14921,9 @@ en-GB:
       possible_answer: "Possible answer"
     ldb_login_popup: 
       email: E-naslov
-      log_in: "Log in"
+      log_in: "Prijava"
       logged_out_of_canvas: "*Bili ste odjavljeni* Za nadaljevanje se morate ponovno prijaviti."
-      password: Password
+      password: Geslo
       titles: 
         log_in: "Please log in"
     loading_more_questions: "loading more questions..."
@@ -15968,7 +15968,7 @@ en-GB:
       set_up_account: "Your account is almost set up. To finish, please check your email at *%{email}* to set your password."
       start_participating: "You can start participating now, but you must set a password before you can log back in."
     login: 
-      password: Password
+      password: Geslo
       remember_me: "Remember me"
       sign_in: "Sign in"
     parent_dialog: 
@@ -15985,8 +15985,8 @@ en-GB:
       labels: 
         join_code: "Join code"
         name: "Celotno ime"
-        password: Password
-        password_confirmation: "Confirm Password"
+        password: Geslo
+        password_confirmation: "Potrdite geslo"
         username: Uporabniško ime
     teacher_dialog: 
       agree_to_terms_and_pp: "You agree to the *terms of use* and acknowledge the **privacy policy**."
@@ -16717,7 +16717,7 @@ en-GB:
         next: Naprej
       getting_started: "You are enrolling in **%{course}**."
       labels: 
-        password: Password
+        password: Geslo
     authenticate_or_register: 
       buttons: 
         enroll_in_course: "Enrol in course"
@@ -16726,7 +16726,7 @@ en-GB:
       getting_started: "You are enrolling in **%{course}**."
       labels: 
         name: "Celotno ime"
-        password: Password
+        password: Geslo
       new_user: "I am a new user"
     confirm_enrollments: 
       buttons: 
@@ -17075,7 +17075,7 @@ en-GB:
     identity: 
       links: 
         inbox: Pošta
-        log_in: "Log In"
+        log_in: "Prijava"
         logout: Odjava
         settings: Nastavitve
         sign_up_as_teacher: "Sign up as a teacher"
@@ -18326,7 +18326,7 @@ en-GB:
   the_imported_question_text_for_this_question_was_t_83b4e6fb: "Imported question text for this question was too long."
   the_institution_you_logged_in_from_is_not_configur_5ceac41: "The institution you logged in from is not configured on this account."
   the_launched_tool_returned_an_invalid_resource_for_24512878: "The launched tool returned an invalid resource for this assignment"
-  the_link_you_used_has_expired_click_forgot_passwor_80569899: "The link you used has expired. Click \"Forgot Password?\" to get a new reset password link."
+  the_link_you_used_has_expired_click_forgot_passwor_80569899: "The link you used has expired. Kliknite na »Pozabili geslo« za novo povezavo."
   the_list_of_results_has_been_updated_46e3c733: "The list of results has been updated."
   the_material_is_in_the_public_domain_279c39a3: "The material is in the public domain"
   the_material_is_licensed_under_creative_commons_3242cb5e: "The material is licensed under Creative Commons"
@@ -19391,8 +19391,8 @@ en-GB:
         last_ip: "Last login IP"
         last_login: "Last login"
         last_request: "Last request"
-        password: Password
-        password_confirmation: "Confirm password"
+        password: Geslo
+        password_confirmation: "Potrdite geslo"
         sis_id: "SIS ID"
         sis_user_id: "SIS ID"
         unique_id: Prijava
@@ -20045,7 +20045,7 @@ en-GB:
   your_message_was_sent_977f6583: "Your message was sent!"
   your_name_7665e1d8: "Your Name"
   your_outcomes_were_successfully_imported_c5de884: "Your outcomes were successfully imported."
-  your_password_has_been_changed_df0e72aa: "Your password has been changed."
+  your_password_has_been_changed_df0e72aa: "Geslo je bilo spremenjeno"
   your_profile_photo_could_not_be_uploaded_you_may_h_1c90540c: "Your profile photo could not be uploaded. You may have exceeded your upload limit."
   your_search_encountered_the_following_errors_fc3e5e7f: 
     one: "Your search encountered the following error:"
