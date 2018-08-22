@@ -161,7 +161,7 @@ Which is you?", :count => @merge_opportunities.length %>
         </div>
       </div>
       <div class="control-group">
-        <%= blabel :user, :time_zone, :en => "Časovni pas", :class => 'control-label' %>
+        <%= blabel :user, :time_zone, "Časovni pas", :class => 'control-label' %>
         <div class="controls">
           <%= time_zone_select :user, :time_zone, I18nTimeZone.us_zones, :model => I18nTimeZone, :default => @pseudonym.account.default_time_zone %>
         </div>
