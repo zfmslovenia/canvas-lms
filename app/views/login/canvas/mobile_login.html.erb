@@ -53,9 +53,9 @@
 
   <div class="forgotBlock">
     <% if url = params[:canvas_login].blank? && @domain_root_account.try(:forgot_password_external_url) %>
-      <%= link_to t('dont_know_password', "Forgot Password?"), url, :class => 'forgot-password' %>
+      <%= link_to "Pozabljeno geslo?", url, :class => 'forgot-password' %>
     <% else %>
-      <a class="forgot-password flip-to-back"><%= t('dont_know_password', "Forgot Password?") %></a>
+      <a class="forgot-password flip-to-back">Pozabljeno geslo?</a>
     <% end %>
   </div>
 <% end %>
