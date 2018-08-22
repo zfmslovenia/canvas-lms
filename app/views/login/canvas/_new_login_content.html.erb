@@ -63,7 +63,7 @@
               <div class="ic-Login__actions-timeout">
                 <% unless session_timeout_enabled? %>
                     <%= f.check_box :remember_me, :checked => session[:used_remember_me_token] %>
-                    "Ostanite prijavljeni"
+                    Ostanite prijavljeni
                 <% end %>
 
                 <div class="ic-Login__forgot">
