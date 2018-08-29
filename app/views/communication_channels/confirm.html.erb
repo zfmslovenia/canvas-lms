@@ -131,7 +131,8 @@ Which is you?", :count => @merge_opportunities.length %>
     </div>
   <% elsif @enrollment && @pseudonym %>
     <div class="disambiguation_box"<%= ' style="display: none;"'.html_safe if params[:register] %>>
-      <p>Za udeležbo na programu potrebujete račun. Kliknite na spodnji gumb za ustvaritev uporabniškega računa"</p>
+      <p>Za udeležbo na programu potrebujete račun.</p>
+      <p style="font-weight:bold; color:red">Če ste že bili kdaj udeleženi na izobraževalnem programu v tem sistemu, kliknite "Uporabniški račun že imam". Če pa se izobraževalnega programa še niste udeležili, kliknite "Ustvari nov račun".
       
       <div class="button_box ic-Login-confirmation__actions">
         <a href="<%= login_url(:host => HostUrl.context_host(@root_account, @request.try(:host_with_port)), :confirm => @communication_channel.confirmation_code, :enrollment => @enrollment.uuid) %>" class="btn not_external"><%=  t 'buttons.have_account', "I Have a Canvas Account" %></a>
