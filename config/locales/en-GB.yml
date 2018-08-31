@@ -15933,7 +15933,7 @@ en-GB:
   ready_to_enroll_panel_46f45abb: "Ready to enrol panel"
   recaptcha_not_configured_3a6ef9ee: "Recaptcha not configured"
   recent_activity_51239235: "Zadnje aktivnosti"
-  recent_announcements_8becc59c: "Recent announcements"
+  recent_announcements_8becc59c: "Zadnja obvestila"
   recent_student: 
     last_logged_in: "last logged in %{last_login}"
   recentint_remainderint_decaying_average_79bc09fb: "%{recentInt}/%{remainderInt} Decaying Average"
