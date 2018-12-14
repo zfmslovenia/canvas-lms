@@ -2001,7 +2001,7 @@ en-GB:
   assessment_id_9a1476be: "assessment ID"
   assessment_not_yet_completed_e800a0a7: "Assessment not yet completed"
   assessment_question:
-    default_question_name: Question
+    default_question_name: Vprašanje
   assessment_question_6ad1766d: "assessment question"
   assessment_question_bank:
     default_imported_title: "Imported questions"
@@ -6183,14 +6183,14 @@ en-GB:
         one: "1 second"
         other: "%{count} seconds"
     prompts:
-      day: Day
-      hour: Hour
-      minute: Minute
+      day: Dan
+      hour: Ura
+      minute: Minuta
       month: Mesec
-      second: Seconds
-      year: Year
-  day_9d999bec: Day
-  day_s_7cc1231f: Day(s)
+      second: Sekund
+      year: Let
+  day_9d999bec: Dan
+  day_s_7cc1231f: Dan
   days_late_a3a721b0: "Days late"
   deactivate_key_developername_65bb2736: "Deactivate key %{developerName}"
   deactivate_this_key_3e79a2b5: "Deactivate this key"
@@ -12039,11 +12039,11 @@ en-GB:
         tweet: "Canvas Alert - grade change: %{date}"
     submission_graded:
       email:
-        body: "Vaša naloga, %{assignment}, je bila ocenjena."
+        body: "vaša naloga, %{assignment}, je bila ocenjena."
         excused: "This assignment has been excused."
         graded_date: "graded: %{date}"
         html:
-          body: "Vaša naloga, %{assignment}, je bila ocenjena."
+          body: "vaša naloga, %{assignment}, je bila ocenjena."
           excused: "This assignment has been excused."
           graded_date: "graded: %{date}"
           link_message: "Nalogo lahko pregledate tukaj"
@@ -12051,13 +12051,13 @@ en-GB:
           not_applicable: N/A
           score: "rezultat: %{score} od %{total}"
           score_pending_review: "score pending review by the teacher"
-          subject: "Assignment graded: %{assignment}, %{context}"
+          subject: "Ocena: %{assignment}, %{context}"
         link_message: "Nalogo lahko pregledate tukaj:"
         no_date_set: "No date set"
         not_applicable: N/A
         score: "rezultat: %{score} od %{total}"
         score_pending_review: "score pending review by the teacher"
-        subject: "Assignment graded: %{assignment}, %{context}"
+        subject: "Ocena: %{assignment}, %{context}"
       sms:
         graded_date: "graded: %{date}"
         more_info: "More info at %{url}"
@@ -12072,7 +12072,7 @@ en-GB:
         not_applicable: N/A
         score: "rezultat: %{score} od %{total}"
         score_pending_review: "score pending review by the teacher"
-        subject: "Assignment graded: %{assignment}, %{context}"
+        subject: "Ocena: %{assignment}, %{context}"
       twitter:
         no_date_set: "No Date Set"
         not_applicable: N/A
@@ -18200,7 +18200,7 @@ en-GB:
   taiwan_886_9a5b6bbf: "Taiwan (+886)"
   take_a_picture_d582acf1: "Take a picture"
   take_a_snapshot_now_5b622d85: "Take a snapshot now"
-  take_the_quiz_87214d7e: "Take the quiz"
+  take_the_quiz_87214d7e: "Začni s preizkusom znanja"
   take_the_quiz_again_8ea51a6c: "Ponovno opravljanje preizkusa znanja"
   take_the_survey_ada59508: "Take the survey"
   take_the_survey_again_24ce22c2: "Take the survey again"

@@ -12,9 +12,12 @@
   </a>
 <% end %>
 
+<p>Spoštovani,</p>
 <p><%= t :body, "Your assignment, %{assignment}, has been graded.", :assignment => asset.assignment.title %></p>
+<p><%= t :score, "score:  %{score} out of %{total}", :score => asset.score, :total => (asset.assignment.points_possible || t(:not_applicable, "N/A")) %>
+<p>Rezultate si lahko gledate v spletni učilnici v zavihku Ocene.</p>
 
-<p><%= t :graded_date, "graded: %{date}", :date => (datetime_string(force_zone(asset.graded_at)) rescue t(:no_date_set, "No Date Set")) %></p>
+<p>Vaša Založba Forum Media</p>
 
 <% if user.try(:send_scores_in_emails?, asset.assignment.context.root_account) %>
   <% if asset.excused? %>
