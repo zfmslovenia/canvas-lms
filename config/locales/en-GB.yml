@@ -2054,7 +2054,7 @@ en-GB:
       a_text_entry_box: "a text entry box"
       a_website_url: "a website url"
       external_tool: "an external tool"
-      on_paper: "on paper"
+      on_paper: "natisnjeno"
     titles:
       gpa_scale_explainer: "What is GPA scale grading?"
       grading_scheme_info: "View/edit grading scheme"
@@ -2440,7 +2440,7 @@ en-GB:
       overdue: "This assignment is overdue.  Do you still want to submit it?"
       record_before_submitting: "Record before submitting"
       submit_failed: "Submit failed, please try again"
-      submitting: V pošiljanju
+      submitting: "Pošilja se"
     multiple_due_dates: "Multiple due dates"
     name_is_required: "Name is required!"
     name_too_long: "Name is too long"
@@ -2549,7 +2549,7 @@ en-GB:
       no_submission: Nothing
       points: Točke
       submission_types: "File types"
-      submitting: V pošiljanju
+      submitting: "Pošilja se"
       turnitin: Turnitin
       turnitin_enabled: "Turnitin has been enabled for this assignment."
       turnitin_enabled_short: "(Turnitin enabled)"
@@ -2636,13 +2636,13 @@ en-GB:
         uploaded_data: File
         url: "Website URL"
       links:
-        add_another_file: "Add another file"
+        add_another_file: "Dodaj še eno datoteko"
         authorize_google_docs: "Authorise Google Docs access"
         authorize_google_drive: "Authorise Google Drive access"
-        find_file: "Click here to find a file you've already uploaded"
+        find_file: "Kliknite tukaj za iskanje datoteke, ki ste jo že naložili"
         submit:
           external_tool: More
-          file_upload: "File upload"
+          file_upload: "Nalaganje datoteke"
           google_doc: "Google Doc"
           media: Media
           text_entry: "Text entry"
@@ -2653,37 +2653,37 @@ en-GB:
         google_drives_auth_required: "Before you can submit assignments directly from Google Drive you need to authorise Canvas to access your Google Drive account:"
         media_recording_ready: "Ready to submit! Click 'Submit assignment' button to finish."
         media_recordings_disabled: "Media recordings are not enabled for this Canvas site, and you will not be able to submit these types of assignments. Please contact your instructor about changing the settings for this assignment, or your system administrator about enabling media recordings."
-        submitting: V pošiljanju
+        submitting: "Pošilja se"
         uploading: "Retrieving a copy of your Google Doc to submit for this assignment. This may take a little while, depending on the size of the file..."
       no_files: "No files"
       no_submission: "No submission selected"
-      submission_url: "Submission:"
+      submission_url: "Naloga:"
       titles:
         media_recordings_disabled: "Media recordings are not enabled for this Canvas site"
-      upload_or_choose_file: "Upload a file, or choose a file you've already uploaded."
+      upload_or_choose_file: "Naložite datoteko ali izberite datoteko, ki ste jo že naložili."
     submit_online_text_entry:
       additional_comments: "Dodatni komentarji"
       buttons:
-        submit_assignment: "Pošlji nalogo"
-      comments_placeholder: Comments...
+        submit_assignment: "Pošlji"
+      comments_placeholder: Opombe...
       instructions:
         online_text_entry: "Copy and paste or type your submission right here."
     submit_online_upload:
       additional_comments: "Dodatni komentarji"
       buttons:
-        submit_assignment: "Pošlji nalogo"
-      comments_placeholder: Comments...
+        submit_assignment: "Pošlji"
+      comments_placeholder: Opombe...
       errors:
         unacceptable_file_type: "This file type is not allowed. Accepted file types are: %{allowed_extensions_list}"
       labels:
-        uploaded_data: File
+        uploaded_data: Datoteka
       links:
-        add_another_file: "Add another file"
+        add_another_file: "Dodaj še eno datoteko"
         find_file: "Click here to find a file you've already uploaded"
       messages:
-        submitting: V pošiljanju
+        submitting: "Pošilja se"
       no_files: "No files"
-      upload_or_choose_file: "Upload a file, or choose a file you've already uploaded."
+      upload_or_choose_file: "Naložite datoteko ali izberite datoteko, ki ste jo že naložili."
     syllabus:
       page_title: "Učni načrt za %{course}"
     syllabus_content:
@@ -2780,12 +2780,12 @@ en-GB:
   attached_display_name_afa00c2e: "Attached: %{display_name}"
   attached_files_must_be_greater_than_0_bytes_7f57bee7: "Attached files must be greater than 0 bytes"
   attachment:
-    default_filename: File
+    default_filename: Datoteka
     errors:
       not_found: "File data could not be found"
-    feed_title: "File: %{title}"
-    feed_title_with_context: "File, %{course_or_group}: %{title}"
-    over_quota: "The downloaded file exceeds the quota."
+    feed_title: "Datoteka: %{title}"
+    feed_title_with_context: "Datoteka, %{course_or_group}: %{title}"
+    over_quota: "Naložena datoteka presega omejitev"
     title:
       migration_list: "Associated files"
     upload_error_invalid_response_code: "Invalid response code, expected 200 got %{code}"
@@ -5750,7 +5750,7 @@ en-GB:
       labels:
         assignments_weighting: "Assignments are weighted by group"
       no_groups: "No groups set up"
-      not_weighted: "Naloge niso utežene."
+      not_weighted: "Vse naloge so enako ovrednotene."
     statistics:
       active_students: "Active students"
       all_rubrics: "All rubrics"
@@ -6209,8 +6209,8 @@ en-GB:
   default_grade_cannot_be_set_to_ex_723caa59: "Default grade cannot be set to %{ex}"
   default_grading_scheme_894a0eb: "Default grading scheme"
   default_order_8c409051: "Default Order"
-  default_question_name: Question
-  default_question_text: "Question text"
+  default_question_name: Vprašanje
+  default_question_text: "Besedilo vprašanja"
   default_sis_sync_for_assignments_quizzes_grade_dis_3b2b4878: "Default SIS sync for assignments, quizzes, grade discussion"
   default_template_f2a759ed: "Default template"
   default_templates_are_used_as_starting_points_for__f06f9e33: "Default templates are used as starting points for new themes and cannot be deleted."
@@ -8096,7 +8096,7 @@ en-GB:
       dialog_buttons: Prekliči
       saving_settings: "Saving settings..."
       submit_comment: "Submit comment"
-      submitting: V pošiljanju
+      submitting: "Pošilja se"
     cancel_button: Prekliči
     canvadoc_expiring: "Your Canvas DocViewer session is expiring soon.  Please reload the window to avoid losing any work."
     click_to_change: "Click to test a different score"
@@ -14646,7 +14646,7 @@ en-GB:
       session_started: "Session started"
     inverted_table_view:
       headers:
-        question: Question
+        question: Vprašanje
     links:
       log_accessibility_warning: "Warning: For improved accessibility when using quiz Logs, please remain in the current stream view."
     loading: Loading...
@@ -14847,8 +14847,8 @@ en-GB:
     default_answer_comments: "Response if the student chooses this answer"
     default_answer_comments_on_match: "Response if the student matches this answer"
     default_comments_on_wrong_match: "Response if the user misses this match"
-    default_quesiton_name: Question
-    default_question_name: Question
+    default_quesiton_name: Vprašanje
+    default_question_name: Vprašanje
     default_quiz_title: Quiz
     default_response_to_essay: "Response to show student after they submit an answer"
     default_response_to_file_upload: "Response to show student after they submit an answer"
@@ -15011,7 +15011,7 @@ en-GB:
       title_edit: "Edit quiz"
     quiz_question:
       defaults:
-        question_name: Question
+        question_name: Vprašanje
     quiz_short_answer_length_error: "Answers for filling in the blank questions must be under 80 characters long"
     quiz_statistics:
       statistics_filename: "%{quiz_title} %{quiz_type} %{report_type} report"
@@ -15210,7 +15210,7 @@ en-GB:
           distractors: "Additional match possibilities (distractors)"
           missing_word_after: "Text to go after answers"
           points: točk
-          question: Question
+          question: Vprašanje
         links:
           add_another_answer: "Add another answer"
           need_help: "Need help?"
@@ -15338,7 +15338,7 @@ en-GB:
           one: "*%{student_name}* **gets 1 extra minute on each attempt**"
           other: "*%{student_name}* **gets %{count} extra minutes on each attempt**"
         student_n: "Student %{n}"
-        submitting: V pošiljanju
+        submitting: "Pošilja se"
         titles:
           change_user_extensions: "Change user extensions"
           extra_attempts: "additional extra attempts"
@@ -15705,7 +15705,7 @@ en-GB:
           next: Naprej
           out_of_time_submit: "V redu"
           previous: Nazaj
-          submit_quiz: "Oddaj preizkus znanja"
+          submit_quiz: "Oddaj"
         headers:
           draft_preview: "This is a preview of the draft version of the quiz"
           published_preview: "This is a preview of the published version of the quiz"
@@ -15813,7 +15813,7 @@ en-GB:
       question_unanswered: "Še ni odgovorjeno"
       saved_at: "Shranjeno ob %{t}"
       saving: Shranjujem ...
-      saving_not_needed: "Ni novih podatkov za shranjevanje. Last checked at %{t}"
+      saving_not_needed: "Ni novih podatkov za shranjevanje. Nazadnje preverjeno ob  %{t}"
       seconds_count:
         one: "1 Second"
         other: "%{count} Seconds"
@@ -18074,7 +18074,7 @@ en-GB:
   submissions_folders_must_be_created_in_user_or_gro_aba44f76: "submissions folders must be created in User or Group context"
   submit_a3cc6859: Pošlji
   submit_a_feature_idea_2d4baa3d: "Submit a Feature Idea"
-  submit_assignment_5799b4e3: "Submit Assignment"
+  submit_assignment_5799b4e3: "Oddaj"
   submit_comment_commenttext_8e5638d7: "Submit comment: %{commentText}"
   submit_comment_e5cc2718: "Submit comment"
   submit_media_file_f334c1ba: "Submit Media File"
@@ -18234,7 +18234,7 @@ en-GB:
         add_new_term: "Add New Term"
       messages:
         classes_in_term: "You can't delete a term that still has classes in it."
-        submitting: V pošiljanju
+        submitting: Za pošiljanje
       page_title: "%{account} Terms"
       prompts:
         delete: "Are you sure you want to delete this term?"
