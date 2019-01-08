@@ -2035,10 +2035,10 @@ en-GB:
       not_graded: "Not graded"
       pass_fail: Complete/incomplete
       percent: Percentage
-      points: Points
+      points: Točke
     group_assignment_must_have_group_set: "Please select a group set for this assignment"
     labels:
-      due: Due
+      due: Rok
     name_is_required: "Name is required!"
     name_too_long: "Name is too long"
     points_possible_number: "Points possible must be a number"
@@ -2048,9 +2048,9 @@ en-GB:
     submission_types:
       a_content_page: "a content page"
       a_discussion_post: "a discussion post"
-      a_file_upload: "a file upload"
+      a_file_upload: "nalaganje datoteke"
       a_media_recording: "a media recording"
-      a_quiz: "a quiz"
+      a_quiz: "preizkus znanja"
       a_text_entry_box: "a text entry box"
       a_website_url: "a website url"
       external_tool: "an external tool"
@@ -2233,7 +2233,7 @@ en-GB:
       assignment: Assignment
       assignment_due_at: "Due:"
       assignment_name: "Name:"
-      assignment_points: "Points:"
+      assignment_points: "Točke:"
       assignment_type: "Type:"
       buttons:
         save_and_publish: "Save & publish"
@@ -2262,8 +2262,8 @@ en-GB:
       available: Available
       multiple_dates: "Multiple dates"
     date_due_column_view:
-      due: Due
-      due_date: Due
+      due: Rok
+      due_date: Rok
       multiple_dates: "Multiple dates"
     delete_group:
       cancel: Prekliči
@@ -2310,7 +2310,7 @@ en-GB:
       description: Description
       freeze_properties: "Lock assignment properties when copied"
       notify_content_change: "Notify users that this content has changed"
-      points_possible: Points
+      points_possible: Točke
       post_to_sis: "Include this assignment's grades when posting to your school's Student Information System"
       warnings:
         assignment_is_frozen: "Some settings have been administratively locked."
@@ -2375,7 +2375,7 @@ en-GB:
         not_graded: "Not graded"
         pass_fail: Complete/Incomplete
         percent: Percentage
-        points: Points
+        points: Točke
       view_grading_scheme: "View grading scheme"
     group_category_selector:
       differentiated_groups_warning: "Differentiated group assignments may yield unexpected results."
@@ -2533,8 +2533,8 @@ en-GB:
       date_time_by: "%{date} do %{time}"
       defaults:
         no_content: "No Content"
-      due: Due
-      due_at: Due
+      due: Rok
+      due_at: Rok
       for: For
       links:
         add_rubric: Rubric
@@ -2547,7 +2547,7 @@ en-GB:
       no_due_date: "Brez roka"
       no_points: None
       no_submission: Nothing
-      points: Points
+      points: Točke
       submission_types: "File types"
       submitting: V pošiljanju
       turnitin: Turnitin
@@ -2576,20 +2576,20 @@ en-GB:
       links:
         submission:
           details: "Podatki o oddaji"
-          download_attachment: "Download %{attachment_display_name}"
+          download_attachment: "Prenesi %{attachment_display_name}"
           view_original_page: "View the original page"
           view_quiz: "View the quiz submission"
           view_survey: "View the survey submission"
         view_rubric_evaluation: "View rubric evaluation"
       messages:
-        no_comments: "No comments"
+        no_comments: "Ni komentarjev"
         submission_late_timestamp: "%{submitted_at} (late)"
       titles:
         assigned_peer_reviews: "Assigned peer reviews"
         comments: "Comments:"
-        submission: Submission
-        submission_not_turned_in: "Not turned in!"
-        submission_turned_in: "Turned in!"
+        submission: Oddaja
+        submission_not_turned_in: "Ni oddano!"
+        submission_turned_in: "Oddano!"
     submission_types_form:
       advanced_turnitin_settings: "Advanced Turnitin settings"
       advanced_vericite_settings: "Advanced VeriCite Settings"
@@ -3158,7 +3158,7 @@ en-GB:
     sample_final_answer: "This value is an example final answer for this question type"
   calendar:
     agenda_view:
-      due: Due
+      due: Rok
       loading: Loading
       no_events: "*Ni dogodkov po tem datumu.*"
       starts_at: "Starts at"
@@ -3852,7 +3852,7 @@ en-GB:
   comment_by_replying_to_this_message_or_join_the_co_26d42fde: "To comment, reply to this message or join the conversation using this link: %{link}."
   comment_by_replying_to_this_message_or_join_the_co_52b5ac1c: "Comment by replying to this message, or join the conversation using this link: %{link}. When allowed, if you need to include an attachment, please log in to Canvas and reply to the discussion."
   comment_by_replying_to_this_message_or_join_the_co_886bc612: "Comment by replying to this message, or join the conversation using this link: %{link}When allowed, if you need to include an attachment, please log in to Canvas and reply to the announcement."
-  comments_e07bcbe3: Comments
+  comments_e07bcbe3: Komentarji
   common_cartridge_description: "This enables converting a Common Cartridge packages in the intermediary json format to be imported"
   common_cartridge_display: "Common Cartridge"
   common_cartridge_file_description: "Common Cartridge 1.x Package"
@@ -4288,7 +4288,7 @@ en-GB:
     no_title: "Brez naslova"
   content_tags:
     defaults:
-      comments: Comments
+      comments: Komentarji
       page_title: "Naslov strani"
     prompts:
       delete_tag: "Are you sure you want to delete this tag?"
@@ -4994,7 +4994,7 @@ en-GB:
       online: Online
     course_not_found: "The course was not found"
     csv:
-      comments: Comments
+      comments: Komentarji
       current_score: "Trenutni rezultat"
       final_grade: "Final grade"
       final_score: "Končni rezultat"
@@ -5438,7 +5438,7 @@ en-GB:
         availability_dates: "Availability dates"
         content: Content
         due_dates: "Roki"
-        points: Points
+        points: Točke
     notices:
       backup_restored: "Backup successfully restored!"
       concluded: "Course successfully concluded"
@@ -5927,7 +5927,7 @@ en-GB:
       student:
         count: "Bottom student count"
     column_delimiter: ","
-    comments: Comments
+    comments: Komentarji
     correct:
       bottom:
         student:
@@ -6466,7 +6466,7 @@ en-GB:
   discussion_topics:
     assignment_details:
       available_from: "Available from"
-      due: Due
+      due: Rok
       due_date: "rok do %{date}"
       for: For
       graded_discussion_and_points:
@@ -6487,7 +6487,7 @@ en-GB:
     discussion:
       close_for_comments: "Close for comments"
       delete: Izbriši
-      due: Due
+      due: Rok
       graded_discussion: "Graded discussion:"
       last_post_date: "Last post %{display_last_reply_at}"
       manage: Manage
@@ -6803,7 +6803,7 @@ en-GB:
   download_as_zip_5dae7f19: "Download as zipped file"
   download_assignment_submissions_41e50ee7: "Download assignment submissions"
   download_associated_files_f35dcb5e: "Download associated files"
-  download_c7ffdfb9: Download
+  download_c7ffdfb9: Prenos
   download_course_content_7f66edc9: "Download Course Content"
   download_epub_757cf0af: "Download ePub"
   download_errors_attchment_82ffea3f: "Download errors_attchment"
@@ -6826,7 +6826,7 @@ en-GB:
   dropdown_option_2_9766a346: "Dropdown option 2"
   dropped_38031953: Dropped
   dropped_for_grading_purposes_46256461: "Dropped for grading purposes"
-  due_a73610f6: Due
+  due_a73610f6: Rok
   due_assignment_due_date_time_5acdf3cf: "Rok: %{assignment_due_date_time}"
   due_assignment_due_date_time_607f2e1d: "rok: %{assignment_due_date_time}"
   due_at: "cannot be blank when post to Sis is checked"
@@ -7332,7 +7332,7 @@ en-GB:
         wizard: "Getting started wizard"
       login_required: "You must be *logged in* to make comments on this page."
       new_section: "New section"
-      no_comments: "No comments"
+      no_comments: "Ni komentarjev"
       no_files: "No files uploaded"
       no_submissions: "No submissions found"
       private_comments: "Right now only you can see the comments for this page. You can make the comments public if you like by *changing the settings for this page*."
@@ -7812,7 +7812,7 @@ en-GB:
         folder_locked: "The folder \"%{folder},\" which includes this file, has been locked."
     no_preview:
       file_previews:
-        download_file: "Download *filename*"
+        download_file: "Prenesi *filename*"
         no_preview_available: "No preview is available for this file."
   file_rename_form:
     back: Back
@@ -8429,7 +8429,7 @@ en-GB:
         one: "1 comment"
         other: "%{count} comments"
       comment_count_screenreader: "Read comments"
-      comments: Comments
+      comments: Komentarji
       disabled_for_student_view: "Test Student scores are not included in grade statistics."
       expand: "Expand all learning mastery outcome groups."
       expand_title: Expand
@@ -8438,7 +8438,7 @@ en-GB:
       headers:
         anonymous: "Marked anonymously"
         details: Details
-        due: Due
+        due: Rok
         grades: "Grades for %{student}"
         name: Name
         out_of: "Od"
@@ -8456,7 +8456,7 @@ en-GB:
       learning_outcomes: "Learning Mastery"
       links:
         click_to_view: "Kliknite za ogled"
-        download: "Download %{attachment}"
+        download: "Prenesi %{attachment}"
         revert_score: "Revert to actual score"
         show_details: "Pokaži vse podrobnosti"
       media_comment: "This is a media comment,"
@@ -12381,7 +12381,7 @@ en-GB:
       manage: Manage
       module_item:
         available: Available
-        due: Due
+        due: Rok
         points_abbreviated: točk
     module_view:
       module:
@@ -13263,7 +13263,7 @@ en-GB:
       edit_criterion_rating_title: "Edit \"%{description} criterion rating"
       insert_criterion_rating: "Insert criterion rating"
       insert_rating: Insert
-      points: Points
+      points: Točke
       pts: točk
       rating_description: "Criterion rating description"
     dont_import: "This group cannot be imported."
@@ -13969,8 +13969,8 @@ en-GB:
         user_roles: "User Roles"
         user_severity: "User Severity"
         username: Uporabniško ime
-  points_bb475533: Points
-  points_bceb5005: points
+  points_bb475533: Točke
+  points_bceb5005: Točke
   points_changed_exceptions_b0c771f7: "Points changed exceptions:"
   points_for_rating_tier_index_not_present_338d94e6: "Points for rating tier %{index} not present"
   points_for_tier_index_must_be_less_than_points_for_9683c02: "Points for tier %{index} must be less than points for prior tier (%{points} is greater than %{prior})"
@@ -14758,7 +14758,7 @@ en-GB:
       discrimination_index_dialog_title: "The Discrimination Index Chart"
       discrimination_index_dialog_trigger: "Learn more about the Discrimination Index."
     discrimination_index_help: "* This metric provides a measure of how well a single question can tell the difference (or discriminate) between students who do well on an exam and those who do not. * ** It divides students into three groups based on their score on the whole quiz and displays those groups by who answered the question correctly. ** *** ****More information is available here.**** ***"
-    download_submissions: "Download all files"
+    download_submissions: "Prenesi vse datoteke"
     duration_in_hours:
       one: "1 hour"
       other: "%{count} hours"
@@ -14909,7 +14909,7 @@ en-GB:
       question:
         instructions: "Navodila za vprašanja, polje z obogatenim besedilom"
       quiz:
-        instructions: "Navodila za preizkus znanja, polje z obogatenim besedilom"
+        instructions: "Navodila, polje z obogatenim besedilom"
     labels:
       answer_text: "Answer text"
       comments_on_answer: "Comments, if the user chooses this answer"
@@ -15126,7 +15126,7 @@ en-GB:
           add_questions_to_group: "Add questions to the question group"
           group_name: "Group name"
           group_pick_count: Pick
-          group_points: Points
+          group_points: Točke
         links:
           clear_all_banks: "Clear all"
           manage_question_banks: "Manage course question banks"
@@ -15389,7 +15389,7 @@ en-GB:
           ip_addresses: "Filter by IP address"
           ip_filter: "Filter IP Addresses"
           never_hide_results: "Let students see their quiz responses"
-          quiz_instructions: "Navodila za preizkus znanja"
+          quiz_instructions: "Navodila"
           quiz_notify: "Notify users this quiz has changed"
           quiz_score: Rezultat
           require_access_code: "Require an access code"
@@ -15499,7 +15499,7 @@ en-GB:
         unlimited: Neomejeno
       quiz_edit_details:
         labels:
-          quiz_instructions: "Navodila za preizkus znanja"
+          quiz_instructions: "Navodila"
           quiz_score: Rezultat
       quiz_right_side:
         attempts_left:
@@ -15528,7 +15528,7 @@ en-GB:
         available_from: "Available from"
         cant_go_back: "Lock questions after answering"
         code: "Access code"
-        due: Due
+        due: Rok
         filter: "IP filter"
         for: For
         group: "Delovna skupina"
@@ -15537,7 +15537,7 @@ en-GB:
         multiple_attempts: "Multiple attempts"
         no_time_limit: "No time limit"
         one_question_at_a_time: "One question at a time"
-        points: Points
+        points: Točke
         quiz_type: "Quiz type"
         require_lockdown_browser: "Require Respondus LockDown Browser"
         require_lockdown_browser_for_results: "Required to view quiz results"
@@ -15588,7 +15588,7 @@ en-GB:
           attempts_so_far: "Attempts so far"
           latest_submission: "Latest submission"
           quiz_details: "Quiz details"
-          quiz_due: Due
+          quiz_due: Rok
           quiz_time_limit: "Time limit"
           survey_details: "Survey details"
         no_details: "No details"
@@ -15609,7 +15609,7 @@ en-GB:
           quiz_details: "Quiz details"
         labels:
           question_details: "Show question details"
-          quiz_instructions: "Navodila za preizkus znanja"
+          quiz_instructions: "Navodila"
         links:
           back_to_quiz_page: "Back to quiz page"
       refresh_quiz_after_popup:
@@ -15715,7 +15715,7 @@ en-GB:
         logged_out_of_canvas: "*Bili ste odjavljeni* Za nadaljevanje se morate ponovno prijaviti."
         login_required: "Zahtevana je prijava"
         not_saved: "Ni shranjeno"
-        quiz_instructions: "Navodila za preizkus znanja"
+        quiz_instructions: "Navodila"
       take_quiz_in_popup:
         headers:
           loading_in_lockdown: "Loading quiz in Respondus LockDown Browser"
@@ -15864,8 +15864,8 @@ en-GB:
   ratio_responded_correctly_6d890107: "%{ratio}% responded correctly"
   re_activate_user_f7d77c9a: "Re-activate user"
   re_reported_b9671073: Re-reported
-  re_submit_assignment_b3e2bd28: "Re-submit Assignment"
-  re_upload_submissions_125e415d: "Re-upload submissions"
+  re_submit_assignment_b3e2bd28: "Ponovno pošlji"
+  re_upload_submissions_125e415d: "Ponovni naloži"
   re_upload_submissions_form:
     buttons:
       upload: "Naloži datoteke"
@@ -16857,7 +16857,7 @@ en-GB:
         name: Ime
       percent_of_grade: "%{percent} % of grade"
     assignment:
-      due_at: "%{date} at %{time}"
+      due_at: "%{date} ob %{time}"
       graded_count: "%{graded_count} graded"
       links:
         delete_assignment: Izbriši
@@ -17279,7 +17279,7 @@ en-GB:
       options:
         select: "[ Select ]"
       points: "%{points} točk"
-      points_label: Points
+      points_label: Točke
       points_out_of2: "%{points} / %{total} točk"
       titles:
         linked_to_learning_outcome: "This criterion is linked to a learning outcome"
@@ -17957,7 +17957,7 @@ en-GB:
   submission_details_1d2e8a78: "Submission Details…"
   submission_details_dialog:
     add_a_comment: "Add a comment"
-    comments: Comments
+    comments: Komentarji
     grade_form_label: "Grade:"
     labels:
       group_comment: "Pošlji komentar vsem v skupini"
@@ -18202,8 +18202,8 @@ en-GB:
   take_a_snapshot_now_5b622d85: "Take a snapshot now"
   take_the_quiz_87214d7e: "Začni s preizkusom znanja"
   take_the_quiz_again_8ea51a6c: "Ponovno opravljanje preizkusa znanja"
-  take_the_survey_ada59508: "Take the survey"
-  take_the_survey_again_24ce22c2: "Take the survey again"
+  take_the_survey_ada59508: "Izpolni anketo"
+  take_the_survey_again_24ce22c2: "Ponovno izpolni anketo"
   teacher_5a73b637: Teacher
   teacher_s_fdefb2c: Teacher(s)
   teachers_52e2423f: Teachers
