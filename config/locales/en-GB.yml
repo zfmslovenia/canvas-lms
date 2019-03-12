@@ -5956,7 +5956,7 @@ en-GB:
       distractor: "Point biserial of distractor %{num}"
     points_possible: "Points possible"
     question:
-      id: "Question ID"
+      id: "ID vprašanja"
       title: "Naslov vprašanja"
     quiz:
       question:
@@ -14653,7 +14653,7 @@ en-GB:
     navigation:
       links:
         back_to_session_information: "Back to log"
-        question: "Question %{position}"
+        question: "Vprašanje %{position}"
       questions: Questions
     no_answer: "No answer"
     page_header: "Session information"
@@ -14661,7 +14661,7 @@ en-GB:
       essay:
         view_html_answer: "View HTML"
         view_plain_answer: "View plain"
-    question_header: "Question #%{position}"
+    question_header: "Vprašanje #%{position}"
     question_response_count:
       one: "This question was answered once."
       other: "This question was answered %{count} times."
@@ -14674,7 +14674,7 @@ en-GB:
       buttons:
         go_to_stream: "View Stream"
       headers:
-        question: "Question %{position}"
+        question: "Vprašanje %{position}"
         timestamp: Timestamp
       legend:
         dotted_circle: "Dotted circle"
@@ -14774,8 +14774,8 @@ en-GB:
     essay_score: "Score: %{score}"
     loading_questions: "Question statistics are being loaded. Please wait a while."
     no_answer: "No answer"
-    question_breakdown: "Question breakdown"
-    question_header: "Question %{position}"
+    question_breakdown: "Razlaga vprašanja"
+    question_header: "Vprašanje %{position}"
     quiz-stats-noshow-warning: "Even awesomeness has limits. We can't render statistics for this quiz, but you can download the reports."
     response_student_count:
       one: "1 student"
@@ -14971,10 +14971,10 @@ en-GB:
       message_sent: "Message sent!"
     question:
       positive_points: "Must be zero or greater"
-    question_colon: "Question:"
+    question_colon: "Vprašanje:"
     question_count:
-      one: "1 Question"
-      other: "%{count} questions"
+      one: "1 vprašanje"
+      other: "%{count} vprašanj"
     question_limit_reached: |-
         You have reached the maximum number of questions allowed for a quiz (%{count}/%{limit}).
 
@@ -14988,7 +14988,7 @@ en-GB:
         invalid_hide_results: "Skrivanje rezultatov ni veljavno"
         invalid_ip_filter: "IP filter is not valid"
         invalid_quiz_type: "Quiz type is not valid"
-      question_name_counter: "Question %{question_number}"
+      question_name_counter: "Vprašanje %{question_number}"
       types:
         quiz: Quiz
         survey: Survey
@@ -14998,7 +14998,7 @@ en-GB:
       errors:
         no_bank: "Couldn't find the question bank for quiz group %{group_name}"
         no_permissions: "User didn't have permission to reference question bank in quiz group %{group_name}"
-      question_group: "Question group"
+      question_group: "Skupina vprašanj"
     quiz_item_group_view:
       no_quizzes: "No quizzes found"
       no_surveys: "No surveys found"
@@ -15202,9 +15202,9 @@ en-GB:
           variable_precision: "Decimal places"
         label:
           question:
-            name: "Question name"
-            points: "Question point value"
-            type: "Question type"
+            name: "Vprašanje"
+            points: "Vrednost vprašanje"
+            type: "Tip vprašanja"
         labels:
           answers: Answers
           distractors: "Additional match possibilities (distractors)"
@@ -15232,7 +15232,7 @@ en-GB:
           numerical: "Numerical answer"
           short_answer: "Fill in the blank"
           text_only: "Text (no question)"
-          true_false: True/false
+          true_false: Pravilno/napačno
         show_possible_answers: "Show possible answers for %{question}"
         show_possible_answers_no_question: "Show possible answers for"
         titles:
